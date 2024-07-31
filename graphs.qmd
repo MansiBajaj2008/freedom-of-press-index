@@ -1,0 +1,38 @@
+---
+title: "America"
+execute:
+  echo: false
+---
+
+```{r}
+#| message: FALSE
+library(dplyr)
+library(tidyverse)
+library(tutorial.helpers)
+
+press <- read.csv("press_freedom_clean.csv")
+press$Situation <- as.character(press$Situation)
+press$Year..N. <- as.numeric(as.character(press$Year..N.))
+press$Country <- as.character(press$Country)
+
+aggregated_data <- press|>
+                    group_by(Year..N., Situation) |>
+                    summarise(count = n()) 
+```
+
+```{r}
+#| message: FALSE
+thresholds <- data.frame(
+  value = c(0, 40, 55, 70, 85),
+  thresholds_situation = c("Very Serious", "Difficult", "Problematic", "Satisfactory", "Good")
+)
+
+press |> 
+  filter(Country == "United States") |>
+  ggplot(aes(x = Year..N., y = Score, group = 1)) +
+  geom_point(aes(color = Situation), size = 10, alpha = 0.3) +
+  geom_line(color = "blue") +
+  geom_hline(data = thresholds, aes(yintercept = value, color = thresholds_situation), linetype = "dashed")
+```
+
+America has begun to tip closer, and closer to the 

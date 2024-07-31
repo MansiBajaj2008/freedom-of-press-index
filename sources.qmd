@@ -1,0 +1,8 @@
+---
+title: "Sources"
+format: html
+---
+
+Data was taken from [Declining Press Freedom](https://www.kaggle.com/code/yajuvendrasinh/declining-press-freedom-eda-with-interactive-viz)
+
+As a student journalist, I find it important to track the amount of freedom that journalists worldwide have. As the Washington Post's slogan famously says, "Democracy Dies in Darkness". It's important to ensure that journalists have the ability to speak freely and investigate freely. It is only when the public is informed that countries can grow.

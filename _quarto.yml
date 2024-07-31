@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Freedom Of Press Index per Year in every Country"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: sources.qmd
+        text: Sources
+      - text: Graphs
+        menu: 
+          - href: graphs.qmd
+            text: Focus on America
+          - href: combined.qmd
+            text: Global trends
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

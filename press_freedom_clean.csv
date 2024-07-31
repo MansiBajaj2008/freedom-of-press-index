@@ -1,0 +1,1801 @@
+Year (N),ISO,Country,Zone,Rank,Score,Rank N-1,Score N-1,Rank evolution,Economic Context,Safety,Political Context,Legal Context,Social Context,Situation
+2015,FIN,Finland,UE Balkans,1.0,92.48,1.0,"93,6",0.0,,,,,,Good
+2015,NOR,Norway,UE Balkans,2.0,92.25,3.0,"93,48",1.0,,,,,,Good
+2015,DNK,Denmark,UE Balkans,3.0,91.76,7.0,"92,57",4.0,,,,,,Good
+2015,NLD,Netherlands,UE Balkans,4.0,90.78,2.0,"93,54",-2.0,,,,,,Good
+2015,SWE,Sweden,UE Balkans,5.0,90.53,10.0,"91,02",5.0,,,,,,Good
+2015,NZL,New Zealand,Asie-Pacifique,6.0,89.94,9.0,"91,45",3.0,,,,,,Good
+2015,AUT,Austria,UE Balkans,7.0,89.15,12.0,"89,99",5.0,,,,,,Good
+2015,CAN,Canada,Amériques,8.0,89.01,18.0,"89,01",10.0,,,,,,Good
+2015,JAM,Jamaica,Amériques,9.0,88.82,17.0,"89,1",8.0,,,,,,Good
+2015,EST,Estonia,UE Balkans,10.0,88.81,11.0,"90,37",1.0,,,,,,Good
+2015,IRL,Ireland,UE Balkans,11.0,88.8,16.0,"89,13",5.0,,,,,,Good
+2015,DEU,Germany,UE Balkans,12.0,88.53,14.0,"89,77",2.0,,,,,,Good
+2015,CZE,Czech Republic,UE Balkans,13.0,88.38,13.0,"89,93",0.0,,,,,,Good
+2015,SVK,Slovakia,UE Balkans,14.0,88.34,20.0,"88,61",6.0,,,,,,Good
+2015,BEL,Belgium,UE Balkans,15.0,88.02,23.0,"87,2",8.0,,,,,,Good
+2015,CRI,Costa Rica,Amériques,16.0,87.74,21.0,"87,77",5.0,,,,,,Good
+2015,NAM,Namibia,Afrique,17.0,87.5,22.0,"87,5",5.0,,,,,,Good
+2015,POL,Poland,UE Balkans,18.0,87.29,19.0,"88,97",1.0,,,,,,Good
+2015,LUX,Luxembourg,UE Balkans,19.0,86.39,4.0,"93,3",-15.0,,,,,,Good
+2015,CHE,Switzerland,UE Balkans,20.0,86.15,15.0,"89,53",-5.0,,,,,,Good
+2015,ISL,Iceland,UE Balkans,21.0,86.13,8.0,"91,5",-13.0,,,,,,Good
+2015,GHA,Ghana,Afrique,22.0,84.5,27.0,"83,71",5.0,,,,,,Satisfactory
+2015,URY,Uruguay,Amériques,23.0,84.06,26.0,"83,92",3.0,,,,,,Satisfactory
+2015,CYP,Cyprus,UE Balkans,24.0,83.48,25.0,"85,55",1.0,,,,,,Satisfactory
+2015,AUS,Australia,Asie-Pacifique,25.0,82.97,28.0,"83,09",3.0,,,,,,Satisfactory
+2015,PRT,Portugal,UE Balkans,26.0,82.89,30.0,"82,27",4.0,,,,,,Satisfactory
+2015,LIE,Liechtenstein,UE Balkans,27.0,82.33,6.0,"92,98",-21.0,,,,,,Satisfactory
+2015,LVA,Latvia,UE Balkans,28.0,81.88,37.0,"78,9",9.0,,,,,,Satisfactory
+2015,SUR,Suriname,Amériques,29.0,81.8,31.0,"81,8",2.0,,,,,,Satisfactory
+2015,BLZ,Belize,Amériques,30.0,81.46,29.0,"82,95",-1.0,,,,,,Satisfactory
+2015,LTU,Lithuania,UE Balkans,31.0,81.2,32.0,"80,8",1.0,,,,,,Satisfactory
+2015,AND,Andorra,UE Balkans,32.0,80.13,5.0,"93,18",-27.0,,,,,,Satisfactory
+2015,ESP,Spain,UE Balkans,33.0,80.05,35.0,"79,37",2.0,,,,,,Satisfactory
+2015,GBR,United Kingdom,UE Balkans,34.0,80.0,33.0,"80,07",-1.0,,,,,,Satisfactory
+2015,SVN,Slovenia,UE Balkans,35.0,79.45,34.0,"79,62",-1.0,,,,,,Satisfactory
+2015,CPV,Cape Verde,Afrique,36.0,79.31,24.0,"85,68",-12.0,,,,,,Satisfactory
+2015,XCD,OECS,Amériques,37.0,78.98,36.0,"79,19",-1.0,,,,,,Satisfactory
+2015,FRA,France,UE Balkans,38.0,78.85,39.0,"78,11",1.0,,,,,,Satisfactory
+2015,ZAF,South Africa,Afrique,39.0,77.94,42.0,"76,81",3.0,,,,,,Satisfactory
+2015,WSM,Samoa,Asie-Pacifique,40.0,77.68,40.0,"77,98",0.0,,,,,,Satisfactory
+2015,TTO,Trinidad and Tobago,Amériques,41.0,77.61,43.0,"76,72",2.0,,,,,,Satisfactory
+2015,BWA,Botswana,Afrique,42.0,77.09,41.0,"77,09",-1.0,,,,,,Satisfactory
+2015,CHL,Chile,Amériques,43.0,77.0,58.0,"74,2",15.0,,,,,,Satisfactory
+2015,TON,Tonga,Asie-Pacifique,44.0,76.63,63.0,"73,3",19.0,,,,,,Satisfactory
+2015,SLV,El Salvador,Amériques,45.0,76.34,38.0,"78,43",-7.0,,,,,,Satisfactory
+2015,BFA,Burkina Faso,Afrique,46.0,76.21,52.0,"75,55",6.0,,,,,,Satisfactory
+2015,NER,Niger,Afrique,47.0,76.15,48.0,"76,41",1.0,,,,,,Satisfactory
+2015,MLT,Malta,UE Balkans,48.0,75.84,51.0,"76,16",3.0,,,,,,Satisfactory
+2015,USA,United States,Amériques,49.0,75.59,46.0,"76,51",-3.0,,,,,,Satisfactory
+2015,COM,Comoros,Afrique,50.0,75.48,53.0,"75,48",3.0,,,,,,Satisfactory
+2015,TWN,Taiwan,Asie-Pacifique,51.0,75.17,50.0,"76,18",-1.0,,,,,,Satisfactory
+2015,ROU,Romania,UE Balkans,52.0,75.1,45.0,"76,52",-7.0,,,,,,Satisfactory
+2015,HTI,Haiti,Amériques,53.0,74.92,47.0,"76,47",-6.0,,,,,,Satisfactory
+2015,MNG,Mongolia,Asie-Pacifique,54.0,74.75,88.0,"69,7",34.0,,,,,,Satisfactory
+2015,MRT,Mauritania,Afrique,55.0,74.73,60.0,"73,47",5.0,,,,,,Satisfactory
+2015,PNG,Papua New Guinea,Asie-Pacifique,56.0,74.13,44.0,"76,54",-12.0,,,,,,Satisfactory
+2015,ARG,Argentina,Amériques,57.0,73.89,55.0,"74,73",-2.0,,,,,,Satisfactory
+2015,HRV,Croatia,UE Balkans,58.0,73.88,65.0,"73,18",7.0,,,,,,Satisfactory
+2015,MWI,Malawi,Afrique,59.0,73.59,73.0,"71,71",14.0,,,,,,Satisfactory
+2015,KOR,South Korea,Asie-Pacifique,60.0,73.45,57.0,"74,34",-3.0,,,,,,Satisfactory
+2015,JPN,Japan,Asie-Pacifique,61.0,73.05,59.0,"73,98",-2.0,,,,,,Satisfactory
+2015,GUY,Guyana,Amériques,62.0,72.79,67.0,"72,92",5.0,,,,,,Satisfactory
+2015,DOM,Dominican Republic,Amériques,63.0,72.69,68.0,"72,83",5.0,,,,,,Satisfactory
+2015,MDG,Madagascar,Afrique,64.0,72.57,81.0,"70,62",17.0,,,,,,Satisfactory
+2015,HUN,Hungary,UE Balkans,65.0,72.56,64.0,"73,27",-1.0,,,,,,Satisfactory
+2015,BIH,Bosnia and Herzegovina,UE Balkans,66.0,72.49,66.0,"73,14",0.0,,,,,,Satisfactory
+2015,SRB,Serbia,UE Balkans,67.0,72.34,54.0,"74,95",-13.0,,,,,,Satisfactory
+2015,MUS,Mauritius,Afrique,68.0,72.31,70.0,"72,31",2.0,,,,,,Satisfactory
+2015,GEO,Georgia,EEAC,69.0,72.3,84.0,"70,22",15.0,,,,,,Satisfactory
+2015,HKG,Hong Kong,Asie-Pacifique,70.0,72.24,61.0,"73,45",-9.0,,,,,,Satisfactory
+2015,SEN,Senegal,Afrique,71.0,72.23,62.0,"73,32",-9.0,,,,,,Satisfactory
+2015,MDA,Moldova,EEAC,72.0,72.15,56.0,"74,65",-16.0,,,,,,Satisfactory
+2015,ITA,Italy,UE Balkans,73.0,72.06,49.0,"76,25",-24.0,,,,,,Satisfactory
+2015,NIC,Nicaragua,Amériques,74.0,72.06,71.0,"72,3",-3.0,,,,,,Satisfactory
+2015,TZA,Tanzania,Afrique,75.0,71.91,69.0,"72,7",-6.0,,,,,,Satisfactory
+2015,CTU,Cyprus North,UE Balkans,76.0,71.67,83.0,"70,46",7.0,,,,,,Satisfactory
+2015,LSO,Lesotho,Afrique,77.0,71.64,74.0,"71,64",-3.0,,,,,,Satisfactory
+2015,ARM,Armenia,EEAC,78.0,71.57,78.0,"70,93",0.0,,,,,,Satisfactory
+2015,SLE,Sierra Leone,Afrique,79.0,71.53,72.0,"71,77",-7.0,,,,,,Satisfactory
+2015,TGO,Togo,Afrique,80.0,71.5,76.0,71,-4.0,,,,,,Satisfactory
+2015,GNB,Guinea-Bissau,Afrique,81.0,71.3,86.0,"69,95",5.0,,,,,,Satisfactory
+2015,ALB,Albania,UE Balkans,82.0,71.23,85.0,"70,08",3.0,,,,,,Satisfactory
+2015,PAN,Panama,Amériques,83.0,71.02,87.0,"69,8",4.0,,,,,,Satisfactory
+2015,BEN,Benin,Afrique,84.0,70.76,75.0,"71,17",-9.0,,,,,,Satisfactory
+2015,MOZ,Mozambique,Afrique,85.0,70.02,79.0,"70,74",-6.0,,,,,,Satisfactory
+2015,CIV,Ivory Coast,Afrique,86.0,69.55,101.0,"68,37",15.0,,,,,,Problematic
+2015,XKO,Kosovo,UE Balkans,87.0,69.37,80.0,"70,71",-7.0,,,,,,Problematic
+2015,KGZ,Kyrgyzstan,EEAC,88.0,69.31,97.0,"68,76",9.0,,,,,,Problematic
+2015,LBR,Liberia,Afrique,89.0,69.22,89.0,"69,35",0.0,,,,,,Problematic
+2015,KWT,Kuwait,MENA,90.0,69.16,91.0,"69,29",1.0,,,,,,Problematic
+2015,GRC,Greece,UE Balkans,91.0,68.99,99.0,"68,67",8.0,,,,,,Problematic
+2015,PER,Peru,Amériques,92.0,68.79,104.0,"68,3",12.0,,,,,,Problematic
+2015,FJI,Fiji,Asie-Pacifique,93.0,68.72,107.0,"67,43",14.0,,,,,,Problematic
+2015,BOL,Bolivia,Amériques,94.0,68.71,94.0,"68,96",0.0,,,,,,Problematic
+2015,GAB,Gabon,Afrique,95.0,68.62,98.0,"68,68",3.0,,,,,,Problematic
+2015,SYC,Seychelles,Afrique,96.0,68.45,103.0,"68,32",7.0,,,,,,Problematic
+2015,UGA,Uganda,Afrique,97.0,68.35,110.0,"66,71",13.0,,,,,,Problematic
+2015,LBN,Lebanon,MENA,98.0,68.19,106.0,"68,11",8.0,,,,,,Problematic
+2015,BRA,Brazil,Amériques,99.0,68.07,111.0,"65,97",12.0,,,,,,Problematic
+2015,KEN,Kenya,Afrique,100.0,67.93,90.0,"69,3",-10.0,,,,,,Problematic
+2015,ISR,Israel,MENA,101.0,67.91,96.0,"68,81",-5.0,,,,,,Problematic
+2015,GIN,Guinea,Afrique,102.0,67.44,102.0,"68,33",0.0,,,,,,Problematic
+2015,TLS,East Timor,Asie-Pacifique,103.0,67.37,77.0,"70,96",-26.0,,,,,,Problematic
+2015,BTN,Bhutan,Asie-Pacifique,104.0,67.35,92.0,"69,27",-12.0,,,,,,Problematic
+2015,NPL,Nepal,Asie-Pacifique,105.0,67.29,120.0,"63,84",15.0,,,,,,Problematic
+2015,BGR,Bulgaria,UE Balkans,106.0,67.09,100.0,"68,58",-6.0,,,,,,Problematic
+2015,COG,Congo,Afrique,107.0,67.0,82.0,"70,56",-25.0,,,,,,Problematic
+2015,ECU,Ecuador,Amériques,108.0,66.35,95.0,"68,84",-13.0,,,,,,Problematic
+2015,PRY,Paraguay,Amériques,109.0,66.26,105.0,"68,19",-4.0,,,,,,Problematic
+2015,CAF,Central African Republic,Afrique,110.0,66.16,109.0,"66,87",-1.0,,,,,,Problematic
+2015,NGA,Nigeria,Afrique,111.0,65.91,112.0,"65,76",1.0,,,,,,Problematic
+2015,MDV,Maldives,Asie-Pacifique,112.0,65.68,108.0,"66,89",-4.0,,,,,,Problematic
+2015,ZMB,Zambia,Afrique,113.0,65.65,93.0,"69,11",-20.0,,,,,,Problematic
+2015,MNE,Montenegro,UE Balkans,114.0,65.37,114.0,"65,22",0.0,,,,,,Problematic
+2015,QAT,Qatar,MENA,115.0,64.65,113.0,"65,68",-2.0,,,,,,Problematic
+2015,TJK,Tajikistan,EEAC,116.0,63.81,115.0,"65,14",-1.0,,,,,,Problematic
+2015,MKD,North Macedonia,UE Balkans,117.0,63.74,123.0,"63,57",6.0,,,,,,Problematic
+2015,MLI,Mali,Afrique,118.0,63.67,122.0,"63,71",4.0,,,,,,Problematic
+2015,DZA,Algeria,MENA,119.0,63.37,121.0,"63,74",2.0,,,,,,Problematic
+2015,ARE,United Arab Emirates,MENA,120.0,63.27,118.0,"63,97",-2.0,,,,,,Problematic
+2015,BRN,Brunei Darussalam,Asie-Pacifique,121.0,63.24,117.0,"64,55",-4.0,,,,,,Problematic
+2015,AFG,Afghanistan,Asie-Pacifique,122.0,62.56,128.0,"62,93",6.0,,,,,,Problematic
+2015,AGO,Angola,Afrique,123.0,62.16,124.0,"63,5",1.0,,,,,,Problematic
+2015,GTM,Guatemala,Amériques,124.0,62.08,125.0,"63,39",1.0,,,,,,Problematic
+2015,SSD,South Sudan,Afrique,125.0,61.96,119.0,"63,95",-6.0,,,,,,Problematic
+2015,TUN,Tunisia,MENA,126.0,61.32,133.0,"61,31",7.0,,,,,,Problematic
+2015,OMN,Oman,MENA,127.0,61.17,134.0,"61,17",7.0,,,,,,Problematic
+2015,COL,Colombia,Amériques,128.0,60.92,126.0,"63,32",-2.0,,,,,,Problematic
+2015,UKR,Ukraine,EEAC,129.0,60.9,127.0,"63,07",-2.0,,,,,,Problematic
+2015,MAR,Morocco,MENA,130.0,60.81,136.0,"60,28",6.0,,,,,,Problematic
+2015,ZWE,Zimbabwe,Afrique,131.0,60.81,135.0,"60,81",4.0,,,,,,Problematic
+2015,HND,Honduras,Amériques,132.0,60.73,129.0,"62,86",-3.0,,,,,,Problematic
+2015,CMR,Cameroon,Afrique,133.0,60.37,131.0,"61,87",-2.0,,,,,,Problematic
+2015,THA,Thailand,Asie-Pacifique,134.0,59.93,130.0,"62,06",-4.0,,,,,,Problematic
+2015,TCD,Chad,Afrique,135.0,59.83,139.0,"59,78",4.0,,,,,,Problematic
+2015,IND,India,Asie-Pacifique,136.0,59.51,140.0,"59,66",4.0,,,,,,Problematic
+2015,VEN,Venezuela,Amériques,137.0,59.39,116.0,"64,63",-21.0,,,,,,Problematic
+2015,IDN,Indonesia,Asie-Pacifique,138.0,59.25,132.0,"61,85",-6.0,,,,,,Problematic
+2015,KHM,Cambodia,Asie-Pacifique,139.0,59.01,144.0,"59,03",5.0,,,,,,Problematic
+2015,PSE,Palestine,MENA,140.0,58.99,138.0,"59,89",-2.0,,,,,,Problematic
+2015,PHL,Philippines,Asie-Pacifique,141.0,58.81,149.0,"56,31",8.0,,,,,,Problematic
+2015,ETH,Ethiopia,Afrique,142.0,58.17,143.0,"59,42",1.0,,,,,,Problematic
+2015,JOR,Jordan,MENA,143.0,57.93,141.0,"59,58",-2.0,,,,,,Problematic
+2015,MMR,Myanmar,Asie-Pacifique,144.0,57.92,145.0,"58,57",1.0,,,,,,Problematic
+2015,BDI,Burundi,Afrique,145.0,57.07,142.0,"59,5",-3.0,,,,,,Problematic
+2015,BGD,Bangladesh,Asie-Pacifique,146.0,57.05,146.0,"57,42",0.0,,,,,,Problematic
+2015,MYS,Malaysia,Asie-Pacifique,147.0,56.71,147.0,"57,27",0.0,,,,,,Problematic
+2015,MEX,Mexico,Amériques,148.0,56.31,152.0,"54,96",4.0,,,,,,Problematic
+2015,TUR,Turkey,EEAC,149.0,55.84,154.0,"54,13",5.0,,,,,,Problematic
+2015,COD,The Democratic Republic Of The Congo,Afrique,150.0,55.69,151.0,"55,36",1.0,,,,,,Problematic
+2015,GMB,Gambia,Afrique,151.0,55.5,155.0,"53,58",4.0,,,,,,Problematic
+2015,RUS,Russian Federation,EEAC,152.0,55.03,148.0,"57,22",-4.0,,,,,,Problematic
+2015,SGP,Singapore,Asie-Pacifique,153.0,54.13,150.0,"55,71",-3.0,,,,,,Difficult
+2015,LBY,Libya,MENA,154.0,54.01,137.0,"60,16",-17.0,,,,,,Difficult
+2015,SWZ,Eswatini,Afrique,155.0,52.72,156.0,"53,24",1.0,,,,,,Difficult
+2015,IRQ,Iraq,MENA,156.0,52.24,153.0,"54,56",-3.0,,,,,,Difficult
+2015,BLR,Belarus,EEAC,157.0,52.02,157.0,"52,18",0.0,,,,,,Difficult
+2015,EGY,Egypt,MENA,158.0,49.83,159.0,"48,11",1.0,,,,,,Difficult
+2015,PAK,Pakistan,Asie-Pacifique,159.0,49.54,158.0,"48,54",-1.0,,,,,,Difficult
+2015,KAZ,Kazakhstan,EEAC,160.0,46.54,161.0,"45,06",1.0,,,,,,Difficult
+2015,RWA,Rwanda,Afrique,161.0,43.43,162.0,"43,43",1.0,,,,,,Difficult
+2015,AZE,Azerbaijan,EEAC,162.0,41.59,160.0,"47,13",-2.0,,,,,,Difficult
+2015,BHR,Bahrain,MENA,163.0,41.31,163.0,"41,74",0.0,,,,,,Difficult
+2015,SAU,Saudi Arabia,MENA,164.0,40.59,164.0,"41,7",0.0,,,,,,Difficult
+2015,LKA,Sri Lanka,Asie-Pacifique,165.0,39.72,165.0,"40,87",0.0,,,,,,Very Serious
+2015,UZB,Uzbekistan,EEAC,166.0,38.86,166.0,"38,99",0.0,,,,,,Very Serious
+2015,GNQ,Equatorial Guinea,Afrique,167.0,33.77,168.0,"32,05",1.0,,,,,,Very Serious
+2015,YEM,Yemen,MENA,168.0,33.64,167.0,"32,74",-1.0,,,,,,Very Serious
+2015,CUB,Cuba,Amériques,169.0,29.79,170.0,"29,08",1.0,,,,,,Very Serious
+2015,DJI,Djibouti,Afrique,170.0,28.96,169.0,"29,66",-1.0,,,,,,Very Serious
+2015,LAO,Lao People's Democratic Republic,Asie-Pacifique,171.0,28.75,171.0,"28,78",0.0,,,,,,Very Serious
+2015,SOM,Somalia,Afrique,172.0,27.69,176.0,"26,81",4.0,,,,,,Very Serious
+2015,IRN,Islamic Republic of Iran,MENA,173.0,27.68,173.0,"27,71",0.0,,,,,,Very Serious
+2015,SDN,Sudan,Afrique,174.0,27.66,172.0,"28,12",-2.0,,,,,,Very Serious
+2015,VNM,Vietnam,Asie-Pacifique,175.0,27.37,174.0,"27,64",-1.0,,,,,,Very Serious
+2015,CHN,China,Asie-Pacifique,176.0,26.45,175.0,"27,09",-1.0,,,,,,Very Serious
+2015,SYR,Syrian Arab Republic,MENA,177.0,22.71,177.0,"22,96",0.0,,,,,,Very Serious
+2015,TKM,Turkmenistan,EEAC,178.0,19.17,178.0,"19,19",0.0,,,,,,Very Serious
+2015,PRK,Democratic People's Republic of Korea,Asie-Pacifique,179.0,16.75,179.0,"18,04",0.0,,,,,,Very Serious
+2015,ERI,Eritrea,Afrique,180.0,15.14,180.0,"15,17",0.0,,,,,,Very Serious
+2014,FIN,Finland,UE Balkans,1.0,93.6,1.0,"93,62",0.0,,,,,,Good
+2014,NLD,Netherlands,UE Balkans,2.0,93.54,2.0,"93,52",0.0,,,,,,Good
+2014,NOR,Norway,UE Balkans,3.0,93.48,3.0,"93,48",0.0,,,,,,Good
+2014,LUX,Luxembourg,UE Balkans,4.0,93.3,4.0,"93,32",0.0,,,,,,Good
+2014,AND,Andorra,UE Balkans,5.0,93.18,5.0,"93,18",0.0,,,,,,Good
+2014,LIE,Liechtenstein,UE Balkans,6.0,92.98,7.0,"92,65",1.0,,,,,,Good
+2014,DNK,Denmark,UE Balkans,7.0,92.57,6.0,"92,92",-1.0,,,,,,Good
+2014,ISL,Iceland,UE Balkans,8.0,91.5,9.0,"91,51",1.0,,,,,,Good
+2014,NZL,New Zealand,Asie-Pacifique,9.0,91.45,8.0,"91,62",-1.0,,,,,,Good
+2014,SWE,Sweden,UE Balkans,10.0,91.02,10.0,"90,77",0.0,,,,,,Good
+2014,EST,Estonia,UE Balkans,11.0,90.37,11.0,"90,74",0.0,,,,,,Good
+2014,AUT,Austria,UE Balkans,12.0,89.99,12.0,"90,6",0.0,,,,,,Good
+2014,CZE,Czech Republic,UE Balkans,13.0,89.93,16.0,"89,83",3.0,,,,,,Good
+2014,DEU,Germany,UE Balkans,14.0,89.77,17.0,"89,76",3.0,,,,,,Good
+2014,CHE,Switzerland,UE Balkans,15.0,89.53,14.0,"90,06",-1.0,,,,,,Good
+2014,IRL,Ireland,UE Balkans,16.0,89.13,15.0,"89,94",-1.0,,,,,,Good
+2014,JAM,Jamaica,Amériques,17.0,89.1,13.0,"90,12",-4.0,,,,,,Good
+2014,CAN,Canada,Amériques,18.0,89.01,20.0,"87,31",2.0,,,,,,Good
+2014,POL,Poland,UE Balkans,19.0,88.97,22.0,"86,89",3.0,,,,,,Good
+2014,SVK,Slovakia,UE Balkans,20.0,88.61,23.0,"86,75",3.0,,,,,,Good
+2014,CRI,Costa Rica,Amériques,21.0,87.77,18.0,"87,92",-3.0,,,,,,Good
+2014,NAM,Namibia,Afrique,22.0,87.5,19.0,"87,5",-3.0,,,,,,Good
+2014,BEL,Belgium,UE Balkans,23.0,87.2,21.0,"87,06",-2.0,,,,,,Good
+2014,CPV,Cape Verde,Afrique,24.0,85.68,25.0,"85,67",1.0,,,,,,Good
+2014,CYP,Cyprus,UE Balkans,25.0,85.55,24.0,"86,17",-1.0,,,,,,Good
+2014,URY,Uruguay,Amériques,26.0,83.92,27.0,"84,08",1.0,,,,,,Satisfactory
+2014,GHA,Ghana,Afrique,27.0,83.71,30.0,"82,73",3.0,,,,,,Satisfactory
+2014,AUS,Australia,Asie-Pacifique,28.0,83.09,26.0,"84,76",-2.0,,,,,,Satisfactory
+2014,BLZ,Belize,Amériques,29.0,82.95,,,,,,,,,Satisfactory
+2014,PRT,Portugal,UE Balkans,30.0,82.27,28.0,"83,25",-2.0,,,,,,Satisfactory
+2014,SUR,Suriname,Amériques,31.0,81.8,31.0,"81,81",0.0,,,,,,Satisfactory
+2014,LTU,Lithuania,UE Balkans,32.0,80.8,33.0,"81,76",1.0,,,,,,Satisfactory
+2014,GBR,United Kingdom,UE Balkans,33.0,80.07,29.0,"83,11",-4.0,,,,,,Satisfactory
+2014,SVN,Slovenia,UE Balkans,34.0,79.62,35.0,"79,51",1.0,,,,,,Satisfactory
+2014,ESP,Spain,UE Balkans,35.0,79.37,36.0,"79,5",1.0,,,,,,Satisfactory
+2014,XCD,OECS,Amériques,36.0,79.19,34.0,"80,28",-2.0,,,,,,Satisfactory
+2014,LVA,Latvia,UE Balkans,37.0,78.9,39.0,"77,11",2.0,,,,,,Satisfactory
+2014,SLV,El Salvador,Amériques,38.0,78.43,38.0,"77,14",0.0,,,,,,Satisfactory
+2014,FRA,France,UE Balkans,39.0,78.11,37.0,"78,4",-2.0,,,,,,Satisfactory
+2014,WSM,Samoa,Asie-Pacifique,40.0,77.98,48.0,"76,16",8.0,,,,,,Satisfactory
+2014,BWA,Botswana,Afrique,41.0,77.09,40.0,"77,09",-1.0,,,,,,Satisfactory
+2014,ZAF,South Africa,Afrique,42.0,76.81,52.0,"75,44",10.0,,,,,,Satisfactory
+2014,TTO,Trinidad and Tobago,Amériques,43.0,76.72,44.0,"76,88",1.0,,,,,,Satisfactory
+2014,PNG,Papua New Guinea,Asie-Pacifique,44.0,76.54,41.0,"77,03",-3.0,,,,,,Satisfactory
+2014,ROU,Romania,UE Balkans,45.0,76.52,42.0,"76,95",-3.0,,,,,,Satisfactory
+2014,USA,United States,Amériques,46.0,76.51,32.0,"81,78",-14.0,,,,,,Satisfactory
+2014,HTI,Haiti,Amériques,47.0,76.47,49.0,"75,91",2.0,,,,,,Satisfactory
+2014,NER,Niger,Afrique,48.0,76.41,43.0,"76,92",-5.0,,,,,,Satisfactory
+2014,ITA,Italy,UE Balkans,49.0,76.25,57.0,"73,89",8.0,,,,,,Satisfactory
+2014,TWN,Taiwan,Asie-Pacifique,50.0,76.18,47.0,"76,18",-3.0,,,,,,Satisfactory
+2014,MLT,Malta,UE Balkans,51.0,76.16,45.0,"76,7",-6.0,,,,,,Satisfactory
+2014,BFA,Burkina Faso,Afrique,52.0,75.55,46.0,"76,3",-6.0,,,,,,Satisfactory
+2014,COM,Comoros,Afrique,53.0,75.48,51.0,"75,48",-2.0,,,,,,Satisfactory
+2014,SRB,Serbia,UE Balkans,54.0,74.95,63.0,"73,41",9.0,,,,,,Satisfactory
+2014,ARG,Argentina,Amériques,55.0,74.73,54.0,"74,33",-1.0,,,,,,Satisfactory
+2014,MDA,Moldova,EEAC,56.0,74.65,55.0,"73,99",-1.0,,,,,,Satisfactory
+2014,KOR,South Korea,Asie-Pacifique,57.0,74.34,50.0,"75,52",-7.0,,,,,,Satisfactory
+2014,CHL,Chile,Amériques,58.0,74.2,60.0,"73,76",2.0,,,,,,Satisfactory
+2014,JPN,Japan,Asie-Pacifique,59.0,73.98,53.0,"74,83",-6.0,,,,,,Satisfactory
+2014,MRT,Mauritania,Afrique,60.0,73.47,67.0,"73,24",7.0,,,,,,Satisfactory
+2014,HKG,Hong Kong,Asie-Pacifique,61.0,73.45,58.0,"73,84",-3.0,,,,,,Satisfactory
+2014,SEN,Senegal,Afrique,62.0,73.32,59.0,"73,81",-3.0,,,,,,Satisfactory
+2014,TON,Tonga,Asie-Pacifique,63.0,73.3,66.0,"73,3",3.0,,,,,,Satisfactory
+2014,HUN,Hungary,UE Balkans,64.0,73.27,56.0,"73,91",-8.0,,,,,,Satisfactory
+2014,HRV,Croatia,UE Balkans,65.0,73.18,64.0,"73,39",-1.0,,,,,,Satisfactory
+2014,BIH,Bosnia and Herzegovina,UE Balkans,66.0,73.14,68.0,"73,14",2.0,,,,,,Satisfactory
+2014,GUY,Guyana,Amériques,67.0,72.92,69.0,"72,92",2.0,,,,,,Satisfactory
+2014,DOM,Dominican Republic,Amériques,68.0,72.83,80.0,"71,66",12.0,,,,,,Satisfactory
+2014,TZA,Tanzania,Afrique,69.0,72.7,70.0,"72,66",1.0,,,,,,Satisfactory
+2014,MUS,Mauritius,Afrique,70.0,72.31,62.0,"73,53",-8.0,,,,,,Satisfactory
+2014,NIC,Nicaragua,Amériques,71.0,72.3,78.0,"71,69",7.0,,,,,,Satisfactory
+2014,SLE,Sierra Leone,Afrique,72.0,71.77,61.0,"73,65",-11.0,,,,,,Satisfactory
+2014,MWI,Malawi,Afrique,73.0,71.71,75.0,"71,82",2.0,,,,,,Satisfactory
+2014,LSO,Lesotho,Afrique,74.0,71.64,81.0,"71,64",7.0,,,,,,Satisfactory
+2014,BEN,Benin,Afrique,75.0,71.17,79.0,"71,67",4.0,,,,,,Satisfactory
+2014,TGO,Togo,Afrique,76.0,71.0,83.0,"71,55",7.0,,,,,,Satisfactory
+2014,TLS,East Timor,Asie-Pacifique,77.0,70.96,90.0,"71,28",13.0,,,,,,Satisfactory
+2014,ARM,Armenia,EEAC,78.0,70.93,74.0,"71,96",-4.0,,,,,,Satisfactory
+2014,MOZ,Mozambique,Afrique,79.0,70.74,73.0,"71,99",-6.0,,,,,,Satisfactory
+2014,XKO,Kosovo,UE Balkans,80.0,70.71,85.0,"71,53",5.0,,,,,,Satisfactory
+2014,MDG,Madagascar,Afrique,81.0,70.62,88.0,"71,38",7.0,,,,,,Satisfactory
+2014,COG,Congo,Afrique,82.0,70.56,76.0,"71,8",-6.0,,,,,,Satisfactory
+2014,CTU,Cyprus North,UE Balkans,83.0,70.46,94.0,"70,66",11.0,,,,,,Satisfactory
+2014,GEO,Georgia,EEAC,84.0,70.22,100.0,"69,91",16.0,,,,,,Satisfactory
+2014,ALB,Albania,UE Balkans,85.0,70.08,102.0,"69,12",17.0,,,,,,Satisfactory
+2014,GNB,Guinea-Bissau,Afrique,86.0,69.95,92.0,"71,06",6.0,,,,,,Problematic
+2014,PAN,Panama,Amériques,87.0,69.8,111.0,"67,05",24.0,,,,,,Problematic
+2014,MNG,Mongolia,Asie-Pacifique,88.0,69.7,98.0,"70,07",10.0,,,,,,Problematic
+2014,LBR,Liberia,Afrique,89.0,69.35,97.0,"70,11",8.0,,,,,,Problematic
+2014,KEN,Kenya,Afrique,90.0,69.3,71.0,"72,2",-19.0,,,,,,Problematic
+2014,KWT,Kuwait,MENA,91.0,69.29,77.0,"71,72",-14.0,,,,,,Problematic
+2014,BTN,Bhutan,Asie-Pacifique,92.0,69.27,82.0,"71,58",-10.0,,,,,,Problematic
+2014,ZMB,Zambia,Afrique,93.0,69.11,72.0,"72,07",-21.0,,,,,,Problematic
+2014,BOL,Bolivia,Amériques,94.0,68.96,109.0,"67,2",15.0,,,,,,Problematic
+2014,ECU,Ecuador,Amériques,95.0,68.84,119.0,"65,31",24.0,,,,,,Problematic
+2014,ISR,Israel,MENA,96.0,68.81,112.0,"67,03",16.0,,,,,,Problematic
+2014,KGZ,Kyrgyzstan,EEAC,97.0,68.76,106.0,"67,8",9.0,,,,,,Problematic
+2014,GAB,Gabon,Afrique,98.0,68.68,89.0,"71,31",-9.0,,,,,,Problematic
+2014,GRC,Greece,UE Balkans,99.0,68.67,84.0,"71,54",-15.0,,,,,,Problematic
+2014,BGR,Bulgaria,UE Balkans,100.0,68.58,87.0,"71,42",-13.0,,,,,,Problematic
+2014,CIV,Ivory Coast,Afrique,101.0,68.37,96.0,"70,23",-5.0,,,,,,Problematic
+2014,GIN,Guinea,Afrique,102.0,68.33,86.0,"71,51",-16.0,,,,,,Problematic
+2014,SYC,Seychelles,Afrique,103.0,68.32,93.0,"70,81",-10.0,,,,,,Problematic
+2014,PER,Peru,Amériques,104.0,68.3,105.0,"68,13",1.0,,,,,,Problematic
+2014,PRY,Paraguay,Amériques,105.0,68.19,91.0,"71,22",-14.0,,,,,,Problematic
+2014,LBN,Lebanon,MENA,106.0,68.11,101.0,"69,85",-5.0,,,,,,Problematic
+2014,FJI,Fiji,Asie-Pacifique,107.0,67.43,107.0,"67,31",0.0,,,,,,Problematic
+2014,MDV,Maldives,Asie-Pacifique,108.0,66.89,103.0,"68,9",-5.0,,,,,,Problematic
+2014,CAF,Central African Republic,Afrique,109.0,66.87,65.0,"73,39",-44.0,,,,,,Problematic
+2014,UGA,Uganda,Afrique,110.0,66.71,104.0,"68,31",-6.0,,,,,,Problematic
+2014,BRA,Brazil,Amériques,111.0,65.97,108.0,"67,25",-3.0,,,,,,Problematic
+2014,NGA,Nigeria,Afrique,112.0,65.76,115.0,"65,89",3.0,,,,,,Problematic
+2014,QAT,Qatar,MENA,113.0,65.68,110.0,"67,14",-3.0,,,,,,Problematic
+2014,MNE,Montenegro,UE Balkans,114.0,65.22,113.0,"67,03",-1.0,,,,,,Problematic
+2014,TJK,Tajikistan,EEAC,115.0,65.14,123.0,"64,29",8.0,,,,,,Problematic
+2014,VEN,Venezuela,Amériques,116.0,64.63,117.0,"65,56",1.0,,,,,,Problematic
+2014,BRN,Brunei Darussalam,Asie-Pacifique,117.0,64.55,122.0,"64,55",5.0,,,,,,Problematic
+2014,ARE,United Arab Emirates,MENA,118.0,63.97,114.0,"66,51",-4.0,,,,,,Problematic
+2014,SSD,South Sudan,Afrique,119.0,63.95,124.0,"63,8",5.0,,,,,,Problematic
+2014,NPL,Nepal,Asie-Pacifique,120.0,63.84,118.0,"65,39",-2.0,,,,,,Problematic
+2014,DZA,Algeria,MENA,121.0,63.74,125.0,"63,46",4.0,,,,,,Problematic
+2014,MLI,Mali,Afrique,122.0,63.71,99.0,"69,97",-23.0,,,,,,Problematic
+2014,MKD,North Macedonia,UE Balkans,123.0,63.57,116.0,"65,73",-7.0,,,,,,Problematic
+2014,AGO,Angola,Afrique,124.0,63.5,130.0,"62,2",6.0,,,,,,Problematic
+2014,GTM,Guatemala,Amériques,125.0,63.39,95.0,"70,61",-30.0,,,,,,Problematic
+2014,COL,Colombia,Amériques,126.0,63.32,129.0,"62,52",3.0,,,,,,Problematic
+2014,UKR,Ukraine,EEAC,127.0,63.07,126.0,"63,21",-1.0,,,,,,Problematic
+2014,AFG,Afghanistan,Asie-Pacifique,128.0,62.93,128.0,"62,64",0.0,,,,,,Problematic
+2014,HND,Honduras,Amériques,129.0,62.86,127.0,"63,08",-2.0,,,,,,Problematic
+2014,THA,Thailand,Asie-Pacifique,130.0,62.06,135.0,"61,4",5.0,,,,,,Problematic
+2014,CMR,Cameroon,Afrique,131.0,61.87,120.0,"65,22",-11.0,,,,,,Problematic
+2014,IDN,Indonesia,Asie-Pacifique,132.0,61.85,139.0,"58,95",7.0,,,,,,Problematic
+2014,TUN,Tunisia,MENA,133.0,61.31,138.0,"60,07",5.0,,,,,,Problematic
+2014,OMN,Oman,MENA,134.0,61.17,141.0,"58,49",7.0,,,,,,Problematic
+2014,ZWE,Zimbabwe,Afrique,135.0,60.81,133.0,"61,88",-2.0,,,,,,Problematic
+2014,MAR,Morocco,MENA,136.0,60.28,136.0,"60,96",0.0,,,,,,Problematic
+2014,LBY,Libya,MENA,137.0,60.16,131.0,"62,14",-6.0,,,,,,Problematic
+2014,PSE,Palestine,MENA,138.0,59.89,146.0,"56,91",8.0,,,,,,Problematic
+2014,TCD,Chad,Afrique,139.0,59.78,121.0,"65,13",-18.0,,,,,,Problematic
+2014,IND,India,Asie-Pacifique,140.0,59.66,140.0,"58,78",0.0,,,,,,Problematic
+2014,JOR,Jordan,MENA,141.0,59.58,134.0,"61,53",-7.0,,,,,,Problematic
+2014,BDI,Burundi,Afrique,142.0,59.5,132.0,"61,98",-10.0,,,,,,Problematic
+2014,ETH,Ethiopia,Afrique,143.0,59.42,137.0,"60,43",-6.0,,,,,,Problematic
+2014,KHM,Cambodia,Asie-Pacifique,144.0,59.03,143.0,"58,19",-1.0,,,,,,Problematic
+2014,MMR,Myanmar,Asie-Pacifique,145.0,58.57,151.0,"55,29",6.0,,,,,,Problematic
+2014,BGD,Bangladesh,Asie-Pacifique,146.0,57.42,144.0,"57,99",-2.0,,,,,,Problematic
+2014,MYS,Malaysia,Asie-Pacifique,147.0,57.27,145.0,"57,27",-2.0,,,,,,Problematic
+2014,RUS,Russian Federation,EEAC,148.0,57.22,148.0,"56,58",0.0,,,,,,Problematic
+2014,PHL,Philippines,Asie-Pacifique,149.0,56.31,147.0,"56,89",-2.0,,,,,,Problematic
+2014,SGP,Singapore,Asie-Pacifique,150.0,55.71,149.0,"56,57",-1.0,,,,,,Problematic
+2014,COD,The Democratic Republic Of The Congo,Afrique,151.0,55.36,142.0,"58,34",-9.0,,,,,,Problematic
+2014,MEX,Mexico,Amériques,152.0,54.96,153.0,"54,7",1.0,,,,,,Difficult
+2014,IRQ,Iraq,MENA,153.0,54.56,150.0,"55,33",-3.0,,,,,,Difficult
+2014,TUR,Turkey,EEAC,154.0,54.13,154.0,"53,44",0.0,,,,,,Difficult
+2014,GMB,Gambia,Afrique,155.0,53.58,152.0,"54,91",-3.0,,,,,,Difficult
+2014,SWZ,Eswatini,Afrique,156.0,53.24,155.0,"53,24",-1.0,,,,,,Difficult
+2014,BLR,Belarus,EEAC,157.0,52.18,157.0,"51,65",0.0,,,,,,Difficult
+2014,PAK,Pakistan,Asie-Pacifique,158.0,48.54,159.0,"48,69",1.0,,,,,,Difficult
+2014,EGY,Egypt,MENA,159.0,48.11,158.0,"51,34",-1.0,,,,,,Difficult
+2014,AZE,Azerbaijan,EEAC,160.0,47.13,156.0,"52,27",-4.0,,,,,,Difficult
+2014,KAZ,Kazakhstan,EEAC,161.0,45.06,160.0,"44,92",-1.0,,,,,,Difficult
+2014,RWA,Rwanda,Afrique,162.0,43.43,161.0,"44,54",-1.0,,,,,,Difficult
+2014,BHR,Bahrain,MENA,163.0,41.74,165.0,"37,25",2.0,,,,,,Difficult
+2014,SAU,Saudi Arabia,MENA,164.0,41.7,163.0,"43,12",-1.0,,,,,,Difficult
+2014,LKA,Sri Lanka,Asie-Pacifique,165.0,40.87,162.0,"43,41",-3.0,,,,,,Difficult
+2014,UZB,Uzbekistan,EEAC,166.0,38.99,164.0,"39,61",-2.0,,,,,,Very Serious
+2014,YEM,Yemen,MENA,167.0,32.74,169.0,"30,78",2.0,,,,,,Very Serious
+2014,GNQ,Equatorial Guinea,Afrique,168.0,32.05,166.0,"32,8",-2.0,,,,,,Very Serious
+2014,DJI,Djibouti,Afrique,169.0,29.66,167.0,"32,6",-2.0,,,,,,Very Serious
+2014,CUB,Cuba,Amériques,170.0,29.08,171.0,"28,36",1.0,,,,,,Very Serious
+2014,LAO,Lao People's Democratic Republic,Asie-Pacifique,171.0,28.78,168.0,"32,01",-3.0,,,,,,Very Serious
+2014,SDN,Sudan,Afrique,172.0,28.12,170.0,"29,94",-2.0,,,,,,Very Serious
+2014,IRN,Islamic Republic of Iran,MENA,173.0,27.71,174.0,"26,6",1.0,,,,,,Very Serious
+2014,VNM,Vietnam,Asie-Pacifique,174.0,27.64,172.0,"28,22",-2.0,,,,,,Very Serious
+2014,CHN,China,Asie-Pacifique,175.0,27.09,173.0,"26,93",-2.0,,,,,,Very Serious
+2014,SOM,Somalia,Afrique,176.0,26.81,175.0,"26,41",-1.0,,,,,,Very Serious
+2014,SYR,Syrian Arab Republic,MENA,177.0,22.96,176.0,"21,47",-1.0,,,,,,Very Serious
+2014,TKM,Turkmenistan,EEAC,178.0,19.19,177.0,"20,86",-1.0,,,,,,Very Serious
+2014,PRK,Democratic People's Republic of Korea,Asie-Pacifique,179.0,18.04,178.0,"16,1",-1.0,,,,,,Very Serious
+2014,ERI,Eritrea,Afrique,180.0,15.17,179.0,"15,17",-1.0,,,,,,Very Serious
+2016,FIN,Finland,UE Balkans,1.0,91.41,1.0,"92,48",0.0,,,,,,Good
+2016,NLD,Netherlands,UE Balkans,2.0,91.24,4.0,"90,78",2.0,,,,,,Good
+2016,NOR,Norway,UE Balkans,3.0,91.21,2.0,"92,25",-1.0,,,,,,Good
+2016,DNK,Denmark,UE Balkans,4.0,91.11,3.0,"91,76",-1.0,,,,,,Good
+2016,NZL,New Zealand,Asie-Pacifique,5.0,89.99,6.0,"89,94",1.0,,,,,,Good
+2016,CRI,Costa Rica,Amériques,6.0,88.9,16.0,"87,74",10.0,,,,,,Good
+2016,CHE,Switzerland,UE Balkans,7.0,88.24,20.0,"86,15",13.0,,,,,,Good
+2016,SWE,Sweden,UE Balkans,8.0,87.67,5.0,"90,53",-3.0,,,,,,Good
+2016,IRL,Ireland,UE Balkans,9.0,87.6,11.0,"88,8",2.0,,,,,,Good
+2016,JAM,Jamaica,Amériques,10.0,87.55,9.0,"88,82",-1.0,,,,,,Good
+2016,AUT,Austria,UE Balkans,11.0,86.82,7.0,"89,15",-4.0,,,,,,Good
+2016,SVK,Slovakia,UE Balkans,12.0,86.74,14.0,"88,34",2.0,,,,,,Good
+2016,BEL,Belgium,UE Balkans,13.0,85.82,15.0,"88,02",2.0,,,,,,Good
+2016,EST,Estonia,UE Balkans,14.0,85.69,10.0,"88,81",-4.0,,,,,,Good
+2016,LUX,Luxembourg,UE Balkans,15.0,85.57,19.0,"86,39",4.0,,,,,,Good
+2016,DEU,Germany,UE Balkans,16.0,85.2,12.0,"88,53",-4.0,,,,,,Good
+2016,NAM,Namibia,Afrique,17.0,84.85,17.0,"87,5",0.0,,,,,,Satisfactory
+2016,CAN,Canada,Amériques,18.0,84.74,8.0,"89,01",-10.0,,,,,,Satisfactory
+2016,ISL,Iceland,UE Balkans,19.0,84.7,21.0,"86,13",2.0,,,,,,Satisfactory
+2016,URY,Uruguay,Amériques,20.0,84.12,23.0,"84,06",3.0,,,,,,Satisfactory
+2016,CZE,Czech Republic,UE Balkans,21.0,83.34,13.0,"88,38",-8.0,,,,,,Satisfactory
+2016,SUR,Suriname,Amériques,22.0,83.3,29.0,"81,8",7.0,,,,,,Satisfactory
+2016,PRT,Portugal,UE Balkans,23.0,82.73,26.0,"82,89",3.0,,,,,,Satisfactory
+2016,LVA,Latvia,UE Balkans,24.0,82.62,28.0,"81,88",4.0,,,,,,Satisfactory
+2016,AUS,Australia,Asie-Pacifique,25.0,82.16,25.0,"82,97",0.0,,,,,,Satisfactory
+2016,GHA,Ghana,Afrique,26.0,82.05,22.0,"84,5",-4.0,,,,,,Satisfactory
+2016,CYP,Cyprus,UE Balkans,27.0,81.74,24.0,"83,48",-3.0,,,,,,Satisfactory
+2016,LIE,Liechtenstein,UE Balkans,28.0,81.64,27.0,"82,33",-1.0,,,,,,Satisfactory
+2016,WSM,Samoa,Asie-Pacifique,29.0,81.2,40.0,"77,68",11.0,,,,,,Satisfactory
+2016,XCD,OECS,Amériques,30.0,81.09,37.0,"78,98",7.0,,,,,,Satisfactory
+2016,CHL,Chile,Amériques,31.0,80.77,43.0,77,12.0,,,,,,Satisfactory
+2016,CPV,Cape Verde,Afrique,32.0,80.18,36.0,"79,31",4.0,,,,,,Satisfactory
+2016,AND,Andorra,UE Balkans,33.0,80.13,32.0,"80,13",-1.0,,,,,,Satisfactory
+2016,ESP,Spain,UE Balkans,34.0,80.08,33.0,"80,05",-1.0,,,,,,Satisfactory
+2016,LTU,Lithuania,UE Balkans,35.0,80.05,31.0,"81,2",-4.0,,,,,,Satisfactory
+2016,BLZ,Belize,Amériques,36.0,79.39,30.0,"81,46",-6.0,,,,,,Satisfactory
+2016,TON,Tonga,Asie-Pacifique,37.0,78.76,44.0,"76,63",7.0,,,,,,Satisfactory
+2016,GBR,United Kingdom,UE Balkans,38.0,78.3,34.0,80,-4.0,,,,,,Satisfactory
+2016,ZAF,South Africa,Afrique,39.0,78.08,39.0,"77,94",0.0,,,,,,Satisfactory
+2016,SVN,Slovenia,UE Balkans,40.0,77.74,35.0,"79,45",-5.0,,,,,,Satisfactory
+2016,USA,United States,Amériques,41.0,77.51,49.0,"75,59",8.0,,,,,,Satisfactory
+2016,BFA,Burkina Faso,Afrique,42.0,77.34,46.0,"76,21",4.0,,,,,,Satisfactory
+2016,BWA,Botswana,Afrique,43.0,77.09,42.0,"77,09",-1.0,,,,,,Satisfactory
+2016,TTO,Trinidad and Tobago,Amériques,44.0,76.71,41.0,"77,61",-3.0,,,,,,Satisfactory
+2016,FRA,France,UE Balkans,45.0,76.17,38.0,"78,85",-7.0,,,,,,Satisfactory
+2016,MLT,Malta,UE Balkans,46.0,76.16,48.0,"75,84",2.0,,,,,,Satisfactory
+2016,POL,Poland,UE Balkans,47.0,76.11,18.0,"87,29",-29.0,,,,,,Satisfactory
+2016,MRT,Mauritania,Afrique,48.0,75.97,55.0,"74,73",7.0,,,,,,Satisfactory
+2016,ROU,Romania,UE Balkans,49.0,75.71,52.0,"75,1",3.0,,,,,,Satisfactory
+2016,COM,Comoros,Afrique,50.0,75.67,50.0,"75,48",0.0,,,,,,Satisfactory
+2016,TWN,Taiwan,Asie-Pacifique,51.0,75.63,51.0,"75,17",0.0,,,,,,Satisfactory
+2016,NER,Niger,Afrique,52.0,75.38,47.0,"76,15",-5.0,,,,,,Satisfactory
+2016,HTI,Haiti,Amériques,53.0,75.34,53.0,"74,92",0.0,,,,,,Satisfactory
+2016,ARG,Argentina,Amériques,54.0,74.91,57.0,"73,89",3.0,,,,,,Satisfactory
+2016,PNG,Papua New Guinea,Asie-Pacifique,55.0,74.19,56.0,"74,13",1.0,,,,,,Satisfactory
+2016,MDG,Madagascar,Afrique,56.0,72.96,64.0,"72,57",8.0,,,,,,Satisfactory
+2016,GUY,Guyana,Amériques,57.0,72.93,62.0,"72,79",5.0,,,,,,Satisfactory
+2016,SLV,El Salvador,Amériques,58.0,72.8,45.0,"76,34",-13.0,,,,,,Satisfactory
+2016,SRB,Serbia,UE Balkans,59.0,72.4,67.0,"72,34",8.0,,,,,,Satisfactory
+2016,MNG,Mongolia,Asie-Pacifique,60.0,72.39,54.0,"74,75",-6.0,,,,,,Satisfactory
+2016,MUS,Mauritius,Afrique,61.0,72.31,68.0,"72,31",7.0,,,,,,Satisfactory
+2016,DOM,Dominican Republic,Amériques,62.0,72.1,63.0,"72,69",1.0,,,,,,Satisfactory
+2016,HRV,Croatia,UE Balkans,63.0,72.09,58.0,"73,88",-5.0,,,,,,Satisfactory
+2016,GEO,Georgia,EEAC,64.0,72.04,69.0,"72,3",5.0,,,,,,Satisfactory
+2016,SEN,Senegal,Afrique,65.0,72.01,71.0,"72,23",6.0,,,,,,Satisfactory
+2016,MWI,Malawi,Afrique,66.0,71.88,59.0,"73,59",-7.0,,,,,,Satisfactory
+2016,HUN,Hungary,UE Balkans,67.0,71.83,65.0,"72,56",-2.0,,,,,,Satisfactory
+2016,BIH,Bosnia and Herzegovina,UE Balkans,68.0,71.55,66.0,"72,49",-2.0,,,,,,Satisfactory
+2016,HKG,Hong Kong,Asie-Pacifique,69.0,71.5,70.0,"72,24",1.0,,,,,,Satisfactory
+2016,KOR,South Korea,Asie-Pacifique,70.0,71.42,60.0,"73,45",-10.0,,,,,,Satisfactory
+2016,TZA,Tanzania,Afrique,71.0,71.35,75.0,"71,91",4.0,,,,,,Satisfactory
+2016,JPN,Japan,Asie-Pacifique,72.0,71.33,61.0,"73,05",-11.0,,,,,,Satisfactory
+2016,LSO,Lesotho,Afrique,73.0,71.22,77.0,"71,64",4.0,,,,,,Satisfactory
+2016,ARM,Armenia,EEAC,74.0,71.21,78.0,"71,57",4.0,,,,,,Satisfactory
+2016,NIC,Nicaragua,Amériques,75.0,71.18,74.0,"72,06",-1.0,,,,,,Satisfactory
+2016,MDA,Moldova,EEAC,76.0,71.17,72.0,"72,15",-4.0,,,,,,Satisfactory
+2016,ITA,Italy,UE Balkans,77.0,71.07,73.0,"72,06",-4.0,,,,,,Satisfactory
+2016,BEN,Benin,Afrique,78.0,71.03,84.0,"70,76",6.0,,,,,,Satisfactory
+2016,GNB,Guinea-Bissau,Afrique,79.0,70.97,81.0,"71,3",2.0,,,,,,Satisfactory
+2016,FJI,Fiji,Asie-Pacifique,80.0,70.63,93.0,"68,72",13.0,,,,,,Satisfactory
+2016,CTU,Cyprus North,UE Balkans,81.0,70.46,76.0,"71,67",-5.0,,,,,,Satisfactory
+2016,ALB,Albania,UE Balkans,82.0,70.08,82.0,"71,23",0.0,,,,,,Satisfactory
+2016,SLE,Sierra Leone,Afrique,83.0,70.06,79.0,"71,53",-4.0,,,,,,Satisfactory
+2016,PER,Peru,Amériques,84.0,70.01,92.0,"68,79",8.0,,,,,,Satisfactory
+2016,KGZ,Kyrgyzstan,EEAC,85.0,69.84,88.0,"69,31",3.0,,,,,,Problematic
+2016,CIV,Ivory Coast,Afrique,86.0,69.83,86.0,"69,55",0.0,,,,,,Problematic
+2016,MOZ,Mozambique,Afrique,87.0,69.75,85.0,"70,02",-2.0,,,,,,Problematic
+2016,TGO,Togo,Afrique,88.0,69.69,80.0,"71,5",-8.0,,,,,,Problematic
+2016,GRC,Greece,UE Balkans,89.0,69.65,91.0,"68,99",2.0,,,,,,Problematic
+2016,XKO,Kosovo,UE Balkans,90.0,69.5,87.0,"69,37",-3.0,,,,,,Problematic
+2016,PAN,Panama,Amériques,91.0,69.41,83.0,"71,02",-8.0,,,,,,Problematic
+2016,SYC,Seychelles,Afrique,92.0,69.4,96.0,"68,45",4.0,,,,,,Problematic
+2016,LBR,Liberia,Afrique,93.0,69.29,89.0,"69,22",-4.0,,,,,,Problematic
+2016,BTN,Bhutan,Asie-Pacifique,94.0,69.27,104.0,"67,35",10.0,,,,,,Problematic
+2016,KEN,Kenya,Afrique,95.0,68.84,100.0,"67,93",5.0,,,,,,Problematic
+2016,TUN,Tunisia,MENA,96.0,68.4,126.0,"61,32",30.0,,,,,,Problematic
+2016,BOL,Bolivia,Amériques,97.0,68.22,94.0,"68,71",-3.0,,,,,,Problematic
+2016,LBN,Lebanon,MENA,98.0,68.05,98.0,"68,19",0.0,,,,,,Problematic
+2016,TLS,East Timor,Asie-Pacifique,99.0,67.98,103.0,"67,37",4.0,,,,,,Problematic
+2016,GAB,Gabon,Afrique,100.0,67.8,95.0,"68,62",-5.0,,,,,,Problematic
+2016,ISR,Israel,MENA,101.0,67.42,101.0,"67,91",0.0,,,,,,Problematic
+2016,UGA,Uganda,Afrique,102.0,67.42,97.0,"68,35",-5.0,,,,,,Problematic
+2016,KWT,Kuwait,MENA,103.0,67.41,90.0,"69,16",-13.0,,,,,,Problematic
+2016,BRA,Brazil,Amériques,104.0,67.38,99.0,"68,07",-5.0,,,,,,Problematic
+2016,NPL,Nepal,Asie-Pacifique,105.0,67.38,105.0,"67,29",0.0,,,,,,Problematic
+2016,MNE,Montenegro,UE Balkans,106.0,67.21,114.0,"65,37",8.0,,,,,,Problematic
+2016,UKR,Ukraine,EEAC,107.0,67.07,129.0,"60,9",22.0,,,,,,Problematic
+2016,GIN,Guinea,Afrique,108.0,66.92,102.0,"67,44",-6.0,,,,,,Problematic
+2016,ECU,Ecuador,Amériques,109.0,66.79,108.0,"66,35",-1.0,,,,,,Problematic
+2016,CAF,Central African Republic,Afrique,110.0,66.4,110.0,"66,16",0.0,,,,,,Problematic
+2016,PRY,Paraguay,Amériques,111.0,66.37,109.0,"66,26",-2.0,,,,,,Problematic
+2016,MDV,Maldives,Asie-Pacifique,112.0,65.83,112.0,"65,68",0.0,,,,,,Problematic
+2016,BGR,Bulgaria,UE Balkans,113.0,65.54,106.0,"67,09",-7.0,,,,,,Problematic
+2016,ZMB,Zambia,Afrique,114.0,64.92,113.0,"65,65",-1.0,,,,,,Problematic
+2016,COG,Congo,Afrique,115.0,64.16,107.0,67,-8.0,,,,,,Problematic
+2016,NGA,Nigeria,Afrique,116.0,64.1,111.0,"65,91",-5.0,,,,,,Problematic
+2016,QAT,Qatar,MENA,117.0,64.03,115.0,"64,65",-2.0,,,,,,Problematic
+2016,MKD,North Macedonia,UE Balkans,118.0,63.91,117.0,"63,74",-1.0,,,,,,Problematic
+2016,ARE,United Arab Emirates,MENA,119.0,63.27,120.0,"63,27",1.0,,,,,,Problematic
+2016,AFG,Afghanistan,Asie-Pacifique,120.0,62.25,122.0,"62,56",2.0,,,,,,Problematic
+2016,GTM,Guatemala,Amériques,121.0,61.97,124.0,"62,08",3.0,,,,,,Problematic
+2016,MLI,Mali,Afrique,122.0,60.17,118.0,"63,67",-4.0,,,,,,Problematic
+2016,AGO,Angola,Afrique,123.0,60.11,123.0,"62,16",0.0,,,,,,Problematic
+2016,ZWE,Zimbabwe,Afrique,124.0,59.59,131.0,"60,81",7.0,,,,,,Problematic
+2016,OMN,Oman,MENA,125.0,59.57,127.0,"61,17",2.0,,,,,,Problematic
+2016,CMR,Cameroon,Afrique,126.0,59.47,133.0,"60,37",7.0,,,,,,Problematic
+2016,TCD,Chad,Afrique,127.0,59.41,135.0,"59,83",8.0,,,,,,Problematic
+2016,KHM,Cambodia,Asie-Pacifique,128.0,59.3,139.0,"59,01",11.0,,,,,,Problematic
+2016,DZA,Algeria,MENA,129.0,58.31,119.0,"63,37",-10.0,,,,,,Problematic
+2016,IDN,Indonesia,Asie-Pacifique,130.0,58.28,138.0,"59,25",8.0,,,,,,Problematic
+2016,MAR,Morocco,MENA,131.0,57.36,130.0,"60,81",-1.0,,,,,,Problematic
+2016,PSE,Palestine,MENA,132.0,57.07,140.0,"58,99",8.0,,,,,,Problematic
+2016,IND,India,Asie-Pacifique,133.0,56.83,136.0,"59,51",3.0,,,,,,Problematic
+2016,COL,Colombia,Amériques,134.0,55.89,128.0,"60,92",-6.0,,,,,,Problematic
+2016,JOR,Jordan,MENA,135.0,55.51,143.0,"57,93",8.0,,,,,,Problematic
+2016,THA,Thailand,Asie-Pacifique,136.0,55.47,134.0,"59,93",-2.0,,,,,,Problematic
+2016,HND,Honduras,Amériques,137.0,55.38,132.0,"60,73",-5.0,,,,,,Problematic
+2016,PHL,Philippines,Asie-Pacifique,138.0,55.34,141.0,"58,81",3.0,,,,,,Problematic
+2016,VEN,Venezuela,Amériques,139.0,55.23,137.0,"59,39",-2.0,,,,,,Problematic
+2016,SSD,South Sudan,Afrique,140.0,55.13,125.0,"61,96",-15.0,,,,,,Problematic
+2016,LKA,Sri Lanka,Asie-Pacifique,141.0,55.04,165.0,"39,72",24.0,,,,,,Problematic
+2016,ETH,Ethiopia,Afrique,142.0,54.87,142.0,"58,17",0.0,,,,,,Difficult
+2016,MMR,Myanmar,Asie-Pacifique,143.0,54.52,144.0,"57,92",1.0,,,,,,Difficult
+2016,BGD,Bangladesh,Asie-Pacifique,144.0,54.06,146.0,"57,05",2.0,,,,,,Difficult
+2016,GMB,Gambia,Afrique,145.0,53.47,151.0,"55,5",6.0,,,,,,Difficult
+2016,MYS,Malaysia,Asie-Pacifique,146.0,53.43,147.0,"56,71",1.0,,,,,,Difficult
+2016,PAK,Pakistan,Asie-Pacifique,147.0,51.48,159.0,"49,54",12.0,,,,,,Difficult
+2016,RUS,Russian Federation,EEAC,148.0,50.97,152.0,"55,03",4.0,,,,,,Difficult
+2016,MEX,Mexico,Amériques,149.0,50.67,148.0,"56,31",-1.0,,,,,,Difficult
+2016,TJK,Tajikistan,EEAC,150.0,49.66,116.0,"63,81",-34.0,,,,,,Difficult
+2016,TUR,Turkey,EEAC,151.0,49.24,149.0,"55,84",-2.0,,,,,,Difficult
+2016,COD,The Democratic Republic Of The Congo,Afrique,152.0,49.03,150.0,"55,69",-2.0,,,,,,Difficult
+2016,SWZ,Eswatini,Afrique,153.0,47.63,155.0,"52,72",2.0,,,,,,Difficult
+2016,SGP,Singapore,Asie-Pacifique,154.0,47.04,153.0,"54,13",-1.0,,,,,,Difficult
+2016,BRN,Brunei Darussalam,Asie-Pacifique,155.0,46.15,121.0,"63,24",-34.0,,,,,,Difficult
+2016,BDI,Burundi,Afrique,156.0,45.9,145.0,"57,07",-11.0,,,,,,Difficult
+2016,BLR,Belarus,EEAC,157.0,45.68,157.0,"52,02",0.0,,,,,,Difficult
+2016,IRQ,Iraq,MENA,158.0,45.65,156.0,"52,24",-2.0,,,,,,Difficult
+2016,EGY,Egypt,MENA,159.0,45.55,158.0,"49,83",-1.0,,,,,,Difficult
+2016,KAZ,Kazakhstan,EEAC,160.0,45.45,160.0,"46,54",0.0,,,,,,Difficult
+2016,RWA,Rwanda,Afrique,161.0,45.39,161.0,"43,43",0.0,,,,,,Difficult
+2016,BHR,Bahrain,MENA,162.0,45.14,163.0,"41,31",1.0,,,,,,Difficult
+2016,AZE,Azerbaijan,EEAC,163.0,42.11,162.0,"41,59",-1.0,,,,,,Difficult
+2016,LBY,Libya,MENA,164.0,42.11,154.0,"54,01",-10.0,,,,,,Difficult
+2016,SAU,Saudi Arabia,MENA,165.0,40.28,164.0,"40,59",-1.0,,,,,,Difficult
+2016,UZB,Uzbekistan,EEAC,166.0,38.85,166.0,"38,86",0.0,,,,,,Very Serious
+2016,SOM,Somalia,Afrique,167.0,34.65,172.0,"27,69",5.0,,,,,,Very Serious
+2016,GNQ,Equatorial Guinea,Afrique,168.0,33.53,167.0,"33,77",-1.0,,,,,,Very Serious
+2016,IRN,Islamic Republic of Iran,MENA,169.0,33.48,173.0,"27,68",4.0,,,,,,Very Serious
+2016,YEM,Yemen,MENA,170.0,32.93,168.0,"33,64",-2.0,,,,,,Very Serious
+2016,CUB,Cuba,Amériques,171.0,29.77,169.0,"29,79",-2.0,,,,,,Very Serious
+2016,DJI,Djibouti,Afrique,172.0,29.1,170.0,"28,96",-2.0,,,,,,Very Serious
+2016,LAO,Lao People's Democratic Republic,Asie-Pacifique,173.0,28.42,171.0,"28,75",-2.0,,,,,,Very Serious
+2016,SDN,Sudan,Afrique,174.0,27.47,174.0,"27,66",0.0,,,,,,Very Serious
+2016,VNM,Vietnam,Asie-Pacifique,175.0,25.73,175.0,"27,37",0.0,,,,,,Very Serious
+2016,CHN,China,Asie-Pacifique,176.0,19.04,176.0,"26,45",0.0,,,,,,Very Serious
+2016,SYR,Syrian Arab Republic,MENA,177.0,18.65,177.0,"22,71",0.0,,,,,,Very Serious
+2016,TKM,Turkmenistan,EEAC,178.0,16.56,178.0,"19,17",0.0,,,,,,Very Serious
+2016,PRK,Democratic People's Republic of Korea,Asie-Pacifique,179.0,16.24,179.0,"16,75",0.0,,,,,,Very Serious
+2016,ERI,Eritrea,Afrique,180.0,16.08,180.0,"15,14",0.0,,,,,,Very Serious
+2017,NOR,Norway,UE Balkans,1.0,92.4,3.0,"91,21",2.0,,,,,,Good
+2017,SWE,Sweden,UE Balkans,2.0,91.73,8.0,"87,67",6.0,,,,,,Good
+2017,FIN,Finland,UE Balkans,3.0,91.08,1.0,"91,41",-2.0,,,,,,Good
+2017,DNK,Denmark,UE Balkans,4.0,89.64,4.0,"91,11",0.0,,,,,,Good
+2017,NLD,Netherlands,UE Balkans,5.0,88.72,2.0,"91,24",-3.0,,,,,,Good
+2017,CRI,Costa Rica,Amériques,6.0,88.07,6.0,"88,9",0.0,,,,,,Good
+2017,CHE,Switzerland,UE Balkans,7.0,87.87,7.0,"88,24",0.0,,,,,,Good
+2017,JAM,Jamaica,Amériques,8.0,87.27,10.0,"87,55",2.0,,,,,,Good
+2017,BEL,Belgium,UE Balkans,9.0,87.25,13.0,"85,82",4.0,,,,,,Good
+2017,ISL,Iceland,UE Balkans,10.0,86.97,19.0,"84,7",9.0,,,,,,Good
+2017,AUT,Austria,UE Balkans,11.0,86.53,11.0,"86,82",0.0,,,,,,Good
+2017,EST,Estonia,UE Balkans,12.0,86.45,14.0,"85,69",2.0,,,,,,Good
+2017,NZL,New Zealand,Asie-Pacifique,13.0,86.02,5.0,"89,99",-8.0,,,,,,Good
+2017,IRL,Ireland,UE Balkans,14.0,85.92,9.0,"87,6",-5.0,,,,,,Good
+2017,LUX,Luxembourg,UE Balkans,15.0,85.28,15.0,"85,57",0.0,,,,,,Good
+2017,DEU,Germany,UE Balkans,16.0,85.03,16.0,"85,2",0.0,,,,,,Good
+2017,SVK,Slovakia,UE Balkans,17.0,84.49,12.0,"86,74",-5.0,,,,,,Satisfactory
+2017,PRT,Portugal,UE Balkans,18.0,84.23,23.0,"82,73",5.0,,,,,,Satisfactory
+2017,AUS,Australia,Asie-Pacifique,19.0,83.98,25.0,"82,16",6.0,,,,,,Satisfactory
+2017,SUR,Suriname,Amériques,20.0,83.93,22.0,"83,3",2.0,,,,,,Satisfactory
+2017,WSM,Samoa,Asie-Pacifique,21.0,83.59,29.0,"81,2",8.0,,,,,,Satisfactory
+2017,CAN,Canada,Amériques,22.0,83.47,18.0,"84,74",-4.0,,,,,,Satisfactory
+2017,CZE,Czech Republic,UE Balkans,23.0,83.09,21.0,"83,34",-2.0,,,,,,Satisfactory
+2017,NAM,Namibia,Afrique,24.0,82.92,17.0,"84,85",-7.0,,,,,,Satisfactory
+2017,URY,Uruguay,Amériques,25.0,82.57,20.0,"84,12",-5.0,,,,,,Satisfactory
+2017,GHA,Ghana,Afrique,26.0,82.05,26.0,"82,05",0.0,,,,,,Satisfactory
+2017,CPV,Cape Verde,Afrique,27.0,81.98,32.0,"80,18",5.0,,,,,,Satisfactory
+2017,LVA,Latvia,UE Balkans,28.0,81.38,24.0,"82,62",-4.0,,,,,,Satisfactory
+2017,ESP,Spain,UE Balkans,29.0,81.31,34.0,"80,08",5.0,,,,,,Satisfactory
+2017,CYP,Cyprus,UE Balkans,30.0,80.21,27.0,"81,74",-3.0,,,,,,Satisfactory
+2017,ZAF,South Africa,Afrique,31.0,79.88,39.0,"78,08",8.0,,,,,,Satisfactory
+2017,LIE,Liechtenstein,UE Balkans,32.0,79.69,28.0,"81,64",-4.0,,,,,,Satisfactory
+2017,CHL,Chile,Amériques,33.0,79.47,31.0,"80,77",-2.0,,,,,,Satisfactory
+2017,TTO,Trinidad and Tobago,Amériques,34.0,79.38,44.0,"76,71",10.0,,,,,,Satisfactory
+2017,AND,Andorra,UE Balkans,35.0,78.97,33.0,"80,13",-2.0,,,,,,Satisfactory
+2017,LTU,Lithuania,UE Balkans,36.0,78.63,35.0,"80,05",-1.0,,,,,,Satisfactory
+2017,SVN,Slovenia,UE Balkans,37.0,78.3,40.0,"77,74",3.0,,,,,,Satisfactory
+2017,XCD,OECS,Amériques,38.0,77.9,30.0,"81,09",-8.0,,,,,,Satisfactory
+2017,FRA,France,UE Balkans,39.0,77.76,45.0,"76,17",6.0,,,,,,Satisfactory
+2017,GBR,United Kingdom,UE Balkans,40.0,77.74,38.0,"78,3",-2.0,,,,,,Satisfactory
+2017,BLZ,Belize,Amériques,41.0,76.57,36.0,"79,39",-5.0,,,,,,Satisfactory
+2017,BFA,Burkina Faso,Afrique,42.0,76.15,42.0,"77,34",0.0,,,,,,Satisfactory
+2017,USA,United States,Amériques,43.0,76.12,41.0,"77,51",-2.0,,,,,,Satisfactory
+2017,COM,Comoros,Afrique,44.0,75.67,50.0,"75,67",6.0,,,,,,Satisfactory
+2017,TWN,Taiwan,Asie-Pacifique,45.0,75.63,51.0,"75,63",6.0,,,,,,Satisfactory
+2017,ROU,Romania,UE Balkans,46.0,75.54,49.0,"75,71",3.0,,,,,,Satisfactory
+2017,MLT,Malta,UE Balkans,47.0,75.24,46.0,"76,16",-1.0,,,,,,Satisfactory
+2017,BWA,Botswana,Afrique,48.0,75.07,43.0,"77,09",-5.0,,,,,,Satisfactory
+2017,TON,Tonga,Asie-Pacifique,49.0,75.03,37.0,"78,76",-12.0,,,,,,Satisfactory
+2017,ARG,Argentina,Amériques,50.0,74.93,54.0,"74,91",4.0,,,,,,Satisfactory
+2017,PNG,Papua New Guinea,Asie-Pacifique,51.0,74.93,55.0,"74,19",4.0,,,,,,Satisfactory
+2017,ITA,Italy,UE Balkans,52.0,73.74,77.0,"71,07",25.0,,,,,,Satisfactory
+2017,HTI,Haiti,Amériques,53.0,73.64,53.0,"75,34",0.0,,,,,,Satisfactory
+2017,POL,Poland,UE Balkans,54.0,73.53,47.0,"76,11",-7.0,,,,,,Satisfactory
+2017,MRT,Mauritania,Afrique,55.0,73.51,48.0,"75,97",-7.0,,,,,,Satisfactory
+2017,MUS,Mauritius,Afrique,56.0,73.33,61.0,"72,31",5.0,,,,,,Satisfactory
+2017,MDG,Madagascar,Afrique,57.0,73.29,56.0,"72,96",-1.0,,,,,,Satisfactory
+2017,SEN,Senegal,Afrique,58.0,73.28,65.0,"72,01",7.0,,,,,,Satisfactory
+2017,DOM,Dominican Republic,Amériques,59.0,73.24,62.0,"72,1",3.0,,,,,,Satisfactory
+2017,GUY,Guyana,Amériques,60.0,73.2,57.0,"72,93",-3.0,,,,,,Satisfactory
+2017,NER,Niger,Afrique,61.0,72.79,52.0,"75,38",-9.0,,,,,,Satisfactory
+2017,SLV,El Salvador,Amériques,62.0,72.76,58.0,"72,8",-4.0,,,,,,Satisfactory
+2017,KOR,South Korea,Asie-Pacifique,63.0,72.39,70.0,"71,42",7.0,,,,,,Satisfactory
+2017,GEO,Georgia,EEAC,64.0,72.24,64.0,"72,04",0.0,,,,,,Satisfactory
+2017,BIH,Bosnia and Herzegovina,UE Balkans,65.0,72.17,68.0,"71,55",3.0,,,,,,Satisfactory
+2017,SRB,Serbia,UE Balkans,66.0,71.95,59.0,"72,4",-7.0,,,,,,Satisfactory
+2017,FJI,Fiji,Asie-Pacifique,67.0,71.36,80.0,"70,63",13.0,,,,,,Satisfactory
+2017,LSO,Lesotho,Afrique,68.0,71.22,73.0,"71,22",5.0,,,,,,Satisfactory
+2017,MNG,Mongolia,Asie-Pacifique,69.0,71.05,60.0,"72,39",-9.0,,,,,,Satisfactory
+2017,MWI,Malawi,Afrique,70.0,71.03,66.0,"71,88",-4.0,,,,,,Satisfactory
+2017,HUN,Hungary,UE Balkans,71.0,70.99,67.0,"71,83",-4.0,,,,,,Satisfactory
+2017,JPN,Japan,Asie-Pacifique,72.0,70.56,72.0,"71,33",0.0,,,,,,Satisfactory
+2017,HKG,Hong Kong,Asie-Pacifique,73.0,70.54,69.0,"71,5",-4.0,,,,,,Satisfactory
+2017,HRV,Croatia,UE Balkans,74.0,70.41,63.0,"72,09",-11.0,,,,,,Satisfactory
+2017,CTU,Cyprus North,UE Balkans,75.0,70.12,81.0,"70,46",6.0,,,,,,Satisfactory
+2017,ALB,Albania,UE Balkans,76.0,70.08,82.0,"70,08",6.0,,,,,,Satisfactory
+2017,GNB,Guinea-Bissau,Afrique,77.0,69.91,79.0,"70,97",2.0,,,,,,Problematic
+2017,BEN,Benin,Afrique,78.0,69.68,78.0,"71,03",0.0,,,,,,Problematic
+2017,ARM,Armenia,EEAC,79.0,69.62,74.0,"71,21",-5.0,,,,,,Problematic
+2017,MDA,Moldova,EEAC,80.0,69.59,76.0,"71,17",-4.0,,,,,,Problematic
+2017,CIV,Ivory Coast,Afrique,81.0,69.58,86.0,"69,83",5.0,,,,,,Problematic
+2017,XKO,Kosovo,UE Balkans,82.0,69.55,90.0,"69,5",8.0,,,,,,Problematic
+2017,TZA,Tanzania,Afrique,83.0,69.35,71.0,"71,35",-12.0,,,,,,Problematic
+2017,BTN,Bhutan,Asie-Pacifique,84.0,69.27,94.0,"69,27",10.0,,,,,,Problematic
+2017,SLE,Sierra Leone,Afrique,85.0,69.27,83.0,"70,06",-2.0,,,,,,Problematic
+2017,TGO,Togo,Afrique,86.0,69.25,88.0,"69,69",2.0,,,,,,Problematic
+2017,SYC,Seychelles,Afrique,87.0,69.14,92.0,"69,4",5.0,,,,,,Problematic
+2017,GRC,Greece,UE Balkans,88.0,69.11,89.0,"69,65",1.0,,,,,,Problematic
+2017,KGZ,Kyrgyzstan,EEAC,89.0,69.08,85.0,"69,84",-4.0,,,,,,Problematic
+2017,PER,Peru,Amériques,90.0,69.02,84.0,"70,01",-6.0,,,,,,Problematic
+2017,ISR,Israel,MENA,91.0,68.99,101.0,"67,42",10.0,,,,,,Problematic
+2017,NIC,Nicaragua,Amériques,92.0,68.99,75.0,"71,18",-17.0,,,,,,Problematic
+2017,MOZ,Mozambique,Afrique,93.0,68.95,87.0,"69,75",-6.0,,,,,,Problematic
+2017,LBR,Liberia,Afrique,94.0,68.88,93.0,"69,29",-1.0,,,,,,Problematic
+2017,KEN,Kenya,Afrique,95.0,68.8,95.0,"68,84",0.0,,,,,,Problematic
+2017,PAN,Panama,Amériques,96.0,67.88,91.0,"69,41",-5.0,,,,,,Problematic
+2017,TUN,Tunisia,MENA,97.0,67.78,96.0,"68,4",-1.0,,,,,,Problematic
+2017,TLS,East Timor,Asie-Pacifique,98.0,67.18,99.0,"67,98",1.0,,,,,,Problematic
+2017,LBN,Lebanon,MENA,99.0,66.99,98.0,"68,05",-1.0,,,,,,Problematic
+2017,NPL,Nepal,Asie-Pacifique,100.0,66.98,105.0,"67,38",5.0,,,,,,Problematic
+2017,GIN,Guinea,Afrique,101.0,66.85,108.0,"66,92",7.0,,,,,,Problematic
+2017,UKR,Ukraine,EEAC,102.0,66.81,107.0,"67,07",5.0,,,,,,Problematic
+2017,BRA,Brazil,Amériques,103.0,66.42,104.0,"67,38",1.0,,,,,,Problematic
+2017,KWT,Kuwait,MENA,104.0,66.39,103.0,"67,41",-1.0,,,,,,Problematic
+2017,ECU,Ecuador,Amériques,105.0,66.36,109.0,"66,79",4.0,,,,,,Problematic
+2017,MNE,Montenegro,UE Balkans,106.0,66.35,106.0,"67,21",0.0,,,,,,Problematic
+2017,BOL,Bolivia,Amériques,107.0,66.12,97.0,"68,22",-10.0,,,,,,Problematic
+2017,GAB,Gabon,Afrique,108.0,65.17,100.0,"67,8",-8.0,,,,,,Problematic
+2017,BGR,Bulgaria,UE Balkans,109.0,64.99,113.0,"65,54",4.0,,,,,,Problematic
+2017,PRY,Paraguay,Amériques,110.0,64.36,111.0,"66,37",1.0,,,,,,Problematic
+2017,MKD,North Macedonia,UE Balkans,111.0,64.26,118.0,"63,91",7.0,,,,,,Problematic
+2017,UGA,Uganda,Afrique,112.0,64.06,102.0,"67,42",-10.0,,,,,,Problematic
+2017,CAF,Central African Republic,Afrique,113.0,63.88,110.0,"66,4",-3.0,,,,,,Problematic
+2017,ZMB,Zambia,Afrique,114.0,63.52,114.0,"64,92",0.0,,,,,,Problematic
+2017,COG,Congo,Afrique,115.0,63.27,115.0,"64,16",0.0,,,,,,Problematic
+2017,MLI,Mali,Afrique,116.0,61.73,122.0,"60,17",6.0,,,,,,Problematic
+2017,MDV,Maldives,Asie-Pacifique,117.0,60.7,112.0,"65,83",-5.0,,,,,,Problematic
+2017,GTM,Guatemala,Amériques,118.0,60.67,121.0,"61,97",3.0,,,,,,Problematic
+2017,ARE,United Arab Emirates,MENA,119.0,60.61,119.0,"63,27",0.0,,,,,,Problematic
+2017,AFG,Afghanistan,Asie-Pacifique,120.0,60.54,120.0,"62,25",0.0,,,,,,Problematic
+2017,TCD,Chad,Afrique,121.0,60.34,127.0,"59,41",6.0,,,,,,Problematic
+2017,NGA,Nigeria,Afrique,122.0,60.31,116.0,"64,1",-6.0,,,,,,Problematic
+2017,QAT,Qatar,MENA,123.0,60.17,117.0,"64,03",-6.0,,,,,,Problematic
+2017,IDN,Indonesia,Asie-Pacifique,124.0,60.07,130.0,"58,28",6.0,,,,,,Problematic
+2017,AGO,Angola,Afrique,125.0,59.58,123.0,"60,11",-2.0,,,,,,Problematic
+2017,OMN,Oman,MENA,126.0,59.54,125.0,"59,57",-1.0,,,,,,Problematic
+2017,PHL,Philippines,Asie-Pacifique,127.0,58.92,138.0,"55,34",11.0,,,,,,Problematic
+2017,ZWE,Zimbabwe,Afrique,128.0,58.56,124.0,"59,59",-4.0,,,,,,Problematic
+2017,COL,Colombia,Amériques,129.0,58.53,134.0,"55,89",5.0,,,,,,Problematic
+2017,CMR,Cameroon,Afrique,130.0,58.41,126.0,"59,47",-4.0,,,,,,Problematic
+2017,MMR,Myanmar,Asie-Pacifique,131.0,58.18,143.0,"54,52",12.0,,,,,,Problematic
+2017,KHM,Cambodia,Asie-Pacifique,132.0,57.93,128.0,"59,3",-4.0,,,,,,Problematic
+2017,MAR,Morocco,MENA,133.0,57.58,131.0,"57,36",-2.0,,,,,,Problematic
+2017,DZA,Algeria,MENA,134.0,57.17,129.0,"58,31",-5.0,,,,,,Problematic
+2017,PSE,Palestine,MENA,135.0,57.1,132.0,"57,07",-3.0,,,,,,Problematic
+2017,IND,India,Asie-Pacifique,136.0,57.06,133.0,"56,83",-3.0,,,,,,Problematic
+2017,VEN,Venezuela,Amériques,137.0,57.06,139.0,"55,23",2.0,,,,,,Problematic
+2017,JOR,Jordan,MENA,138.0,56.76,135.0,"55,51",-3.0,,,,,,Problematic
+2017,PAK,Pakistan,Asie-Pacifique,139.0,56.45,147.0,"51,48",8.0,,,,,,Problematic
+2017,HND,Honduras,Amériques,140.0,56.25,137.0,"55,38",-3.0,,,,,,Problematic
+2017,LKA,Sri Lanka,Asie-Pacifique,141.0,55.66,141.0,"55,04",0.0,,,,,,Problematic
+2017,THA,Thailand,Asie-Pacifique,142.0,55.31,136.0,"55,47",-6.0,,,,,,Problematic
+2017,GMB,Gambia,Afrique,143.0,53.3,145.0,"53,47",2.0,,,,,,Difficult
+2017,MYS,Malaysia,Asie-Pacifique,144.0,53.11,146.0,"53,43",2.0,,,,,,Difficult
+2017,SSD,South Sudan,Afrique,145.0,51.84,140.0,"55,13",-5.0,,,,,,Difficult
+2017,BGD,Bangladesh,Asie-Pacifique,146.0,51.64,144.0,"54,06",-2.0,,,,,,Difficult
+2017,MEX,Mexico,Amériques,147.0,51.03,149.0,"50,67",2.0,,,,,,Difficult
+2017,RUS,Russian Federation,EEAC,148.0,50.55,148.0,"50,97",0.0,,,,,,Difficult
+2017,TJK,Tajikistan,EEAC,149.0,49.73,150.0,"49,66",1.0,,,,,,Difficult
+2017,ETH,Ethiopia,Afrique,150.0,49.66,142.0,"54,87",-8.0,,,,,,Difficult
+2017,SGP,Singapore,Asie-Pacifique,151.0,48.9,154.0,"47,04",3.0,,,,,,Difficult
+2017,SWZ,Eswatini,Afrique,152.0,48.73,153.0,"47,63",1.0,,,,,,Difficult
+2017,BLR,Belarus,EEAC,153.0,47.57,157.0,"45,68",4.0,,,,,,Difficult
+2017,COD,The Democratic Republic Of The Congo,Afrique,154.0,47.33,152.0,"49,03",-2.0,,,,,,Difficult
+2017,TUR,Turkey,EEAC,155.0,47.02,151.0,"49,24",-4.0,,,,,,Difficult
+2017,BRN,Brunei Darussalam,Asie-Pacifique,156.0,46.28,155.0,"46,15",-1.0,,,,,,Difficult
+2017,KAZ,Kazakhstan,EEAC,157.0,45.99,160.0,"45,45",3.0,,,,,,Difficult
+2017,IRQ,Iraq,MENA,158.0,45.97,158.0,"45,65",0.0,,,,,,Difficult
+2017,RWA,Rwanda,Afrique,159.0,45.89,161.0,"45,39",2.0,,,,,,Difficult
+2017,BDI,Burundi,Afrique,160.0,44.22,156.0,"45,9",-4.0,,,,,,Difficult
+2017,EGY,Egypt,MENA,161.0,44.22,159.0,"45,55",-2.0,,,,,,Difficult
+2017,AZE,Azerbaijan,EEAC,162.0,43.6,163.0,"42,11",1.0,,,,,,Difficult
+2017,LBY,Libya,MENA,163.0,43.19,164.0,"42,11",1.0,,,,,,Difficult
+2017,BHR,Bahrain,MENA,164.0,41.12,162.0,"45,14",-2.0,,,,,,Difficult
+2017,IRN,Islamic Republic of Iran,MENA,165.0,34.88,169.0,"33,48",4.0,,,,,,Very Serious
+2017,YEM,Yemen,MENA,166.0,34.2,170.0,"32,93",4.0,,,,,,Very Serious
+2017,SOM,Somalia,Afrique,167.0,34.05,167.0,"34,65",0.0,,,,,,Very Serious
+2017,SAU,Saudi Arabia,MENA,168.0,33.98,165.0,"40,28",-3.0,,,,,,Very Serious
+2017,UZB,Uzbekistan,EEAC,169.0,33.89,166.0,"38,85",-3.0,,,,,,Very Serious
+2017,LAO,Lao People's Democratic Republic,Asie-Pacifique,170.0,33.59,173.0,"28,42",3.0,,,,,,Very Serious
+2017,GNQ,Equatorial Guinea,Afrique,171.0,33.53,168.0,"33,53",-3.0,,,,,,Very Serious
+2017,DJI,Djibouti,Afrique,172.0,29.46,172.0,"29,1",0.0,,,,,,Very Serious
+2017,CUB,Cuba,Amériques,173.0,28.25,171.0,"29,77",-2.0,,,,,,Very Serious
+2017,SDN,Sudan,Afrique,174.0,26.44,174.0,"27,47",0.0,,,,,,Very Serious
+2017,VNM,Vietnam,Asie-Pacifique,175.0,26.04,175.0,"25,73",0.0,,,,,,Very Serious
+2017,CHN,China,Asie-Pacifique,176.0,22.34,176.0,"19,04",0.0,,,,,,Very Serious
+2017,SYR,Syrian Arab Republic,MENA,177.0,18.51,177.0,"18,65",0.0,,,,,,Very Serious
+2017,TKM,Turkmenistan,EEAC,178.0,15.81,178.0,"16,56",0.0,,,,,,Very Serious
+2017,ERI,Eritrea,Afrique,179.0,15.76,180.0,"16,08",1.0,,,,,,Very Serious
+2017,PRK,Democratic People's Republic of Korea,Asie-Pacifique,180.0,15.02,179.0,"16,24",-1.0,,,,,,Very Serious
+2022,NOR,Norway,UE Balkans,1.0,92.65,1.0,,0.0,"90,38","92,03","94,89","92,23","93,71",Good
+2022,DNK,Denmark,UE Balkans,2.0,90.27,4.0,,2.0,"83,67","92,97","94,34","89,18","91,17",Good
+2022,SWE,Sweden,UE Balkans,3.0,88.84,3.0,,0.0,"87,66","84,14","91,96","90,27","90,18",Good
+2022,EST,Estonia,UE Balkans,4.0,88.83,15.0,,11.0,"81,97","93,2","91,11","87,87",90,Good
+2022,FIN,Finland,UE Balkans,5.0,88.42,2.0,,-3.0,"82,03","92,26","90,4","86,64","90,77",Good
+2022,IRL,Ireland,UE Balkans,6.0,88.3,12.0,,6.0,"79,08","95,58","89,24","85,09","92,5",Good
+2022,PRT,Portugal,UE Balkans,7.0,87.07,9.0,,2.0,"77,41","88,73","91,86","84,21","93,14",Good
+2022,CRI,Costa Rica,Amériques,8.0,85.92,5.0,,-3.0,"72,96","94,78","81,62","87,72","92,5",Good
+2022,LTU,Lithuania,UE Balkans,9.0,84.14,28.0,,19.0,"72,16","87,37","87,01","84,46","89,71",Satisfactory
+2022,LIE,Liechtenstein,UE Balkans,10.0,84.03,23.0,,13.0,"68,78","96,46","80,36","84,74","89,8",Satisfactory
+2022,NZL,New Zealand,Asie-Pacifique,11.0,83.54,8.0,,-3.0,"75,26","87,76","90,15","74,78","89,75",Satisfactory
+2022,JAM,Jamaica,Amériques,12.0,83.35,7.0,,-5.0,"71,94","92,52","74,85","82,46",95,Satisfactory
+2022,SYC,Seychelles,Afrique,13.0,83.33,52.0,,39.0,"69,13","91,5","80,45","85,31","90,25",Satisfactory
+2022,CHE,Switzerland,UE Balkans,14.0,82.72,10.0,,-4.0,"68,37","85,92",90,"80,99","88,33",Satisfactory
+2022,ISL,Iceland,UE Balkans,15.0,82.69,16.0,,1.0,"65,56","91,5","86,21","82,68","87,5",Satisfactory
+2022,DEU,Germany,UE Balkans,16.0,82.04,13.0,,-3.0,"80,07","66,58","87,03","87,08","89,47",Satisfactory
+2022,TLS,East Timor,Asie-Pacifique,17.0,81.89,71.0,,54.0,"68,71","93,65","85,45","85,96","75,67",Satisfactory
+2022,NAM,Namibia,Afrique,18.0,81.84,24.0,,6.0,"69,8","91,84","72,97","82,98","91,6",Satisfactory
+2022,CAN,Canada,Amériques,19.0,81.74,14.0,,-5.0,"71,17","82,99","82,27","80,26",92,Satisfactory
+2022,CZE,Czech Republic,UE Balkans,20.0,80.54,40.0,,20.0,"61,56","88,81","79,66","84,21","88,44",Satisfactory
+2022,LUX,Luxembourg,UE Balkans,21.0,79.81,20.0,,-1.0,"66,33","88,14","82,94","72,93","88,71",Satisfactory
+2022,LVA,Latvia,UE Balkans,22.0,79.17,22.0,,0.0,"64,58","84,06","78,96","80,89","87,36",Satisfactory
+2022,BEL,Belgium,UE Balkans,23.0,78.86,11.0,,-12.0,"71,22","81,35","75,03","79,3","87,4",Satisfactory
+2022,GBR,United Kingdom,UE Balkans,24.0,78.71,33.0,,9.0,"72,75","79,33","80,57","76,63","84,29",Satisfactory
+2022,TTO,Trinidad and Tobago,Amériques,25.0,78.68,31.0,,6.0,"67,86","92,52","73,94","74,56","84,5",Satisfactory
+2022,FRA,France,UE Balkans,26.0,78.53,34.0,,8.0,"67,86","69,05","79,85","86,51","89,38",Satisfactory
+2022,SVK,Slovakia,UE Balkans,27.0,78.37,35.0,,8.0,"67,98","84,01","71,44","82,02","86,38",Satisfactory
+2022,NLD,Netherlands,UE Balkans,28.0,77.93,6.0,,-22.0,"82,86","47,09","86,3","87,28","86,1",Satisfactory
+2022,ARG,Argentina,Amériques,29.0,77.28,69.0,,40.0,"51,53","82,06","76,36","90,68","85,75",Satisfactory
+2022,DOM,Dominican Republic,Amériques,30.0,76.9,50.0,,20.0,"62,24","72,79","71,52","85,96",92,Satisfactory
+2022,AUT,Austria,UE Balkans,31.0,76.74,17.0,,-14.0,"61,43","84,29","77,82","78,95","81,2",Satisfactory
+2022,ESP,Spain,UE Balkans,32.0,76.71,29.0,,-3.0,"63,38","83,4","72,73","82,16","81,89",Satisfactory
+2022,BTN,Bhutan,Asie-Pacifique,33.0,76.46,65.0,,32.0,"62,24","93,88","78,79","70,39",77,Satisfactory
+2022,GUY,Guyana,Amériques,34.0,76.41,51.0,,17.0,"67,76","87,21","70,06","75,61","81,4",Satisfactory
+2022,ZAF,South Africa,Afrique,35.0,75.56,32.0,,-3.0,"62,59","72,39","75,96","84,36","82,5",Satisfactory
+2022,CPV,Cape Verde,Afrique,36.0,75.37,27.0,,-9.0,"62,76","88,16","72,55","77,98","75,4",Satisfactory
+2022,CIV,Ivory Coast,Afrique,37.0,74.46,66.0,,29.0,"58,45","81,6","74,89","75,94","81,43",Satisfactory
+2022,TWN,Taiwan,Asie-Pacifique,38.0,74.08,43.0,,5.0,"51,88","87,02","74,78","79,01","77,69",Satisfactory
+2022,AUS,Australia,Asie-Pacifique,39.0,73.77,25.0,,-14.0,"63,44","79,88","77,17","64,18","84,17",Satisfactory
+2022,MDA,Moldova,EEAC,40.0,73.47,89.0,,49.0,"47,83","80,48","70,15",83,"85,88",Satisfactory
+2022,BFA,Burkina Faso,Afrique,41.0,73.12,37.0,,-4.0,"67,69","55,52","78,99","75,58","87,83",Satisfactory
+2022,USA,United States,Amériques,42.0,72.74,44.0,,2.0,"59,33","72,63","72,99","77,32","81,43",Satisfactory
+2022,KOR,South Korea,Asie-Pacifique,43.0,72.11,42.0,,-1.0,"55,31","81,5","71,15","72,81","79,8",Satisfactory
+2022,URY,Uruguay,Amériques,44.0,72.03,18.0,,-26.0,"49,32","84,58","70,3","83,63","72,33",Satisfactory
+2022,WSM,Samoa,Asie-Pacifique,45.0,71.39,21.0,,-24.0,"56,12","89,12","61,82","64,91",85,Satisfactory
+2022,SLE,Sierra Leone,Afrique,46.0,71.03,75.0,,29.0,"50,38","75,14","73,71","78,4","77,5",Satisfactory
+2022,BLZ,Belize,Amériques,47.0,70.67,53.0,,6.0,"52,04","85,71",70,"63,6",82,Satisfactory
+2022,HRV,Croatia,UE Balkans,48.0,70.42,56.0,,8.0,"50,46","78,08","68,26","79,19","76,09",Satisfactory
+2022,TON,Tonga,Asie-Pacifique,49.0,69.74,46.0,,-3.0,"53,06","89,8","69,7","66,67","69,5",Problematic
+2022,GMB,Gambia,Afrique,50.0,69.25,85.0,,35.0,"51,36","74,74","71,11","67,69","81,33",Problematic
+2022,ARM,Armenia,EEAC,51.0,68.97,63.0,,12.0,"44,44","79,91","66,26","77,88","76,33",Problematic
+2022,SUR,Suriname,Amériques,52.0,68.95,19.0,,-33.0,"55,1","75,51","67,88","62,28",84,Problematic
+2022,AND,Andorra,UE Balkans,53.0,68.79,39.0,,-14.0,"50,41","87,48","68,12","69,12","68,8",Problematic
+2022,SVN,Slovenia,UE Balkans,54.0,68.54,36.0,,-18.0,"47,7","76,61","59,32","79,11","79,94",Problematic
+2022,XCD,OECS,Amériques,55.0,68.49,45.0,,-10.0,"48,37","83,13","62,91","68,25","79,8",Problematic
+2022,ROU,Romania,UE Balkans,56.0,68.46,48.0,,-8.0,"46,77","70,63","66,77","76,46","81,67",Problematic
+2022,MKD,North Macedonia,UE Balkans,57.0,68.44,90.0,,33.0,"43,71","77,85","66,16","81,29","73,17",Problematic
+2022,ITA,Italy,UE Balkans,58.0,68.16,41.0,,-17.0,"47,52","73,48","65,89","73,93",80,Problematic
+2022,NER,Niger,Afrique,59.0,67.8,59.0,,0.0,"46,73","81,69","62,3","71,75","76,5",Problematic
+2022,GHA,Ghana,Afrique,60.0,67.43,30.0,,-30.0,"47,22","62,25","66,61","81,42","79,64",Problematic
+2022,XKO,Kosovo,UE Balkans,61.0,67.0,78.0,,17.0,"45,24","70,26","64,34","80,85","74,33",Problematic
+2022,PNG,Papua New Guinea,Asie-Pacifique,62.0,66.66,47.0,,-15.0,"45,24","78,23","62,42","66,08","81,33",Problematic
+2022,MNE,Montenegro,UE Balkans,63.0,66.54,104.0,,41.0,"47,67","74,33","62,51","77,19",71,Problematic
+2022,MUS,Mauritius,Afrique,64.0,66.07,61.0,,-3.0,"47,81","82,5","55,58","64,16","80,29",Problematic
+2022,CYP,Cyprus,UE Balkans,65.0,65.97,26.0,,-39.0,"42,09","86,25","61,21","74,56","65,75",Problematic
+2022,POL,Poland,UE Balkans,66.0,65.64,64.0,,-2.0,"57,41","68,33","50,95","68,95","82,53",Problematic
+2022,BIH,Bosnia and Herzegovina,UE Balkans,67.0,65.64,58.0,,-9.0,"40,23","74,95","61,56","79,57","71,86",Problematic
+2022,ECU,Ecuador,Amériques,68.0,64.61,96.0,,28.0,"55,44","70,03","60,1","67,98","69,5",Problematic
+2022,KEN,Kenya,Afrique,69.0,64.59,102.0,,33.0,"46,33","63,92","62,42","72,28",78,Problematic
+2022,HTI,Haiti,Amériques,70.0,64.55,87.0,,17.0,"50,34","59,91","59,6","72,22","80,67",Problematic
+2022,JPN,Japan,Asie-Pacifique,71.0,64.37,67.0,,-4.0,"53,7","80,19","54,66","66,23","67,06",Problematic
+2022,KGZ,Kyrgyzstan,EEAC,72.0,64.25,79.0,,7.0,"48,64","74,83","59,9","68,86",69,Problematic
+2022,SEN,Senegal,Afrique,73.0,63.07,49.0,,-24.0,"42,13","74,84","59,31","66,67","72,43",Problematic
+2022,PAN,Panama,Amériques,74.0,62.78,77.0,,3.0,"47,45","74,15","54,24","64,04",74,Problematic
+2022,LBR,Liberia,Afrique,75.0,62.77,98.0,,23.0,"32,8","68,3","55,5","74,69","82,57",Problematic
+2022,NPL,Nepal,Asie-Pacifique,76.0,62.67,106.0,,30.0,"40,14","69,99","59,8","66,08","77,33",Problematic
+2022,PER,Peru,Amériques,77.0,61.75,91.0,,14.0,"41,84","66,35","66,97","70,61",63,Problematic
+2022,MLT,Malta,UE Balkans,78.0,61.55,81.0,,3.0,"41,33","76,87","46,82","67,98","74,75",Problematic
+2022,SRB,Serbia,UE Balkans,79.0,61.51,93.0,,14.0,"34,92","71,03","47,47","79,92","74,22",Problematic
+2022,MWI,Malawi,Afrique,80.0,61.4,62.0,,-18.0,"38,44","67,08","55,76","78,07","67,67",Problematic
+2022,CTU,Cyprus North,UE Balkans,81.0,61.08,76.0,,-5.0,"38,78","80,14","56,48","69,82","60,2",Problematic
+2022,CHL,Chile,Amériques,82.0,60.61,54.0,,-28.0,"42,86","55,15","65,03","67,63","72,4",Problematic
+2022,COM,Comoros,Afrique,83.0,60.16,84.0,,1.0,"50,26","58,56","56,36","59,98","75,63",Problematic
+2022,GIN,Guinea,Afrique,84.0,59.82,109.0,,25.0,"47,05","50,96","59,26","71,15","70,67",Problematic
+2022,HUN,Hungary,UE Balkans,85.0,59.8,92.0,,7.0,"32,31","85,03","47,07","67,25","67,33",Problematic
+2022,ISR,Israel,MENA,86.0,59.62,86.0,,0.0,"55,1","46,61","65,15","53,51","77,75",Problematic
+2022,MDV,Maldives,Asie-Pacifique,87.0,59.55,72.0,,-15.0,"38,27","75,12","62,27","67,11",55,Problematic
+2022,LSO,Lesotho,Afrique,88.0,59.39,88.0,,0.0,"40,14","68,11","57,37","57,31",74,Problematic
+2022,GEO,Georgia,EEAC,89.0,59.3,60.0,,-29.0,"46,43","41,34","52,42","80,79","75,5",Problematic
+2022,MNG,Mongolia,Asie-Pacifique,90.0,59.17,68.0,,-22.0,"36,18","74,27","55,48","60,37","69,55",Problematic
+2022,BGR,Bulgaria,UE Balkans,91.0,59.12,112.0,,21.0,"30,1","75,02","54,95","68,71","66,83",Problematic
+2022,GNB,Guinea-Bissau,Afrique,92.0,58.79,95.0,,3.0,"50,82","61,18","51,15","68,42","62,4",Problematic
+2022,COG,Congo,Afrique,93.0,58.64,118.0,,25.0,"48,57","59,76","58,06","64,21","62,6",Problematic
+2022,TUN,Tunisia,MENA,94.0,58.49,73.0,,-21.0,"41,84","51,42","61,82","67,19","70,2",Problematic
+2022,BWA,Botswana,Afrique,95.0,58.49,38.0,,-57.0,"37,24","72,11","56,97","56,36","69,75",Problematic
+2022,PRY,Paraguay,Amériques,96.0,58.36,100.0,,4.0,"31,12","65,99","54,24","75,44",65,Problematic
+2022,MRT,Mauritania,Afrique,97.0,58.1,94.0,,-3.0,"35,13","71,67","55,15","64,29","64,29",Problematic
+2022,MDG,Madagascar,Afrique,98.0,58.02,57.0,,-41.0,"35,08","73,47","52,58","64,47","64,5",Problematic
+2022,AGO,Angola,Afrique,99.0,57.17,103.0,,4.0,"35,03","63,87","52,83","61,11",73,Problematic
+2022,TGO,Togo,Afrique,100.0,57.17,74.0,,-26.0,"41,73","55,15","57,52","61,93","69,5",Problematic
+2022,CAF,Central African Republic,Afrique,101.0,56.96,126.0,,25.0,"41,07","62,19","51,21","62,06","68,25",Problematic
+2022,FJI,Fiji,Asie-Pacifique,102.0,56.91,55.0,,-47.0,"39,8","77,55","44,85","58,33",64,Problematic
+2022,ALB,Albania,UE Balkans,103.0,56.41,83.0,,-20.0,"29,39","66,75","50,55","68,77","66,6",Problematic
+2022,TCD,Chad,Afrique,104.0,56.18,123.0,,19.0,"43,27","58,21","55,88","60,35","63,2",Problematic
+2022,GAB,Gabon,Afrique,105.0,56.0,117.0,,12.0,"39,46","70,52","48,38","56,14","65,5",Problematic
+2022,UKR,Ukraine,EEAC,106.0,55.76,97.0,,-9.0,"42,86","18,84","61,21","79,45","76,43",Problematic
+2022,BDI,Burundi,Afrique,107.0,55.74,147.0,,40.0,"44,67","71,66","50,03","59,55","52,78",Problematic
+2022,GRC,Greece,UE Balkans,108.0,55.52,70.0,,-38.0,"38,13","44,1","60,5","69,54","65,36",Problematic
+2022,ZMB,Zambia,Afrique,109.0,55.4,115.0,,6.0,"37,76","64,55","52,35","58,33",64,Problematic
+2022,BRA,Brazil,Amériques,110.0,55.36,111.0,,1.0,"37,59","47,86","51,62","69,74",70,Problematic
+2022,MLI,Mali,Afrique,111.0,54.48,99.0,,-12.0,"42,6","41,81","35,15","74,34","78,5",Difficult
+2022,SLV,El Salvador,Amériques,112.0,54.09,82.0,,-30.0,"39,07","62,37","42,94","63,22","62,86",Difficult
+2022,MYS,Malaysia,Asie-Pacifique,113.0,51.55,119.0,,6.0,"42,6","72,48","46,52","40,13",56,Difficult
+2022,ETH,Ethiopia,Afrique,114.0,50.53,101.0,,-13.0,"45,77","35,29","50,65","63,66","57,29",Difficult
+2022,THA,Thailand,Asie-Pacifique,115.0,50.15,137.0,,22.0,"45,24","45,5","58,99","47,37","53,67",Difficult
+2022,MOZ,Mozambique,Afrique,116.0,49.89,108.0,,-8.0,"40,31","54,21","46,06","61,62","47,25",Difficult
+2022,IDN,Indonesia,Asie-Pacifique,117.0,49.27,113.0,,-4.0,"41,33","37,42","45,91","55,7",66,Difficult
+2022,CMR,Cameroon,Afrique,118.0,49.1,135.0,,17.0,"35,71","37,25","48,05","56,89","67,57",Difficult
+2022,QAT,Qatar,MENA,119.0,49.03,128.0,,9.0,"46,94","52,17","59,7","43,86","42,5",Difficult
+2022,JOR,Jordan,MENA,120.0,48.66,129.0,,9.0,"32,65","63,4",40,"41,23",66,Difficult
+2022,BEN,Benin,Afrique,121.0,48.39,114.0,,-7.0,"28,19","53,1","47,73","57,46","55,5",Difficult
+2022,KAZ,Kazakhstan,EEAC,122.0,48.28,155.0,,33.0,"29,8","63,85","43,52","51,93","52,3",Difficult
+2022,TZA,Tanzania,Afrique,123.0,48.28,124.0,,1.0,"32,65","60,56","43,88","45,09","59,2",Difficult
+2022,GTM,Guatemala,Amériques,124.0,47.94,116.0,,-8.0,"33,67","32,12","46,06","68,86",59,Difficult
+2022,COD,The Democratic Republic Of The Congo,Afrique,125.0,47.66,149.0,,24.0,"41,43","24,34","51,33","60,88","60,3",Difficult
+2022,BOL,Bolivia,Amériques,126.0,47.58,110.0,,-16.0,"33,67","55,89","44,55","58,77",45,Difficult
+2022,MEX,Mexico,Amériques,127.0,47.57,143.0,,16.0,"43,37","11,02","58,18","65,79","59,5",Difficult
+2022,SSD,South Sudan,Afrique,128.0,47.06,139.0,,11.0,"36,73","55,37","40,48","52,11","50,6",Difficult
+2022,NGA,Nigeria,Afrique,129.0,46.79,120.0,,-9.0,"36,39","28,75","45,15","53,8","69,83",Difficult
+2022,LBN,Lebanon,MENA,130.0,46.58,107.0,,-23.0,"38,27","33,02","50,91","50,22","60,5",Difficult
+2022,SWZ,Eswatini,Afrique,131.0,46.42,141.0,,10.0,"35,03","61,4","41,31","43,86","50,5",Difficult
+2022,UGA,Uganda,Afrique,132.0,46.35,125.0,,-7.0,"36,99","33,09","44,7","60,96",56,Difficult
+2022,UZB,Uzbekistan,EEAC,133.0,45.74,157.0,,24.0,"35,71","44,03","44,75","50,88","53,33",Difficult
+2022,DZA,Algeria,MENA,134.0,45.53,146.0,,12.0,"32,4","44,02","41,21","54,17","55,88",Difficult
+2022,MAR,Morocco,MENA,135.0,45.42,136.0,,1.0,"28,83","34,82","51,67","55,81",56,Difficult
+2022,RWA,Rwanda,Afrique,136.0,45.18,156.0,,20.0,"31,89","38,76","42,12","57,89","55,25",Difficult
+2022,ZWE,Zimbabwe,Afrique,137.0,44.94,130.0,,-7.0,"32,4","43,34","40,3","54,17","54,5",Difficult
+2022,ARE,United Arab Emirates,MENA,138.0,44.46,131.0,,-7.0,"36,73","57,59","45,45","32,02","50,5",Difficult
+2022,SGP,Singapore,Asie-Pacifique,139.0,44.23,160.0,,21.0,"29,21","69,39","39,09","34,21","49,25",Difficult
+2022,SOM,Somalia,Afrique,140.0,44.01,161.0,,21.0,"41,22","18,27","51,03","47,72","61,8",Difficult
+2022,GNQ,Equatorial Guinea,Afrique,141.0,43.96,164.0,,23.0,"24,49","64,04","42,73","44,3","44,25",Difficult
+2022,KHM,Cambodia,Asie-Pacifique,142.0,43.48,144.0,,2.0,"27,96","34,96","42,42","49,65","62,4",Difficult
+2022,LBY,Libya,MENA,143.0,43.16,165.0,,22.0,"34,9","36,58","54,42","44,91",45,Difficult
+2022,BRN,Brunei Darussalam,Asie-Pacifique,144.0,42.53,154.0,,10.0,"30,61","78,91","40,61","28,51",34,Difficult
+2022,COL,Colombia,Amériques,145.0,42.43,134.0,,-11.0,"32,27","24,4","44,7","60,42","50,38",Difficult
+2022,LKA,Sri Lanka,Asie-Pacifique,146.0,42.13,127.0,,-19.0,"27,04","41,37","40,91","53,07","48,25",Difficult
+2022,PHL,Philippines,Asie-Pacifique,147.0,41.84,138.0,,-9.0,"23,13","24,83","44,44","54,97","61,83",Difficult
+2022,HKG,Hong Kong,Asie-Pacifique,148.0,41.64,80.0,,-68.0,"35,9","31,78","40,5","42,58","57,45",Difficult
+2022,TUR,Turkey,EEAC,149.0,41.25,153.0,,4.0,"27,55","32,37","38,38","52,92",55,Difficult
+2022,IND,India,Asie-Pacifique,150.0,41.0,142.0,,-8.0,"30,36","20,61","40,76","57,02","56,25",Difficult
+2022,SDN,Sudan,Afrique,151.0,40.96,159.0,,8.0,"29,97","35,35","47,05","41,45",51,Difficult
+2022,TJK,Tajikistan,EEAC,152.0,40.26,162.0,,10.0,"29,85","42,96","33,79","48,68",46,Difficult
+2022,BLR,Belarus,EEAC,153.0,39.62,158.0,,5.0,"48,75","18,85","32,93","37,23","60,33",Very Serious
+2022,AZE,Azerbaijan,EEAC,154.0,39.4,167.0,,13.0,"23,76","28,48","37,66","48,25","58,86",Very Serious
+2022,RUS,Russian Federation,EEAC,155.0,38.82,150.0,,-5.0,"34,84",27,"36,36","44,61","51,29",Very Serious
+2022,AFG,Afghanistan,Asie-Pacifique,156.0,38.27,122.0,,-34.0,"43,88","16,96","44,65","42,54","43,33",Very Serious
+2022,PAK,Pakistan,Asie-Pacifique,157.0,37.99,145.0,,-12.0,"31,92","17,75","39,57","53,26","47,43",Very Serious
+2022,KWT,Kuwait,MENA,158.0,37.87,105.0,,-53.0,"19,39","73,41","32,73","36,84",27,Very Serious
+2022,VEN,Venezuela,Amériques,159.0,37.78,148.0,,-11.0,"31,73","31,22","33,7","44,74","47,5",Very Serious
+2022,NIC,Nicaragua,Amériques,160.0,37.09,121.0,,-39.0,"38,78","27,68","37,45","31,75","49,8",Very Serious
+2022,LAO,Lao People's Democratic Republic,Asie-Pacifique,161.0,36.64,172.0,,11.0,"20,92","50,64","36,06","31,58",44,Very Serious
+2022,BGD,Bangladesh,Asie-Pacifique,162.0,36.63,152.0,,-10.0,"32,48","15,88","42,12","44,15","48,5",Very Serious
+2022,OMN,Oman,MENA,163.0,35.99,133.0,,-30.0,"23,98","59,82","32,73","18,42",45,Very Serious
+2022,DJI,Djibouti,Afrique,164.0,35.75,176.0,,12.0,"16,12","54,56","32,73","37,72","37,6",Very Serious
+2022,HND,Honduras,Amériques,165.0,34.61,151.0,,-14.0,"31,63","40,22","33,33","36,84",31,Very Serious
+2022,SAU,Saudi Arabia,MENA,166.0,33.71,170.0,,4.0,"33,67","38,75","37,27","22,37","36,5",Very Serious
+2022,BHR,Bahrain,MENA,167.0,30.97,168.0,,1.0,"21,43","29,65","35,15","28,95","39,67",Very Serious
+2022,EGY,Egypt,MENA,168.0,30.23,166.0,,-2.0,"23,47","17,64","30,91","34,87","44,25",Very Serious
+2022,YEM,Yemen,MENA,169.0,29.14,169.0,,0.0,"27,55","11,54","33,03","38,6",35,Very Serious
+2022,PSE,Palestine,MENA,170.0,28.98,132.0,,-38.0,"15,82","20,74","35,45","36,4","36,5",Very Serious
+2022,SYR,Syrian Arab Republic,MENA,171.0,28.94,173.0,,2.0,"27,62","13,39","33,51","33,58","36,57",Very Serious
+2022,IRQ,Iraq,MENA,172.0,28.59,163.0,,-9.0,"20,07","18,27","34,14","29,82","40,67",Very Serious
+2022,CUB,Cuba,Amériques,173.0,27.32,171.0,,-2.0,"39,8","26,24","27,27","15,79","27,5",Very Serious
+2022,VNM,Vietnam,Asie-Pacifique,174.0,26.11,175.0,,1.0,"18,71","17,37","32,32","27,49","34,67",Very Serious
+2022,CHN,China,Asie-Pacifique,175.0,25.17,177.0,,2.0,"26,02","15,84","27,45","23,25","33,3",Very Serious
+2022,MMR,Myanmar,Asie-Pacifique,176.0,25.03,140.0,,-36.0,"29,25","4,63","40,4","20,18","30,67",Very Serious
+2022,TKM,Turkmenistan,EEAC,177.0,25.01,178.0,,1.0,"11,73","35,69",25,"29,61",23,Very Serious
+2022,IRN,Islamic Republic of Iran,MENA,178.0,23.22,174.0,,-4.0,"21,32","13,61","30,71","26,71","23,78",Very Serious
+2022,ERI,Eritrea,Afrique,179.0,19.62,180.0,,1.0,"19,73","11,36","22,22","25,15","19,67",Very Serious
+2022,PRK,Democratic People's Republic of Korea,Asie-Pacifique,180.0,13.92,179.0,,-1.0,0,"12,38","22,42","22,81",12,Very Serious
+2018,NOR,Norway,UE Balkans,1.0,92.37,1.0,"92,4",0.0,,,,,,Good
+2018,SWE,Sweden,UE Balkans,2.0,91.69,2.0,"91,73",0.0,,,,,,Good
+2018,NLD,Netherlands,UE Balkans,3.0,89.99,5.0,"88,72",2.0,,,,,,Good
+2018,FIN,Finland,UE Balkans,4.0,89.74,3.0,"91,08",-1.0,,,,,,Good
+2018,CHE,Switzerland,UE Balkans,5.0,88.73,7.0,"87,87",2.0,,,,,,Good
+2018,JAM,Jamaica,Amériques,6.0,88.67,8.0,"87,27",2.0,,,,,,Good
+2018,BEL,Belgium,UE Balkans,7.0,86.84,9.0,"87,25",2.0,,,,,,Good
+2018,NZL,New Zealand,Asie-Pacifique,8.0,86.38,13.0,"86,02",5.0,,,,,,Good
+2018,DNK,Denmark,UE Balkans,9.0,86.01,4.0,"89,64",-5.0,,,,,,Good
+2018,CRI,Costa Rica,Amériques,10.0,85.99,6.0,"88,07",-4.0,,,,,,Good
+2018,AUT,Austria,UE Balkans,11.0,85.96,11.0,"86,53",0.0,,,,,,Good
+2018,EST,Estonia,UE Balkans,12.0,85.92,12.0,"86,45",0.0,,,,,,Good
+2018,ISL,Iceland,UE Balkans,13.0,85.9,10.0,"86,97",-3.0,,,,,,Good
+2018,PRT,Portugal,UE Balkans,14.0,85.83,18.0,"84,23",4.0,,,,,,Good
+2018,DEU,Germany,UE Balkans,15.0,85.61,16.0,"85,03",1.0,,,,,,Good
+2018,IRL,Ireland,UE Balkans,16.0,85.41,14.0,"85,92",-2.0,,,,,,Good
+2018,LUX,Luxembourg,UE Balkans,17.0,85.28,15.0,"85,28",-2.0,,,,,,Good
+2018,CAN,Canada,Amériques,18.0,84.72,22.0,"83,47",4.0,,,,,,Satisfactory
+2018,AUS,Australia,Asie-Pacifique,19.0,84.54,19.0,"83,98",0.0,,,,,,Satisfactory
+2018,URY,Uruguay,Amériques,20.0,84.44,25.0,"82,57",5.0,,,,,,Satisfactory
+2018,SUR,Suriname,Amériques,21.0,83.56,20.0,"83,93",-1.0,,,,,,Satisfactory
+2018,WSM,Samoa,Asie-Pacifique,22.0,83.31,21.0,"83,59",-1.0,,,,,,Satisfactory
+2018,GHA,Ghana,Afrique,23.0,81.59,26.0,"82,05",3.0,,,,,,Satisfactory
+2018,LVA,Latvia,UE Balkans,24.0,80.37,28.0,"81,38",4.0,,,,,,Satisfactory
+2018,CYP,Cyprus,UE Balkans,25.0,80.15,30.0,"80,21",5.0,,,,,,Satisfactory
+2018,NAM,Namibia,Afrique,26.0,79.76,24.0,"82,92",-2.0,,,,,,Satisfactory
+2018,SVK,Slovakia,UE Balkans,27.0,79.74,17.0,"84,49",-10.0,,,,,,Satisfactory
+2018,ZAF,South Africa,Afrique,28.0,79.61,31.0,"79,88",3.0,,,,,,Satisfactory
+2018,CPV,Cape Verde,Afrique,29.0,79.61,27.0,"81,98",-2.0,,,,,,Satisfactory
+2018,LIE,Liechtenstein,UE Balkans,30.0,79.51,32.0,"79,69",2.0,,,,,,Satisfactory
+2018,ESP,Spain,UE Balkans,31.0,79.49,29.0,"81,31",-2.0,,,,,,Satisfactory
+2018,SVN,Slovenia,UE Balkans,32.0,78.31,37.0,"78,3",5.0,,,,,,Satisfactory
+2018,FRA,France,UE Balkans,33.0,78.13,39.0,"77,76",6.0,,,,,,Satisfactory
+2018,CZE,Czech Republic,UE Balkans,34.0,78.11,23.0,"83,09",-11.0,,,,,,Satisfactory
+2018,XCD,OECS,Amériques,35.0,77.89,38.0,"77,9",3.0,,,,,,Satisfactory
+2018,LTU,Lithuania,UE Balkans,36.0,77.8,36.0,"78,63",0.0,,,,,,Satisfactory
+2018,AND,Andorra,UE Balkans,37.0,77.79,35.0,"78,97",-2.0,,,,,,Satisfactory
+2018,CHL,Chile,Amériques,38.0,77.31,33.0,"79,47",-5.0,,,,,,Satisfactory
+2018,TTO,Trinidad and Tobago,Amériques,39.0,77.21,34.0,"79,38",-5.0,,,,,,Satisfactory
+2018,GBR,United Kingdom,UE Balkans,40.0,76.75,40.0,"77,74",0.0,,,,,,Satisfactory
+2018,BFA,Burkina Faso,Afrique,41.0,76.67,42.0,"76,15",1.0,,,,,,Satisfactory
+2018,TWN,Taiwan,Asie-Pacifique,42.0,76.64,45.0,"75,63",3.0,,,,,,Satisfactory
+2018,KOR,South Korea,Asie-Pacifique,43.0,76.49,63.0,"72,39",20.0,,,,,,Satisfactory
+2018,ROU,Romania,UE Balkans,44.0,76.35,46.0,"75,54",2.0,,,,,,Satisfactory
+2018,USA,United States,Amériques,45.0,76.27,43.0,"76,12",-2.0,,,,,,Satisfactory
+2018,ITA,Italy,UE Balkans,46.0,75.88,52.0,"73,74",6.0,,,,,,Satisfactory
+2018,BLZ,Belize,Amériques,47.0,75.45,41.0,"76,57",-6.0,,,,,,Satisfactory
+2018,BWA,Botswana,Afrique,48.0,74.71,48.0,"75,07",0.0,,,,,,Satisfactory
+2018,COM,Comoros,Afrique,49.0,74.7,44.0,"75,67",-5.0,,,,,,Satisfactory
+2018,SEN,Senegal,Afrique,50.0,74.39,58.0,"73,28",8.0,,,,,,Satisfactory
+2018,TON,Tonga,Asie-Pacifique,51.0,74.32,49.0,"75,03",-2.0,,,,,,Satisfactory
+2018,ARG,Argentina,Amériques,52.0,73.95,50.0,"74,93",-2.0,,,,,,Satisfactory
+2018,PNG,Papua New Guinea,Asie-Pacifique,53.0,73.81,51.0,"74,93",-2.0,,,,,,Satisfactory
+2018,MDG,Madagascar,Afrique,54.0,73.8,57.0,"73,29",3.0,,,,,,Satisfactory
+2018,GUY,Guyana,Amériques,55.0,73.75,60.0,"73,2",5.0,,,,,,Satisfactory
+2018,MUS,Mauritius,Afrique,56.0,73.55,56.0,"73,33",0.0,,,,,,Satisfactory
+2018,FJI,Fiji,Asie-Pacifique,57.0,73.45,67.0,"71,36",10.0,,,,,,Satisfactory
+2018,POL,Poland,UE Balkans,58.0,73.41,54.0,"73,53",-4.0,,,,,,Satisfactory
+2018,DOM,Dominican Republic,Amériques,59.0,73.21,59.0,"73,24",0.0,,,,,,Satisfactory
+2018,HTI,Haiti,Amériques,60.0,73.18,53.0,"73,64",-7.0,,,,,,Satisfactory
+2018,GEO,Georgia,EEAC,61.0,72.66,64.0,"72,24",3.0,,,,,,Satisfactory
+2018,BIH,Bosnia and Herzegovina,UE Balkans,62.0,72.63,65.0,"72,17",3.0,,,,,,Satisfactory
+2018,NER,Niger,Afrique,63.0,72.6,61.0,"72,79",-2.0,,,,,,Satisfactory
+2018,MWI,Malawi,Afrique,64.0,72.57,70.0,"71,03",6.0,,,,,,Satisfactory
+2018,MLT,Malta,UE Balkans,65.0,72.56,47.0,"75,24",-18.0,,,,,,Satisfactory
+2018,SLV,El Salvador,Amériques,66.0,72.22,62.0,"72,76",-4.0,,,,,,Satisfactory
+2018,JPN,Japan,Asie-Pacifique,67.0,71.36,72.0,"70,56",5.0,,,,,,Satisfactory
+2018,LSO,Lesotho,Afrique,68.0,71.22,68.0,"71,22",0.0,,,,,,Satisfactory
+2018,HRV,Croatia,UE Balkans,69.0,71.06,74.0,"70,41",5.0,,,,,,Satisfactory
+2018,HKG,Hong Kong,Asie-Pacifique,70.0,70.96,73.0,"70,54",3.0,,,,,,Satisfactory
+2018,MNG,Mongolia,Asie-Pacifique,71.0,70.95,69.0,"71,05",-2.0,,,,,,Satisfactory
+2018,MRT,Mauritania,Afrique,72.0,70.91,55.0,"73,51",-17.0,,,,,,Satisfactory
+2018,HUN,Hungary,UE Balkans,73.0,70.89,71.0,"70,99",-2.0,,,,,,Satisfactory
+2018,GRC,Greece,UE Balkans,74.0,70.81,88.0,"69,11",14.0,,,,,,Satisfactory
+2018,ALB,Albania,UE Balkans,75.0,70.51,76.0,"70,08",1.0,,,,,,Satisfactory
+2018,SRB,Serbia,UE Balkans,76.0,70.42,66.0,"71,95",-10.0,,,,,,Satisfactory
+2018,CTU,Cyprus North,UE Balkans,77.0,70.41,75.0,"70,12",-2.0,,,,,,Satisfactory
+2018,XKO,Kosovo,UE Balkans,78.0,70.39,82.0,"69,55",4.0,,,,,,Satisfactory
+2018,SLE,Sierra Leone,Afrique,79.0,70.02,85.0,"69,27",6.0,,,,,,Satisfactory
+2018,ARM,Armenia,EEAC,80.0,70.01,79.0,"69,62",-1.0,,,,,,Satisfactory
+2018,MDA,Moldova,EEAC,81.0,69.99,80.0,"69,59",-1.0,,,,,,Problematic
+2018,CIV,Ivory Coast,Afrique,82.0,69.92,81.0,"69,58",-1.0,,,,,,Problematic
+2018,GNB,Guinea-Bissau,Afrique,83.0,69.91,77.0,"69,91",-6.0,,,,,,Problematic
+2018,BEN,Benin,Afrique,84.0,69.84,78.0,"69,68",-6.0,,,,,,Problematic
+2018,SYC,Seychelles,Afrique,85.0,69.83,87.0,"69,14",2.0,,,,,,Problematic
+2018,TGO,Togo,Afrique,86.0,69.77,86.0,"69,25",0.0,,,,,,Problematic
+2018,ISR,Israel,MENA,87.0,69.74,91.0,"68,99",4.0,,,,,,Problematic
+2018,PER,Peru,Amériques,88.0,69.73,90.0,"69,02",2.0,,,,,,Problematic
+2018,LBR,Liberia,Afrique,89.0,69.67,94.0,"68,88",5.0,,,,,,Problematic
+2018,NIC,Nicaragua,Amériques,90.0,69.59,92.0,"68,99",2.0,,,,,,Problematic
+2018,PAN,Panama,Amériques,91.0,69.44,96.0,"67,88",5.0,,,,,,Problematic
+2018,ECU,Ecuador,Amériques,92.0,69.44,105.0,"66,36",13.0,,,,,,Problematic
+2018,TZA,Tanzania,Afrique,93.0,69.35,83.0,"69,35",-10.0,,,,,,Problematic
+2018,BTN,Bhutan,Asie-Pacifique,94.0,69.27,84.0,"69,27",-10.0,,,,,,Problematic
+2018,TLS,East Timor,Asie-Pacifique,95.0,69.19,98.0,"67,18",3.0,,,,,,Problematic
+2018,KEN,Kenya,Afrique,96.0,69.18,95.0,"68,8",-1.0,,,,,,Problematic
+2018,TUN,Tunisia,MENA,97.0,69.09,97.0,"67,78",0.0,,,,,,Problematic
+2018,KGZ,Kyrgyzstan,EEAC,98.0,69.0,89.0,"69,08",-9.0,,,,,,Problematic
+2018,MOZ,Mozambique,Afrique,99.0,68.88,93.0,"68,95",-6.0,,,,,,Problematic
+2018,LBN,Lebanon,MENA,100.0,68.85,99.0,"66,99",-1.0,,,,,,Problematic
+2018,UKR,Ukraine,EEAC,101.0,68.84,102.0,"66,81",1.0,,,,,,Problematic
+2018,BRA,Brazil,Amériques,102.0,68.8,103.0,"66,42",1.0,,,,,,Problematic
+2018,MNE,Montenegro,UE Balkans,103.0,68.79,106.0,"66,35",3.0,,,,,,Problematic
+2018,GIN,Guinea,Afrique,104.0,68.1,101.0,"66,85",-3.0,,,,,,Problematic
+2018,KWT,Kuwait,MENA,105.0,68.09,104.0,"66,39",-1.0,,,,,,Problematic
+2018,NPL,Nepal,Asie-Pacifique,106.0,67.95,100.0,"66,98",-6.0,,,,,,Problematic
+2018,PRY,Paraguay,Amériques,107.0,67.68,110.0,"64,36",3.0,,,,,,Problematic
+2018,GAB,Gabon,Afrique,108.0,67.63,108.0,"65,17",0.0,,,,,,Problematic
+2018,MKD,North Macedonia,UE Balkans,109.0,67.57,111.0,"64,26",2.0,,,,,,Problematic
+2018,BOL,Bolivia,Amériques,110.0,67.55,107.0,"66,12",-3.0,,,,,,Problematic
+2018,BGR,Bulgaria,UE Balkans,111.0,64.78,109.0,"64,99",-2.0,,,,,,Problematic
+2018,CAF,Central African Republic,Afrique,112.0,64.75,113.0,"63,88",1.0,,,,,,Problematic
+2018,ZMB,Zambia,Afrique,113.0,64.64,114.0,"63,52",1.0,,,,,,Problematic
+2018,COG,Congo,Afrique,114.0,64.58,115.0,"63,27",1.0,,,,,,Problematic
+2018,MLI,Mali,Afrique,115.0,63.85,116.0,"61,73",1.0,,,,,,Problematic
+2018,GTM,Guatemala,Amériques,116.0,63.83,118.0,"60,67",2.0,,,,,,Problematic
+2018,UGA,Uganda,Afrique,117.0,63.23,112.0,"64,06",-5.0,,,,,,Problematic
+2018,AFG,Afghanistan,Asie-Pacifique,118.0,62.72,120.0,"60,54",2.0,,,,,,Problematic
+2018,NGA,Nigeria,Afrique,119.0,62.59,122.0,"60,31",3.0,,,,,,Problematic
+2018,MDV,Maldives,Asie-Pacifique,120.0,62.05,117.0,"60,7",-3.0,,,,,,Problematic
+2018,AGO,Angola,Afrique,121.0,61.65,125.0,"59,58",4.0,,,,,,Problematic
+2018,GMB,Gambia,Afrique,122.0,61.64,143.0,"53,3",21.0,,,,,,Problematic
+2018,TCD,Chad,Afrique,123.0,61.55,121.0,"60,34",-2.0,,,,,,Problematic
+2018,IDN,Indonesia,Asie-Pacifique,124.0,60.32,124.0,"60,07",0.0,,,,,,Problematic
+2018,QAT,Qatar,MENA,125.0,59.84,123.0,"60,17",-2.0,,,,,,Problematic
+2018,ZWE,Zimbabwe,Afrique,126.0,59.47,128.0,"58,56",2.0,,,,,,Problematic
+2018,OMN,Oman,MENA,127.0,59.33,126.0,"59,54",-1.0,,,,,,Problematic
+2018,ARE,United Arab Emirates,MENA,128.0,59.14,119.0,"60,61",-9.0,,,,,,Problematic
+2018,CMR,Cameroon,Afrique,129.0,59.08,130.0,"58,41",1.0,,,,,,Problematic
+2018,COL,Colombia,Amériques,130.0,58.97,129.0,"58,53",-1.0,,,,,,Problematic
+2018,LKA,Sri Lanka,Asie-Pacifique,131.0,58.63,141.0,"55,66",10.0,,,,,,Problematic
+2018,JOR,Jordan,MENA,132.0,58.29,138.0,"56,76",6.0,,,,,,Problematic
+2018,PHL,Philippines,Asie-Pacifique,133.0,57.47,127.0,"58,92",-6.0,,,,,,Problematic
+2018,PSE,Palestine,MENA,134.0,57.04,135.0,"57,1",1.0,,,,,,Problematic
+2018,MAR,Morocco,MENA,135.0,56.87,133.0,"57,58",-2.0,,,,,,Problematic
+2018,DZA,Algeria,MENA,136.0,56.87,134.0,"57,17",-2.0,,,,,,Problematic
+2018,MMR,Myanmar,Asie-Pacifique,137.0,56.85,131.0,"58,18",-6.0,,,,,,Problematic
+2018,IND,India,Asie-Pacifique,138.0,56.76,136.0,"57,06",-2.0,,,,,,Problematic
+2018,PAK,Pakistan,Asie-Pacifique,139.0,56.76,139.0,"56,45",0.0,,,,,,Problematic
+2018,THA,Thailand,Asie-Pacifique,140.0,55.69,142.0,"55,31",2.0,,,,,,Problematic
+2018,HND,Honduras,Amériques,141.0,54.77,140.0,"56,25",-1.0,,,,,,Difficult
+2018,KHM,Cambodia,Asie-Pacifique,142.0,54.1,132.0,"57,93",-10.0,,,,,,Difficult
+2018,VEN,Venezuela,Amériques,143.0,53.97,137.0,"57,06",-6.0,,,,,,Difficult
+2018,SSD,South Sudan,Afrique,144.0,53.12,145.0,"51,84",1.0,,,,,,Difficult
+2018,MYS,Malaysia,Asie-Pacifique,145.0,52.59,144.0,"53,11",-1.0,,,,,,Difficult
+2018,BGD,Bangladesh,Asie-Pacifique,146.0,51.38,146.0,"51,64",0.0,,,,,,Difficult
+2018,MEX,Mexico,Amériques,147.0,51.09,147.0,"51,03",0.0,,,,,,Difficult
+2018,RUS,Russian Federation,EEAC,148.0,50.04,148.0,"50,55",0.0,,,,,,Difficult
+2018,TJK,Tajikistan,EEAC,149.0,49.94,149.0,"49,73",0.0,,,,,,Difficult
+2018,ETH,Ethiopia,Afrique,150.0,49.83,150.0,"49,66",0.0,,,,,,Difficult
+2018,SGP,Singapore,Asie-Pacifique,151.0,49.05,151.0,"48,9",0.0,,,,,,Difficult
+2018,SWZ,Eswatini,Afrique,152.0,48.54,152.0,"48,73",0.0,,,,,,Difficult
+2018,BRN,Brunei Darussalam,Asie-Pacifique,153.0,48.52,156.0,"46,28",3.0,,,,,,Difficult
+2018,COD,The Democratic Republic Of The Congo,Afrique,154.0,48.4,154.0,"47,33",0.0,,,,,,Difficult
+2018,BLR,Belarus,EEAC,155.0,47.41,153.0,"47,57",-2.0,,,,,,Difficult
+2018,RWA,Rwanda,Afrique,156.0,47.1,159.0,"45,89",3.0,,,,,,Difficult
+2018,TUR,Turkey,EEAC,157.0,46.5,155.0,"47,02",-2.0,,,,,,Difficult
+2018,KAZ,Kazakhstan,EEAC,158.0,45.59,157.0,"45,99",-1.0,,,,,,Difficult
+2018,BDI,Burundi,Afrique,159.0,44.74,160.0,"44,22",1.0,,,,,,Difficult
+2018,IRQ,Iraq,MENA,160.0,43.44,158.0,"45,97",-2.0,,,,,,Difficult
+2018,EGY,Egypt,MENA,161.0,43.28,161.0,"44,22",0.0,,,,,,Difficult
+2018,LBY,Libya,MENA,162.0,43.21,163.0,"43,19",1.0,,,,,,Difficult
+2018,AZE,Azerbaijan,EEAC,163.0,40.27,162.0,"43,6",-1.0,,,,,,Difficult
+2018,IRN,Islamic Republic of Iran,MENA,164.0,39.29,165.0,"34,88",1.0,,,,,,Very Serious
+2018,UZB,Uzbekistan,EEAC,165.0,39.16,169.0,"33,89",4.0,,,,,,Very Serious
+2018,BHR,Bahrain,MENA,166.0,39.15,164.0,"41,12",-2.0,,,,,,Very Serious
+2018,YEM,Yemen,MENA,167.0,37.77,166.0,"34,2",-1.0,,,,,,Very Serious
+2018,SOM,Somalia,Afrique,168.0,36.96,167.0,"34,05",-1.0,,,,,,Very Serious
+2018,SAU,Saudi Arabia,MENA,169.0,36.87,168.0,"33,98",-1.0,,,,,,Very Serious
+2018,LAO,Lao People's Democratic Republic,Asie-Pacifique,170.0,33.59,170.0,"33,59",0.0,,,,,,Very Serious
+2018,GNQ,Equatorial Guinea,Afrique,171.0,33.53,171.0,"33,53",0.0,,,,,,Very Serious
+2018,CUB,Cuba,Amériques,172.0,31.1,173.0,"28,25",1.0,,,,,,Very Serious
+2018,DJI,Djibouti,Afrique,173.0,29.23,172.0,"29,46",-1.0,,,,,,Very Serious
+2018,SDN,Sudan,Afrique,174.0,28.87,174.0,"26,44",0.0,,,,,,Very Serious
+2018,VNM,Vietnam,Asie-Pacifique,175.0,24.95,175.0,"26,04",0.0,,,,,,Very Serious
+2018,CHN,China,Asie-Pacifique,176.0,21.71,176.0,"22,34",0.0,,,,,,Very Serious
+2018,SYR,Syrian Arab Republic,MENA,177.0,20.78,177.0,"18,51",0.0,,,,,,Very Serious
+2018,TKM,Turkmenistan,EEAC,178.0,15.8,178.0,"15,81",0.0,,,,,,Very Serious
+2018,ERI,Eritrea,Afrique,179.0,15.76,179.0,"15,76",0.0,,,,,,Very Serious
+2018,PRK,Democratic People's Republic of Korea,Asie-Pacifique,180.0,11.13,180.0,"15,02",0.0,,,,,,Very Serious
+2023,NOR,Norway,UE Balkans,1.0,95.18,1.0,"92,65",0.0,"92,46","95,98","96,54","94,92","95,98",Good
+2023,IRL,Ireland,UE Balkans,2.0,89.91,6.0,"88,3",4.0,"82,11","96,94","93,91","82,55","94,03",Good
+2023,DNK,Denmark,UE Balkans,3.0,89.48,2.0,"90,27",-1.0,"85,17",95,"91,95","87,5","87,78",Good
+2023,SWE,Sweden,UE Balkans,4.0,88.15,3.0,"88,84",-1.0,"86,08","84,72","92,58","88,74","88,64",Good
+2023,FIN,Finland,UE Balkans,5.0,87.94,5.0,"88,42",0.0,"83,8","90,35","91,55","84,86","89,17",Good
+2023,NLD,Netherlands,UE Balkans,6.0,87.0,28.0,"77,93",22.0,"89,08","80,18","88,93","90,3","86,53",Good
+2023,LTU,Lithuania,UE Balkans,7.0,86.79,9.0,"84,14",2.0,"77,65","94,33",88,"84,53","89,43",Good
+2023,EST,Estonia,UE Balkans,8.0,85.31,4.0,"88,83",-4.0,"76,75","90,79","85,36","82,88","90,75",Good
+2023,PRT,Portugal,UE Balkans,9.0,84.6,7.0,"87,07",-2.0,"71,02","91,48","86,32","84,38","89,77",Satisfactory
+2023,TLS,East Timor,Asie-Pacifique,10.0,84.49,17.0,"81,89",7.0,"74,51","95,93","81,88","83,02","87,12",Satisfactory
+2023,LIE,Liechtenstein,UE Balkans,11.0,84.47,10.0,"84,03",-1.0,"69,93","94,44","85,63","81,45","90,91",Satisfactory
+2023,CHE,Switzerland,UE Balkans,12.0,84.4,14.0,"82,72",2.0,"72,79","91,52","87,42","77,95","92,33",Satisfactory
+2023,NZL,New Zealand,Asie-Pacifique,13.0,84.23,11.0,"83,54",-2.0,"77,45","91,3","89,69","78,62","84,09",Satisfactory
+2023,CZE,Czechia,UE Balkans,14.0,83.58,20.0,"80,54",6.0,"65,52","92,27","82,19","86,64","91,29",Satisfactory
+2023,CAN,Canada,Amériques,15.0,83.53,19.0,"81,74",4.0,"72,22","82,56","88,13","86,48","88,26",Satisfactory
+2023,LVA,Latvia,UE Balkans,16.0,83.27,22.0,"79,17",6.0,"73,97","91,26","85,69","79,45","85,98",Satisfactory
+2023,SVK,Slovakia,UE Balkans,17.0,83.22,27.0,"78,37",10.0,"75,16","90,07","78,04","82,96","89,85",Satisfactory
+2023,ISL,Iceland,UE Balkans,18.0,83.19,15.0,"82,69",-3.0,"68,35","92,22","86,04","82,35","87,01",Satisfactory
+2023,WSM,Samoa,Asie-Pacifique,19.0,82.15,45.0,"71,39",26.0,"72,55","99,09","76,88","67,92","94,32",Satisfactory
+2023,LUX,Luxembourg,UE Balkans,20.0,81.98,21.0,"79,81",1.0,"71,94","91,67","87,42","76,77","82,1",Satisfactory
+2023,DEU,Germany,UE Balkans,21.0,81.91,16.0,"82,04",-5.0,"82,31","66,88","87,33","85,85","87,19",Satisfactory
+2023,NAM,Namibia,Afrique,22.0,80.91,18.0,"81,84",-4.0,"70,78","90,48","75,75","79,81","87,73",Satisfactory
+2023,CRI,Costa Rica,Amériques,23.0,80.2,8.0,"85,92",-15.0,"70,59","90,56","65,94","85,93","87,97",Satisfactory
+2023,FRA,France,UE Balkans,24.0,78.72,26.0,"78,53",2.0,"68,87","76,64","79,44","81,56","87,1",Satisfactory
+2023,ZAF,South Africa,Afrique,25.0,78.6,35.0,"75,56",10.0,"64,1","83,9","77,26","83,02","84,7",Satisfactory
+2023,GBR,United Kingdom,UE Balkans,26.0,78.51,24.0,"78,71",-2.0,"74,71","82,12","80,88","73,49","81,36",Satisfactory
+2023,AUS,Australia,Asie-Pacifique,27.0,78.24,39.0,"73,77",12.0,"68,49","87,46","83,85","69,41","81,98",Satisfactory
+2023,MDA,Moldova,EEAC,28.0,77.62,40.0,"73,47",12.0,"57,95","81,91","79,24","83,12","85,86",Satisfactory
+2023,AUT,Austria,UE Balkans,29.0,77.3,31.0,"76,74",2.0,"61,85","89,2","74,01","77,32","84,14",Satisfactory
+2023,TTO,Trinidad and Tobago,Amériques,30.0,76.54,25.0,"78,68",-5.0,"60,78","94,44","71,25","64,15","92,05",Satisfactory
+2023,BEL,Belgium,UE Balkans,31.0,76.47,23.0,"78,86",-8.0,"62,09","80,53","79,06","78,3","82,39",Satisfactory
+2023,JAM,Jamaica,Amériques,32.0,75.89,12.0,"83,35",-20.0,"71,37","85,24","67,75","68,49","86,59",Satisfactory
+2023,CPV,Cabo Verde,Afrique,33.0,75.72,36.0,"75,37",3.0,"60,78","90,01","73,86","73,76","80,17",Satisfactory
+2023,SYC,Seychelles,Afrique,34.0,75.71,13.0,"83,33",-21.0,"59,41","87,56","74,38","76,98","80,23",Satisfactory
+2023,TWN,Taiwan,Asie-Pacifique,35.0,75.54,38.0,"74,08",3.0,"53,4","92,06","73,83","80,75","77,65",Satisfactory
+2023,ESP,Spain,UE Balkans,36.0,75.37,32.0,"76,71",-4.0,"60,33","82,51","72,12","78,74","83,13",Satisfactory
+2023,AND,Andorra,UE Balkans,37.0,75.05,53.0,"68,79",16.0,"55,39","92,78","74,69","77,12","75,28",Satisfactory
+2023,MKD,North Macedonia,UE Balkans,38.0,74.35,57.0,"68,44",19.0,"54,95","81,27","72,33","84,99","78,2",Satisfactory
+2023,MNE,Montenegro,UE Balkans,39.0,74.28,63.0,"66,54",24.0,"58,04","83,25","72,13","81,51","76,48",Satisfactory
+2023,ARG,Argentina,Amériques,40.0,73.36,29.0,"77,28",-11.0,"49,8","74,27","75,25","90,66","76,82",Satisfactory
+2023,ITA,Italy,UE Balkans,41.0,72.05,58.0,"68,16",17.0,"55,04","86,83","64,2","80,32","73,86",Satisfactory
+2023,HRV,Croatia,UE Balkans,42.0,71.95,48.0,"70,42",6.0,"51,07","84,71","67,56","81,82","74,59",Satisfactory
+2023,DOM,Dominican Republic,Amériques,43.0,71.88,30.0,"76,9",-13.0,"52,45","82,5","71,48","76,53","76,42",Satisfactory
+2023,TON,Tonga,Asie-Pacifique,44.0,71.29,49.0,"69,74",5.0,"56,86","93,89","70,31","60,38",75,Satisfactory
+2023,USA,United States,Amériques,45.0,71.22,42.0,"72,74",-3.0,"69,76","52,49","76,56","77,31",80,Satisfactory
+2023,GMB,Gambia,Afrique,46.0,71.06,50.0,"69,25",4.0,"59,22","83,46","66,88","60,75",85,Satisfactory
+2023,KOR,South Korea,Asie-Pacifique,47.0,70.83,43.0,"72,11",-4.0,"55,81","87,26","63,51","70,03","77,53",Satisfactory
+2023,SUR,Suriname,Amériques,48.0,70.62,52.0,"68,95",4.0,"60,78","91,11","63,13","47,17","90,91",Satisfactory
+2023,ARM,Armenia,EEAC,49.0,70.61,51.0,"68,97",2.0,"48,53","83,98","63,75","73,82","82,95",Satisfactory
+2023,SVN,Slovenia,UE Balkans,50.0,70.59,54.0,"68,54",4.0,"46,41","84,72","66,25","79,64","75,95",Satisfactory
+2023,BLZ,Belize,Amériques,51.0,70.49,47.0,"70,67",-4.0,"53,92","88,89","61,98","68,11","79,55",Satisfactory
+2023,URY,Uruguay,Amériques,52.0,70.33,44.0,"72,03",-8.0,"55,08","80,2","62,73","78,73","74,9",Satisfactory
+2023,ROU,Romania,UE Balkans,53.0,69.04,56.0,"68,46",3.0,"49,24","83,03","59,65","71,86","81,44",Problematic
+2023,CIV,Côte d'Ivoire,Afrique,54.0,68.83,37.0,"74,46",-17.0,"58,01","71,79","66,98","71,07","76,33",Problematic
+2023,CYP,Cyprus,UE Balkans,55.0,68.62,65.0,"65,97",10.0,"53,12","88,44","64,66","71,89","64,98",Problematic
+2023,XKX,Kosovo,UE Balkans,56.0,68.38,61.0,67,5.0,"50,28","72,95","62,95","80,26","75,49",Problematic
+2023,POL,Poland,UE Balkans,57.0,67.66,66.0,"65,64",9.0,"55,02","85,82","50,15","69,03","78,28",Problematic
+2023,BFA,Burkina Faso,Afrique,58.0,67.64,41.0,"73,12",-17.0,"58,33","75,55","62,81","67,45","81,25",Problematic
+2023,PNG,Papua New Guinea,Asie-Pacifique,59.0,67.62,62.0,"66,66",3.0,"51,31","88,89","59,58","66,35","71,97",Problematic
+2023,GUY,Guyana,Amériques,60.0,67.5,34.0,"76,41",-26.0,"58,82","84,72","54,69","59,43","79,83",Problematic
+2023,NER,Niger,Afrique,61.0,66.84,59.0,"67,8",-2.0,"41,6","86,35","62,68","69,54","74,03",Problematic
+2023,GHA,Ghana,Afrique,62.0,65.93,60.0,"67,43",-2.0,"47,94","61,25","61,88","79,62","78,98",Problematic
+2023,MUS,Mauritius,Afrique,63.0,65.56,64.0,"66,07",1.0,"49,9","82,13","52,75","61,98","81,02",Problematic
+2023,BIH,Bosnia-Herzegovina,UE Balkans,64.0,65.43,67.0,"65,64",3.0,"45,1","78,24","55,27","77,54","71,02",Problematic
+2023,BWA,Botswana,Afrique,65.0,64.61,95.0,"58,49",30.0,"50,44","80,14","55,63","58,07","78,79",Problematic
+2023,LBR,Liberia,Afrique,66.0,64.34,75.0,"62,77",9.0,"39,61","69,62","55,5","76,98",80,Problematic
+2023,LSO,Lesotho,Afrique,67.0,64.29,88.0,"59,39",21.0,"44,85","87,78","64,38","55,97","68,47",Problematic
+2023,JPN,Japan,Asie-Pacifique,68.0,63.95,71.0,"64,37",3.0,"56,32","81,99","55,75","66,39","59,32",Problematic
+2023,PAN,Panama,Amériques,69.0,63.67,74.0,"62,78",5.0,"51,63",80,"57,5","64,47","64,77",Problematic
+2023,TGO,Togo,Afrique,70.0,63.06,100.0,"57,17",30.0,"46,86","84,45","54,5","60,19","69,32",Problematic
+2023,BGR,Bulgaria,UE Balkans,71.0,62.98,91.0,"59,12",20.0,"37,91","82,94","58,25","70,25","65,53",Problematic
+2023,HUN,Hungary,UE Balkans,72.0,62.96,85.0,"59,8",13.0,"43,94","81,66","45,63","70,94","72,62",Problematic
+2023,MYS,Malaysia,Asie-Pacifique,73.0,62.83,113.0,"51,55",40.0,"52,94","85,46","55,31","44,58","75,85",Problematic
+2023,SLE,Sierra Leone,Afrique,74.0,62.55,46.0,"71,03",-28.0,"47,9","61,27","65,45","65,9","72,24",Problematic
+2023,COM,Comoros,Afrique,75.0,62.25,83.0,"60,16",8.0,"49,72","79,21","55,09","65,36","61,85",Problematic
+2023,CTU,Northern Cyprus,UE Balkans,76.0,61.73,81.0,"61,08",5.0,"42,92","83,01","56,18","63,1","63,45",Problematic
+2023,GEO,Georgia,EEAC,77.0,61.69,89.0,"59,3",12.0,"47,17","61,9","48,4",76,75,Problematic
+2023,GNB,Guinea-Bissau,Afrique,78.0,61.57,92.0,"58,79",14.0,"51,72","64,95","56,09","70,05","65,06",Problematic
+2023,UKR,Ukraine,EEAC,79.0,61.19,106.0,"55,76",27.0,"63,48","20,78","60,63","80,66","80,4",Problematic
+2023,ECU,Ecuador,Amériques,80.0,60.51,68.0,"64,61",-12.0,"61,6","48,76","60,52","70,13","61,55",Problematic
+2023,COG,Congo-Brazzaville,Afrique,81.0,60.42,93.0,"58,64",12.0,"45,71","78,17","57,58","62,15","58,52",Problematic
+2023,MWI,Malawi,Afrique,82.0,60.34,80.0,"61,4",-2.0,"47,6","74,73","52,57","66,56","60,23",Problematic
+2023,CHL,Chile,Amériques,83.0,60.09,82.0,"60,61",-1.0,"47,48","51,49","70,8","65,09","65,58",Problematic
+2023,MLT,Malta,UE Balkans,84.0,59.76,78.0,"61,55",-6.0,"44,77","84,31","46,46","57,23","66,04",Problematic
+2023,GIN,Guinea,Afrique,85.0,59.51,84.0,"59,82",-1.0,"46,08","68,55",60,"62,85","60,09",Problematic
+2023,MRT,Mauritania,Afrique,86.0,59.45,97.0,"58,1",11.0,"47,06","77,78","54,06","57,55","60,8",Problematic
+2023,ZMB,Zambia,Afrique,87.0,59.41,109.0,"55,4",22.0,"38,89","81,46","61,77","56,76","58,14",Problematic
+2023,MNG,Mongolia,Asie-Pacifique,88.0,59.33,90.0,"59,17",2.0,"38,95","79,49","54,66","59,61","63,95",Problematic
+2023,FJI,Fiji,Asie-Pacifique,89.0,59.27,102.0,"56,91",13.0,"45,1","79,26","53,13","55,97","62,88",Problematic
+2023,BTN,Bhutan,Asie-Pacifique,90.0,59.25,33.0,"76,46",-57.0,"50,49","87,62","62,08","46,54","49,51",Problematic
+2023,SRB,Serbia,UE Balkans,91.0,59.16,79.0,"61,51",-12.0,"39,15","74,31","45,27","77,18","59,87",Problematic
+2023,BRA,Brazil,Amériques,92.0,58.67,110.0,"55,36",18.0,"52,59","36,3","55,79","72,44","76,22",Problematic
+2023,CSS,OECS,Amériques,93.0,58.36,55.0,"68,49",-38.0,"45,34","77,04","55,47","54,01","59,94",Problematic
+2023,GAB,Gabon,Afrique,94.0,58.12,105.0,56,11.0,"46,57","80,17","48,33","57,39","58,14",Problematic
+2023,NPL,Nepal,Asie-Pacifique,95.0,57.89,76.0,"62,67",-19.0,"44,61","59,04","58,44","66,27","61,08",Problematic
+2023,ALB,Albania,UE Balkans,96.0,57.86,103.0,"56,41",7.0,"35,13","70,45","47,76","67,61","68,37",Problematic
+2023,ISR,Israel,MENA,97.0,57.57,86.0,"59,62",-11.0,"57,52","44,3","62,71","47,17","76,14",Problematic
+2023,CAF,Central African Republic,Afrique,98.0,57.56,101.0,"56,96",3.0,"49,02","54,97","53,39","63,88","66,56",Problematic
+2023,HTI,Haiti,Amériques,99.0,57.38,70.0,"64,55",-29.0,"48,18","36,02","59,38","69,95","73,38",Problematic
+2023,MDV,Maldives,Asie-Pacifique,100.0,56.93,87.0,"59,55",-13.0,"32,84","82,48","53,75","59,91","55,68",Problematic
+2023,MDG,Madagascar,Afrique,101.0,56.66,98.0,"58,02",-3.0,"36,71","78,39","49,03","60,69","58,46",Problematic
+2023,MOZ,Mozambique,Afrique,102.0,56.13,116.0,"49,89",14.0,"46,51","52,73","49,17","66,98","65,28",Problematic
+2023,PRY,Paraguay,Amériques,103.0,55.96,96.0,"58,36",-7.0,"42,16","48,51","57,06","70,85","61,25",Problematic
+2023,SEN,Senegal,Afrique,104.0,55.82,73.0,"63,07",-31.0,"46,08","55,51","56,43","55,66","65,42",Problematic
+2023,QAT,Qatar,MENA,105.0,55.28,119.0,"49,03",14.0,50,"83,93","53,13","38,21","51,14",Problematic
+2023,THA,Thailand,Asie-Pacifique,106.0,55.24,115.0,"50,15",9.0,"51,47","57,54","59,53","51,42","56,25",Problematic
+2023,GRC,Greece,UE Balkans,107.0,55.2,108.0,"55,52",1.0,"37,66","71,44","53,31","61,36","52,23",Problematic
+2023,IDN,Indonesia,Asie-Pacifique,108.0,54.83,117.0,"49,27",9.0,"44,61","54,49","55,16","63,92","55,97",Difficult
+2023,TCD,Chad,Afrique,109.0,53.73,104.0,"56,18",-5.0,"52,94","34,62","53,3","58,63","69,16",Difficult
+2023,PER,Peru,Amériques,110.0,52.74,77.0,"61,75",-33.0,"42,81",42,"57,99","63,94","56,94",Difficult
+2023,SWZ,Eswatini,Afrique,111.0,52.66,131.0,"46,42",20.0,"43,98","71,44","46,61","45,28","56,01",Difficult
+2023,BEN,Benin,Afrique,112.0,52.44,121.0,"48,39",9.0,"39,83","53,9","48,98","56,01","63,49",Difficult
+2023,MLI,Mali,Afrique,113.0,52.29,111.0,"54,48",-2.0,"38,82","59,88","52,63","55,09",55,Difficult
+2023,BDI,Burundi,Afrique,114.0,52.14,107.0,"55,74",-7.0,"48,82","52,84","51,5","55,41","52,12",Difficult
+2023,SLV,El Salvador,Amériques,115.0,51.36,112.0,"54,09",-3.0,"41,47","72,03","38,13","55,85","49,32",Difficult
+2023,KEN,Kenya,Afrique,116.0,51.15,69.0,"64,59",-47.0,"40,52","42,99","49,17","66,82","56,25",Difficult
+2023,BOL,Bolivia,Amériques,117.0,51.09,126.0,"47,58",9.0,"45,72","46,68","46,53","60,12","56,4",Difficult
+2023,SSD,South Sudan,Afrique,118.0,50.62,128.0,"47,06",10.0,"48,32","51,54","49,46","56,06","47,73",Difficult
+2023,LBN,Lebanon,MENA,119.0,50.46,130.0,"46,58",11.0,"35,69",58,"51,63","48,11","58,86",Difficult
+2023,GNQ,Equatorial Guinea,Afrique,120.0,50.35,141.0,"43,96",21.0,"36,93","73,47","43,85","57,92","39,58",Difficult
+2023,TUN,Tunisia,MENA,121.0,50.11,94.0,"58,49",-27.0,"34,97","54,6","58,13","49,06","53,79",Difficult
+2023,KGZ,Kyrgyzstan,EEAC,122.0,49.91,72.0,"64,25",-50.0,"47,25","54,91","48,13","50,19","49,09",Difficult
+2023,NGA,Nigeria,Afrique,123.0,49.56,129.0,"46,79",6.0,"44,12","37,38","51,96","50,54","63,8",Difficult
+2023,COD,DR Congo,Afrique,124.0,48.55,125.0,"47,66",1.0,"44,36","35,42","51,03",52,"59,94",Difficult
+2023,AGO,Angola,Afrique,125.0,48.3,99.0,"57,17",-26.0,"31,79","60,2","43,57","51,21","54,71",Difficult
+2023,ZWE,Zimbabwe,Afrique,126.0,48.17,137.0,"44,94",11.0,"37,58","42,98","42,08","57,39","60,8",Difficult
+2023,GTM,Guatemala,Amériques,127.0,48.12,124.0,"47,94",-3.0,"40,09","36,15","42,64","64,15","57,58",Difficult
+2023,MEX,Mexico,Amériques,128.0,47.98,127.0,"47,57",-1.0,"47,35","23,68","55,38","66,32","47,16",Difficult
+2023,SGP,Singapore,Asie-Pacifique,129.0,47.88,139.0,"44,23",10.0,"42,4","78,89","38,75","27,36","51,99",Difficult
+2023,ETH,Ethiopia,Afrique,130.0,47.7,114.0,"50,53",-16.0,"43,14","38,82","50,25","62,64","43,64",Difficult
+2023,RWA,Rwanda,Afrique,131.0,46.58,136.0,"45,18",5.0,"34,8","40,91",40,"58,87","58,33",Difficult
+2023,PHL,Philippines,Asie-Pacifique,132.0,46.21,147.0,"41,84",15.0,"40,2","37,3","43,96","52,2","57,39",Difficult
+2023,UGA,Uganda,Afrique,133.0,46.08,132.0,"46,35",-1.0,"39,8","30,52","45,75","54,34",60,Difficult
+2023,KAZ,Kazakhstan,EEAC,134.0,45.87,122.0,"48,28",-12.0,"36,03","45,54","44,06","44,34","59,37",Difficult
+2023,LKA,Sri Lanka,Asie-Pacifique,135.0,45.85,146.0,"42,13",11.0,"48,53","54,32","40,94","43,4","42,05",Difficult
+2023,DZA,Algeria,MENA,136.0,45.74,134.0,"45,53",-2.0,"36,13","51,72","42,14","46,09","52,6",Difficult
+2023,UZB,Uzbekistan,EEAC,137.0,45.73,133.0,"45,74",-4.0,"38,4","48,98","45,52","52,2","43,56",Difficult
+2023,CMR,Cameroon,Afrique,138.0,45.58,118.0,"49,1",-20.0,"35,99","46,58","42,5","44,07","58,77",Difficult
+2023,COL,Colombia,Amériques,139.0,45.23,145.0,"42,43",6.0,"35,05","34,01","55,63","64,1","37,37",Difficult
+2023,HKG,Hong Kong,Asie-Pacifique,140.0,44.86,148.0,"41,64",8.0,"45,89","43,15","40,43","38,32","56,51",Difficult
+2023,SOM,Somalia,Afrique,141.0,44.24,140.0,"44,01",-1.0,"44,49","28,5","53,44","43,63","51,14",Difficult
+2023,BRN,Brunei,Asie-Pacifique,142.0,44.2,144.0,"42,53",2.0,"34,8","75,83","49,84","30,66","29,88",Difficult
+2023,TZA,Tanzania,Afrique,143.0,44.02,123.0,"48,28",-20.0,"33,33","58,78","42,97","31,6","53,41",Difficult
+2023,MAR,Morocco / Western Sahara ,MENA,144.0,43.69,135.0,"45,42",-9.0,"30,62","42,07","39,92","48,97","56,87",Difficult
+2023,ARE,United Arab Emirates,MENA,145.0,42.99,138.0,"44,46",-7.0,"45,1","56,77","45,63","36,79","30,68",Difficult
+2023,JOR,Jordan,MENA,146.0,42.79,120.0,"48,66",-26.0,"34,64","61,68","47,71","37,74","32,2",Difficult
+2023,KHM,Cambodia,Asie-Pacifique,147.0,42.02,142.0,"43,48",-5.0,"27,84","40,05","38,5","46,42","57,27",Difficult
+2023,SDN,Sudan,Afrique,148.0,40.83,151.0,"40,96",3.0,"28,43","62,05","42,08","31,45","40,15",Difficult
+2023,LBY,Libya,MENA,149.0,40.22,143.0,"43,16",-6.0,"34,31","42,36",49,"30,19","45,23",Difficult
+2023,PAK,Pakistan,Asie-Pacifique,150.0,39.95,157.0,"37,99",7.0,"37,25","23,57","42,71","48,11","48,11",Very Serious
+2023,AZE,Azerbaijan,EEAC,151.0,39.93,154.0,"39,4",3.0,"25,91","49,35","35,45","38,95",50,Very Serious
+2023,AFG,Afghanistan,Asie-Pacifique,152.0,39.75,156.0,"38,27",4.0,"44,93","31,41","48,96","42,77","30,68",Very Serious
+2023,TJK,Tajikistan,EEAC,153.0,39.06,152.0,"40,26",-1.0,"37,09","36,3","34,17","51,57","36,17",Very Serious
+2023,KWT,Kuwait,MENA,154.0,38.84,158.0,"37,87",4.0,"24,51","77,78","41,25","30,19","20,45",Very Serious
+2023,OMN,Oman,MENA,155.0,37.87,163.0,"35,99",8.0,"33,82","66,11","36,25","15,09","38,07",Very Serious
+2023,PSE,Palestine,MENA,156.0,37.86,170.0,"28,98",14.0,"40,2","27,95","40,47","44,34","36,36",Very Serious
+2023,BLR,Belarus,EEAC,157.0,37.17,153.0,"39,62",-4.0,"47,67","29,45","32,34","28,07","48,3",Very Serious
+2023,NIC,Nicaragua,Amériques,158.0,37.09,160.0,"37,09",2.0,"45,49","31,65","35,81","28,21","44,32",Very Serious
+2023,VEN,Venezuela,Amériques,159.0,36.99,159.0,"37,78",0.0,"35,74","40,96","34,89","34,82","38,53",Very Serious
+2023,LAO,Laos,Asie-Pacifique,160.0,36.66,161.0,"36,64",1.0,"33,33","50,19","36,04","25,47","38,26",Very Serious
+2023,IND,India,Asie-Pacifique,161.0,36.62,150.0,41,-11.0,"34,15","27,12","33,65","42,92","45,27",Very Serious
+2023,DJI,Djibouti,Afrique,162.0,35.87,164.0,"35,75",2.0,"25,49","51,9","39,25","34,53","28,18",Very Serious
+2023,BGD,Bangladesh,Asie-Pacifique,163.0,35.31,162.0,"36,63",-1.0,"36,11","29,6","39,06","35,22","36,55",Very Serious
+2023,RUS,Russia,EEAC,164.0,34.77,155.0,"38,82",-9.0,"36,17","31,82","32,43","34,51","38,94",Very Serious
+2023,TUR,Türkiye,EEAC,165.0,33.97,149.0,"41,25",-16.0,"29,41","32,58","36,56","41,16","30,11",Very Serious
+2023,EGY,Egypt,MENA,166.0,33.37,168.0,"30,23",2.0,"31,96","31,02","29,63","34,72","39,55",Very Serious
+2023,IRQ,Iraq,MENA,167.0,32.94,172.0,"28,59",5.0,"28,04","29,9","39,25","31,13","36,36",Very Serious
+2023,YEM,Yemen,MENA,168.0,32.78,169.0,"29,14",1.0,"30,39","21,37","37,5","40,57","34,09",Very Serious
+2023,HND,Honduras,Amériques,169.0,32.65,165.0,"34,61",-4.0,"33,33","27,61",40,"39,94","22,37",Very Serious
+2023,SAU,Saudi Arabia,MENA,170.0,32.43,166.0,"33,71",-4.0,"33,33","39,8","37,19","21,7","30,11",Very Serious
+2023,BHR,Bahrain,MENA,171.0,30.59,167.0,"30,97",-4.0,"25,25","41,64","30,63","21,93","33,52",Very Serious
+2023,CUB,Cuba,Amériques,172.0,29.0,173.0,"27,32",1.0,"35,73","32,14","32,85","14,36","29,94",Very Serious
+2023,MMR,Myanmar,Asie-Pacifique,173.0,28.26,176.0,"25,03",3.0,"40,98","19,6","35,75","20,19","24,77",Very Serious
+2023,ERI,Eritrea,Afrique,174.0,27.86,179.0,"19,62",5.0,"26,96","29,61","33,13","23,43","26,16",Very Serious
+2023,SYR,Syria,MENA,175.0,27.22,171.0,"28,94",-4.0,"25,49","23,07","33,65","24,34","29,55",Very Serious
+2023,TKM,Turkmenistan,EEAC,176.0,25.82,177.0,"25,01",1.0,"20,39","46,53","23,25","29,62","9,32",Very Serious
+2023,IRN,Iran,MENA,177.0,24.81,178.0,"23,22",1.0,"30,51","23,62","33,67","20,17","16,06",Very Serious
+2023,VNM,Vietnam,Asie-Pacifique,178.0,24.58,174.0,"26,11",-4.0,"17,16","30,66","23,75","18,4","32,95",Very Serious
+2023,CHN,China,Asie-Pacifique,179.0,22.97,175.0,"25,17",-4.0,"29,51","24,87","26,06","17,36","17,07",Very Serious
+2023,PRK,North Korea,Asie-Pacifique,180.0,21.72,180.0,"13,92",0.0,"21,57","33,25","26,56","22,64","4,6",Very Serious
+2020,NOR,Norway,UE Balkans,1.0,92.16,1.0,"92,18",0.0,,,,,,Good
+2020,FIN,Finland,UE Balkans,2.0,92.07,2.0,"92,1",0.0,,,,,,Good
+2020,DNK,Denmark,UE Balkans,3.0,91.87,5.0,"90,13",2.0,,,,,,Good
+2020,SWE,Sweden,UE Balkans,4.0,90.75,3.0,"91,69",-1.0,,,,,,Good
+2020,NLD,Netherlands,UE Balkans,5.0,90.04,4.0,"91,37",-1.0,,,,,,Good
+2020,JAM,Jamaica,Amériques,6.0,89.49,8.0,"88,87",2.0,,,,,,Good
+2020,CRI,Costa Rica,Amériques,7.0,89.47,10.0,"87,76",3.0,,,,,,Good
+2020,CHE,Switzerland,UE Balkans,8.0,89.38,6.0,"89,48",-2.0,,,,,,Good
+2020,NZL,New Zealand,Asie-Pacifique,9.0,89.31,7.0,"89,25",-2.0,,,,,,Good
+2020,PRT,Portugal,UE Balkans,10.0,88.17,12.0,"87,37",2.0,,,,,,Good
+2020,DEU,Germany,UE Balkans,11.0,87.84,13.0,"85,4",2.0,,,,,,Good
+2020,BEL,Belgium,UE Balkans,12.0,87.43,9.0,"87,93",-3.0,,,,,,Good
+2020,IRL,Ireland,UE Balkans,13.0,87.4,15.0,85,2.0,,,,,,Good
+2020,EST,Estonia,UE Balkans,14.0,87.39,11.0,"87,73",-3.0,,,,,,Good
+2020,ISL,Iceland,UE Balkans,15.0,84.88,14.0,"85,29",-1.0,,,,,,Satisfactory
+2020,CAN,Canada,Amériques,16.0,84.71,18.0,"84,31",2.0,,,,,,Satisfactory
+2020,LUX,Luxembourg,UE Balkans,17.0,84.54,17.0,"84,34",0.0,,,,,,Satisfactory
+2020,AUT,Austria,UE Balkans,18.0,84.22,16.0,"84,67",-2.0,,,,,,Satisfactory
+2020,URY,Uruguay,Amériques,19.0,84.21,19.0,"83,94",0.0,,,,,,Satisfactory
+2020,SUR,Suriname,Amériques,20.0,82.5,20.0,"83,62",0.0,,,,,,Satisfactory
+2020,WSM,Samoa,Asie-Pacifique,21.0,81.75,22.0,"81,75",1.0,,,,,,Satisfactory
+2020,LVA,Latvia,UE Balkans,22.0,81.44,24.0,"80,47",2.0,,,,,,Satisfactory
+2020,NAM,Namibia,Afrique,23.0,80.75,23.0,"81,05",0.0,,,,,,Satisfactory
+2020,LIE,Liechtenstein,UE Balkans,24.0,80.48,26.0,"79,51",2.0,,,,,,Satisfactory
+2020,CPV,Cape Verde,Afrique,25.0,79.85,25.0,"80,19",0.0,,,,,,Satisfactory
+2020,AUS,Australia,Asie-Pacifique,26.0,79.79,21.0,"83,45",-5.0,,,,,,Satisfactory
+2020,CYP,Cyprus,UE Balkans,27.0,79.55,28.0,"78,26",1.0,,,,,,Satisfactory
+2020,LTU,Lithuania,UE Balkans,28.0,78.81,30.0,"77,94",2.0,,,,,,Satisfactory
+2020,ESP,Spain,UE Balkans,29.0,77.84,29.0,"78,01",0.0,,,,,,Satisfactory
+2020,GHA,Ghana,Afrique,30.0,77.74,27.0,"79,19",-3.0,,,,,,Satisfactory
+2020,ZAF,South Africa,Afrique,31.0,77.59,31.0,"77,81",0.0,,,,,,Satisfactory
+2020,SVN,Slovenia,UE Balkans,32.0,77.36,34.0,"77,69",2.0,,,,,,Satisfactory
+2020,SVK,Slovakia,UE Balkans,33.0,77.33,35.0,"76,42",2.0,,,,,,Satisfactory
+2020,FRA,France,UE Balkans,34.0,77.08,32.0,"77,79",-2.0,,,,,,Satisfactory
+2020,GBR,United Kingdom,UE Balkans,35.0,77.07,33.0,"77,77",-2.0,,,,,,Satisfactory
+2020,TTO,Trinidad and Tobago,Amériques,36.0,76.78,39.0,"75,26",3.0,,,,,,Satisfactory
+2020,AND,Andorra,UE Balkans,37.0,76.77,37.0,"75,37",0.0,,,,,,Satisfactory
+2020,BFA,Burkina Faso,Afrique,38.0,76.53,36.0,"75,47",-2.0,,,,,,Satisfactory
+2020,BWA,Botswana,Afrique,39.0,76.44,44.0,"74,91",5.0,,,,,,Satisfactory
+2020,CZE,Czech Republic,UE Balkans,40.0,76.43,40.0,"75,11",0.0,,,,,,Satisfactory
+2020,ITA,Italy,UE Balkans,41.0,76.31,43.0,"75,02",2.0,,,,,,Satisfactory
+2020,KOR,South Korea,Asie-Pacifique,42.0,76.3,41.0,"75,06",-1.0,,,,,,Satisfactory
+2020,TWN,Taiwan,Asie-Pacifique,43.0,76.24,42.0,"75,02",-1.0,,,,,,Satisfactory
+2020,XCD,OECS,Amériques,44.0,76.22,50.0,"73,96",6.0,,,,,,Satisfactory
+2020,USA,United States,Amériques,45.0,76.15,48.0,"74,31",3.0,,,,,,Satisfactory
+2020,PNG,Papua New Guinea,Asie-Pacifique,46.0,76.07,38.0,"75,3",-8.0,,,,,,Satisfactory
+2020,SEN,Senegal,Afrique,47.0,76.01,49.0,"74,19",2.0,,,,,,Satisfactory
+2020,ROU,Romania,UE Balkans,48.0,74.09,47.0,"74,33",-1.0,,,,,,Satisfactory
+2020,GUY,Guyana,Amériques,49.0,73.37,51.0,"73,37",2.0,,,,,,Satisfactory
+2020,TON,Tonga,Asie-Pacifique,50.0,72.73,45.0,"74,59",-5.0,,,,,,Satisfactory
+2020,CHL,Chile,Amériques,51.0,72.69,46.0,"74,35",-5.0,,,,,,Satisfactory
+2020,FJI,Fiji,Asie-Pacifique,52.0,72.59,52.0,"72,82",0.0,,,,,,Satisfactory
+2020,BLZ,Belize,Amériques,53.0,72.5,53.0,"72,5",0.0,,,,,,Satisfactory
+2020,MDG,Madagascar,Afrique,54.0,72.32,54.0,"72,24",0.0,,,,,,Satisfactory
+2020,DOM,Dominican Republic,Amériques,55.0,72.1,55.0,"72,1",0.0,,,,,,Satisfactory
+2020,MUS,Mauritius,Afrique,56.0,72.0,58.0,"71,54",2.0,,,,,,Satisfactory
+2020,NER,Niger,Afrique,57.0,71.75,66.0,"70,74",9.0,,,,,,Satisfactory
+2020,BIH,Bosnia and Herzegovina,UE Balkans,58.0,71.49,63.0,"70,98",5.0,,,,,,Satisfactory
+2020,HRV,Croatia,UE Balkans,59.0,71.49,64.0,"70,97",5.0,,,,,,Satisfactory
+2020,GEO,Georgia,EEAC,60.0,71.41,60.0,"71,02",0.0,,,,,,Satisfactory
+2020,ARM,Armenia,EEAC,61.0,71.4,61.0,"71,02",0.0,,,,,,Satisfactory
+2020,POL,Poland,UE Balkans,62.0,71.35,59.0,"71,11",-3.0,,,,,,Satisfactory
+2020,SYC,Seychelles,Afrique,63.0,71.34,69.0,"70,59",6.0,,,,,,Satisfactory
+2020,ARG,Argentina,Amériques,64.0,71.22,57.0,"71,7",-7.0,,,,,,Satisfactory
+2020,GRC,Greece,UE Balkans,65.0,71.2,65.0,"70,92",0.0,,,,,,Satisfactory
+2020,JPN,Japan,Asie-Pacifique,66.0,71.14,67.0,"70,64",1.0,,,,,,Satisfactory
+2020,BTN,Bhutan,Asie-Pacifique,67.0,71.1,80.0,"70,19",13.0,,,,,,Satisfactory
+2020,CIV,Ivory Coast,Afrique,68.0,71.06,71.0,"70,48",3.0,,,,,,Satisfactory
+2020,MWI,Malawi,Afrique,69.0,70.68,68.0,"70,64",-1.0,,,,,,Satisfactory
+2020,XKO,Kosovo,UE Balkans,70.0,70.67,75.0,"70,32",5.0,,,,,,Satisfactory
+2020,TGO,Togo,Afrique,71.0,70.67,76.0,"70,31",5.0,,,,,,Satisfactory
+2020,TUN,Tunisia,MENA,72.0,70.55,72.0,"70,39",0.0,,,,,,Satisfactory
+2020,MNG,Mongolia,Asie-Pacifique,73.0,70.39,70.0,"70,49",-3.0,,,,,,Satisfactory
+2020,SLV,El Salvador,Amériques,74.0,70.3,81.0,"70,19",7.0,,,,,,Satisfactory
+2020,COM,Comoros,Afrique,75.0,70.23,56.0,"72,09",-19.0,,,,,,Satisfactory
+2020,PAN,Panama,Amériques,76.0,70.22,79.0,"70,22",3.0,,,,,,Satisfactory
+2020,CTU,Cyprus North,UE Balkans,77.0,70.21,74.0,"70,33",-3.0,,,,,,Satisfactory
+2020,TLS,East Timor,Asie-Pacifique,78.0,70.1,84.0,"70,07",6.0,,,,,,Satisfactory
+2020,MDV,Maldives,Asie-Pacifique,79.0,70.07,98.0,"67,84",19.0,,,,,,Satisfactory
+2020,HKG,Hong Kong,Asie-Pacifique,80.0,69.99,73.0,"70,35",-7.0,,,,,,Problematic
+2020,MLT,Malta,UE Balkans,81.0,69.84,77.0,"70,26",-4.0,,,,,,Problematic
+2020,KGZ,Kyrgyzstan,EEAC,82.0,69.81,83.0,"70,08",1.0,,,,,,Problematic
+2020,HTI,Haiti,Amériques,83.0,69.8,62.0,71,-21.0,,,,,,Problematic
+2020,ALB,Albania,UE Balkans,84.0,69.75,82.0,"70,16",-2.0,,,,,,Problematic
+2020,SLE,Sierra Leone,Afrique,85.0,69.72,86.0,"69,64",1.0,,,,,,Problematic
+2020,LSO,Lesotho,Afrique,86.0,69.55,78.0,"70,26",-8.0,,,,,,Problematic
+2020,GMB,Gambia,Afrique,87.0,69.38,92.0,"68,65",5.0,,,,,,Problematic
+2020,HUN,Hungary,UE Balkans,89.0,69.16,87.0,"69,56",-2.0,,,,,,Problematic
+2020,ISR,Israel,MENA,88.0,69.16,88.0,"69,2",0.0,,,,,,Problematic
+2020,PER,Peru,Amériques,90.0,69.06,85.0,"69,78",-5.0,,,,,,Problematic
+2020,MDA,Moldova,EEAC,91.0,68.84,91.0,"68,79",0.0,,,,,,Problematic
+2020,MKD,North Macedonia,UE Balkans,92.0,68.72,95.0,"68,34",3.0,,,,,,Problematic
+2020,SRB,Serbia,UE Balkans,93.0,68.38,90.0,"68,82",-3.0,,,,,,Problematic
+2020,GNB,Guinea-Bissau,Afrique,94.0,67.94,89.0,"69,05",-5.0,,,,,,Problematic
+2020,LBR,Liberia,Afrique,95.0,67.75,93.0,"68,51",-2.0,,,,,,Problematic
+2020,UKR,Ukraine,EEAC,96.0,67.48,102.0,"67,54",6.0,,,,,,Problematic
+2020,MRT,Mauritania,Afrique,97.0,67.46,94.0,"68,35",-3.0,,,,,,Problematic
+2020,ECU,Ecuador,Amériques,98.0,67.38,97.0,"68,12",-1.0,,,,,,Problematic
+2020,ETH,Ethiopia,Afrique,99.0,67.18,110.0,"64,89",11.0,,,,,,Problematic
+2020,PRY,Paraguay,Amériques,100.0,67.03,99.0,"67,6",-1.0,,,,,,Problematic
+2020,MYS,Malaysia,Asie-Pacifique,101.0,66.88,123.0,"63,26",22.0,,,,,,Problematic
+2020,LBN,Lebanon,MENA,102.0,66.81,101.0,"67,56",-1.0,,,,,,Problematic
+2020,KEN,Kenya,Afrique,103.0,66.28,100.0,"67,56",-3.0,,,,,,Problematic
+2020,MOZ,Mozambique,Afrique,104.0,66.21,103.0,"67,34",-1.0,,,,,,Problematic
+2020,MNE,Montenegro,UE Balkans,105.0,66.17,104.0,"67,26",-1.0,,,,,,Problematic
+2020,AGO,Angola,Afrique,106.0,66.08,109.0,"65,04",3.0,,,,,,Problematic
+2020,BRA,Brazil,Amériques,107.0,65.95,105.0,"67,21",-2.0,,,,,,Problematic
+2020,MLI,Mali,Afrique,108.0,65.88,112.0,"64,77",4.0,,,,,,Problematic
+2020,KWT,Kuwait,MENA,109.0,65.7,108.0,"66,14",-1.0,,,,,,Problematic
+2020,GIN,Guinea,Afrique,110.0,65.66,107.0,"66,51",-3.0,,,,,,Problematic
+2020,BGR,Bulgaria,UE Balkans,111.0,64.94,111.0,"64,89",0.0,,,,,,Problematic
+2020,NPL,Nepal,Asie-Pacifique,112.0,64.9,106.0,"66,6",-6.0,,,,,,Problematic
+2020,BEN,Benin,Afrique,113.0,64.89,96.0,"68,26",-17.0,,,,,,Problematic
+2020,BOL,Bolivia,Amériques,114.0,64.63,113.0,"64,62",-1.0,,,,,,Problematic
+2020,NGA,Nigeria,Afrique,115.0,64.37,120.0,"63,5",5.0,,,,,,Problematic
+2020,GTM,Guatemala,Amériques,116.0,64.26,116.0,"64,06",0.0,,,,,,Problematic
+2020,NIC,Nicaragua,Amériques,117.0,64.19,114.0,"64,47",-3.0,,,,,,Problematic
+2020,COG,Congo,Afrique,118.0,63.44,117.0,"63,96",-1.0,,,,,,Problematic
+2020,IDN,Indonesia,Asie-Pacifique,119.0,63.18,124.0,"63,23",5.0,,,,,,Problematic
+2020,ZMB,Zambia,Afrique,120.0,63.0,119.0,"63,62",-1.0,,,,,,Problematic
+2020,GAB,Gabon,Afrique,121.0,62.8,115.0,"64,4",-6.0,,,,,,Problematic
+2020,AFG,Afghanistan,Asie-Pacifique,122.0,62.3,121.0,"63,45",-1.0,,,,,,Problematic
+2020,TCD,Chad,Afrique,123.0,60.3,122.0,"63,29",-1.0,,,,,,Problematic
+2020,TZA,Tanzania,Afrique,124.0,59.75,118.0,"63,72",-6.0,,,,,,Problematic
+2020,UGA,Uganda,Afrique,125.0,59.05,125.0,"60,58",0.0,,,,,,Problematic
+2020,ZWE,Zimbabwe,Afrique,126.0,59.05,127.0,"57,77",1.0,,,,,,Problematic
+2020,LKA,Sri Lanka,Asie-Pacifique,127.0,58.06,126.0,"60,39",-1.0,,,,,,Problematic
+2020,JOR,Jordan,MENA,128.0,57.92,130.0,"56,89",2.0,,,,,,Problematic
+2020,QAT,Qatar,MENA,129.0,57.49,128.0,"57,49",-1.0,,,,,,Problematic
+2020,COL,Colombia,Amériques,130.0,57.34,129.0,"57,18",-1.0,,,,,,Problematic
+2020,ARE,United Arab Emirates,MENA,131.0,57.31,133.0,"56,37",2.0,,,,,,Problematic
+2020,CAF,Central African Republic,Afrique,132.0,57.13,145.0,"52,73",13.0,,,,,,Problematic
+2020,MAR,Morocco,MENA,133.0,57.12,135.0,"56,02",2.0,,,,,,Problematic
+2020,CMR,Cameroon,Afrique,134.0,56.72,131.0,"56,68",-3.0,,,,,,Problematic
+2020,OMN,Oman,MENA,135.0,56.58,132.0,"56,58",-3.0,,,,,,Problematic
+2020,PHL,Philippines,Asie-Pacifique,136.0,56.46,134.0,"56,09",-2.0,,,,,,Problematic
+2020,PSE,Palestine,MENA,137.0,55.91,137.0,"55,32",0.0,,,,,,Problematic
+2020,SSD,South Sudan,Afrique,138.0,55.51,139.0,"54,35",1.0,,,,,,Problematic
+2020,MMR,Myanmar,Asie-Pacifique,139.0,55.23,138.0,"55,08",-1.0,,,,,,Problematic
+2020,THA,Thailand,Asie-Pacifique,140.0,55.06,136.0,"55,9",-4.0,,,,,,Problematic
+2020,SWZ,Eswatini,Afrique,141.0,54.85,147.0,"50,91",6.0,,,,,,Difficult
+2020,IND,India,Asie-Pacifique,142.0,54.67,140.0,"54,33",-2.0,,,,,,Difficult
+2020,MEX,Mexico,Amériques,143.0,54.55,144.0,"53,22",1.0,,,,,,Difficult
+2020,KHM,Cambodia,Asie-Pacifique,144.0,54.54,143.0,"54,1",-1.0,,,,,,Difficult
+2020,DZA,Algeria,MENA,146.0,54.48,141.0,"54,25",-5.0,,,,,,Difficult
+2020,PAK,Pakistan,Asie-Pacifique,145.0,54.48,142.0,"54,17",-3.0,,,,,,Difficult
+2020,VEN,Venezuela,Amériques,147.0,54.34,148.0,"50,9",1.0,,,,,,Difficult
+2020,HND,Honduras,Amériques,148.0,51.8,146.0,"51,47",-2.0,,,,,,Difficult
+2020,RUS,Russian Federation,EEAC,149.0,51.08,149.0,"49,69",0.0,,,,,,Difficult
+2020,COD,The Democratic Republic Of The Congo,Afrique,150.0,50.91,154.0,"48,29",4.0,,,,,,Difficult
+2020,BGD,Bangladesh,Asie-Pacifique,151.0,50.63,150.0,"49,26",-1.0,,,,,,Difficult
+2020,BRN,Brunei Darussalam,Asie-Pacifique,152.0,50.35,152.0,"48,52",0.0,,,,,,Difficult
+2020,BLR,Belarus,EEAC,153.0,50.25,153.0,"48,34",0.0,,,,,,Difficult
+2020,TUR,Turkey,EEAC,154.0,49.98,157.0,"47,19",3.0,,,,,,Difficult
+2020,RWA,Rwanda,Afrique,155.0,49.66,155.0,"47,57",0.0,,,,,,Difficult
+2020,UZB,Uzbekistan,EEAC,156.0,46.93,160.0,"46,48",4.0,,,,,,Difficult
+2020,KAZ,Kazakhstan,EEAC,157.0,45.89,158.0,"47,18",1.0,,,,,,Difficult
+2020,SGP,Singapore,Asie-Pacifique,158.0,44.77,151.0,"48,59",-7.0,,,,,,Difficult
+2020,BDI,Burundi,Afrique,160.0,44.67,159.0,"47,11",-1.0,,,,,,Difficult
+2020,SDN,Sudan,Afrique,159.0,44.67,175.0,"27,55",16.0,,,,,,Difficult
+2020,TJK,Tajikistan,EEAC,161.0,44.66,161.0,"45,98",0.0,,,,,,Difficult
+2020,IRQ,Iraq,MENA,162.0,44.63,156.0,"47,4",-6.0,,,,,,Difficult
+2020,SOM,Somalia,Afrique,163.0,44.55,164.0,"42,76",1.0,,,,,,Difficult
+2020,LBY,Libya,MENA,164.0,44.23,162.0,"44,23",-2.0,,,,,,Difficult
+2020,GNQ,Equatorial Guinea,Afrique,165.0,43.62,165.0,"41,65",0.0,,,,,,Difficult
+2020,EGY,Egypt,MENA,166.0,43.18,163.0,"43,53",-3.0,,,,,,Difficult
+2020,YEM,Yemen,MENA,167.0,41.75,168.0,"38,34",1.0,,,,,,Difficult
+2020,AZE,Azerbaijan,EEAC,168.0,41.52,166.0,"40,87",-2.0,,,,,,Difficult
+2020,BHR,Bahrain,MENA,169.0,39.87,167.0,"38,69",-2.0,,,,,,Very Serious
+2020,SAU,Saudi Arabia,MENA,170.0,37.86,172.0,"34,12",2.0,,,,,,Very Serious
+2020,CUB,Cuba,Amériques,171.0,36.19,169.0,"36,19",-2.0,,,,,,Very Serious
+2020,LAO,Lao People's Democratic Republic,Asie-Pacifique,172.0,35.72,171.0,"35,51",-1.0,,,,,,Very Serious
+2020,IRN,Islamic Republic of Iran,MENA,173.0,35.19,170.0,"35,59",-3.0,,,,,,Very Serious
+2020,SYR,Syrian Arab Republic,MENA,174.0,27.43,174.0,"28,22",0.0,,,,,,Very Serious
+2020,VNM,Vietnam,Asie-Pacifique,175.0,25.29,176.0,"25,07",1.0,,,,,,Very Serious
+2020,DJI,Djibouti,Afrique,176.0,23.27,173.0,"28,64",-3.0,,,,,,Very Serious
+2020,CHN,China,Asie-Pacifique,177.0,21.52,177.0,"21,08",0.0,,,,,,Very Serious
+2020,ERI,Eritrea,Afrique,178.0,16.5,178.0,"19,74",0.0,,,,,,Very Serious
+2020,TKM,Turkmenistan,EEAC,179.0,14.56,180.0,"14,56",1.0,,,,,,Very Serious
+2020,PRK,Democratic People's Republic of Korea,Asie-Pacifique,180.0,14.18,179.0,"16,6",-1.0,,,,,,Very Serious
+2021,NOR,Norway,UE Balkans,1.0,93.28,1.0,"92,16",0.0,,,,,,Good
+2021,FIN,Finland,UE Balkans,2.0,93.01,2.0,"92,07",0.0,,,,,,Good
+2021,SWE,Sweden,UE Balkans,3.0,92.76,4.0,"90,75",1.0,,,,,,Good
+2021,DNK,Denmark,UE Balkans,4.0,91.43,3.0,"91,87",-1.0,,,,,,Good
+2021,CRI,Costa Rica,Amériques,5.0,91.24,7.0,"89,47",2.0,,,,,,Good
+2021,NLD,Netherlands,UE Balkans,6.0,90.33,5.0,"90,04",-1.0,,,,,,Good
+2021,JAM,Jamaica,Amériques,7.0,90.04,6.0,"89,49",-1.0,,,,,,Good
+2021,NZL,New Zealand,Asie-Pacifique,8.0,89.96,9.0,"89,31",1.0,,,,,,Good
+2021,PRT,Portugal,UE Balkans,9.0,89.89,10.0,"88,17",1.0,,,,,,Good
+2021,CHE,Switzerland,UE Balkans,10.0,89.45,8.0,"89,38",-2.0,,,,,,Good
+2021,BEL,Belgium,UE Balkans,11.0,88.31,12.0,"87,43",1.0,,,,,,Good
+2021,IRL,Ireland,UE Balkans,12.0,88.09,13.0,"87,4",1.0,,,,,,Good
+2021,DEU,Germany,UE Balkans,13.0,84.76,11.0,"87,84",-2.0,,,,,,Satisfactory
+2021,CAN,Canada,Amériques,14.0,84.75,16.0,"84,71",2.0,,,,,,Satisfactory
+2021,EST,Estonia,UE Balkans,15.0,84.75,14.0,"87,39",-1.0,,,,,,Satisfactory
+2021,ISL,Iceland,UE Balkans,16.0,84.63,15.0,"84,88",-1.0,,,,,,Satisfactory
+2021,AUT,Austria,UE Balkans,17.0,83.66,18.0,"84,22",1.0,,,,,,Satisfactory
+2021,URY,Uruguay,Amériques,18.0,83.62,19.0,"84,21",1.0,,,,,,Satisfactory
+2021,SUR,Suriname,Amériques,19.0,83.05,20.0,"82,5",1.0,,,,,,Satisfactory
+2021,LUX,Luxembourg,UE Balkans,20.0,82.44,17.0,"84,54",-3.0,,,,,,Satisfactory
+2021,WSM,Samoa,Asie-Pacifique,21.0,80.76,21.0,"81,75",0.0,,,,,,Satisfactory
+2021,LVA,Latvia,UE Balkans,22.0,80.74,22.0,"81,44",0.0,,,,,,Satisfactory
+2021,LIE,Liechtenstein,UE Balkans,23.0,80.51,24.0,"80,48",1.0,,,,,,Satisfactory
+2021,NAM,Namibia,Afrique,24.0,80.28,23.0,"80,75",-1.0,,,,,,Satisfactory
+2021,AUS,Australia,Asie-Pacifique,25.0,80.21,26.0,"79,79",1.0,,,,,,Satisfactory
+2021,CYP,Cyprus,UE Balkans,26.0,80.15,27.0,"79,55",1.0,,,,,,Satisfactory
+2021,CPV,Cape Verde,Afrique,27.0,79.91,25.0,"79,85",-2.0,,,,,,Satisfactory
+2021,LTU,Lithuania,UE Balkans,28.0,79.85,28.0,"78,81",0.0,,,,,,Satisfactory
+2021,ESP,Spain,UE Balkans,29.0,79.56,29.0,"77,84",0.0,,,,,,Satisfactory
+2021,GHA,Ghana,Afrique,30.0,78.67,30.0,"77,74",0.0,,,,,,Satisfactory
+2021,TTO,Trinidad and Tobago,Amériques,31.0,78.45,36.0,"76,78",5.0,,,,,,Satisfactory
+2021,GBR,United Kingdom,UE Balkans,33.0,78.41,35.0,"77,07",2.0,,,,,,Satisfactory
+2021,ZAF,South Africa,Afrique,32.0,78.41,31.0,"77,59",-1.0,,,,,,Satisfactory
+2021,FRA,France,UE Balkans,34.0,77.4,34.0,"77,08",0.0,,,,,,Satisfactory
+2021,SVK,Slovakia,UE Balkans,35.0,76.98,33.0,"77,33",-2.0,,,,,,Satisfactory
+2021,SVN,Slovenia,UE Balkans,36.0,76.9,32.0,"77,36",-4.0,,,,,,Satisfactory
+2021,BFA,Burkina Faso,Afrique,37.0,76.83,38.0,"76,53",1.0,,,,,,Satisfactory
+2021,BWA,Botswana,Afrique,38.0,76.75,39.0,"76,44",1.0,,,,,,Satisfactory
+2021,AND,Andorra,UE Balkans,39.0,76.68,37.0,"76,77",-2.0,,,,,,Satisfactory
+2021,CZE,Czech Republic,UE Balkans,40.0,76.62,40.0,"76,43",0.0,,,,,,Satisfactory
+2021,ITA,Italy,UE Balkans,41.0,76.61,41.0,"76,31",0.0,,,,,,Satisfactory
+2021,KOR,South Korea,Asie-Pacifique,42.0,76.57,42.0,"76,3",0.0,,,,,,Satisfactory
+2021,TWN,Taiwan,Asie-Pacifique,43.0,76.14,43.0,"76,24",0.0,,,,,,Satisfactory
+2021,USA,United States,Amériques,44.0,76.07,45.0,"76,15",1.0,,,,,,Satisfactory
+2021,XCD,OECS,Amériques,45.0,76.02,44.0,"76,22",-1.0,,,,,,Satisfactory
+2021,TON,Tonga,Asie-Pacifique,46.0,75.41,50.0,"72,73",4.0,,,,,,Satisfactory
+2021,PNG,Papua New Guinea,Asie-Pacifique,47.0,75.12,46.0,"76,07",-1.0,,,,,,Satisfactory
+2021,ROU,Romania,UE Balkans,48.0,75.09,48.0,"74,09",0.0,,,,,,Satisfactory
+2021,SEN,Senegal,Afrique,49.0,74.78,47.0,"76,01",-2.0,,,,,,Satisfactory
+2021,DOM,Dominican Republic,Amériques,50.0,74.4,55.0,"72,1",5.0,,,,,,Satisfactory
+2021,GUY,Guyana,Amériques,51.0,74.39,49.0,"73,37",-2.0,,,,,,Satisfactory
+2021,SYC,Seychelles,Afrique,52.0,74.34,63.0,"71,34",11.0,,,,,,Satisfactory
+2021,BLZ,Belize,Amériques,53.0,72.39,53.0,"72,5",0.0,,,,,,Satisfactory
+2021,CHL,Chile,Amériques,54.0,72.11,51.0,"72,69",-3.0,,,,,,Satisfactory
+2021,FJI,Fiji,Asie-Pacifique,55.0,72.08,52.0,"72,59",-3.0,,,,,,Satisfactory
+2021,HRV,Croatia,UE Balkans,56.0,72.05,59.0,"71,49",3.0,,,,,,Satisfactory
+2021,MDG,Madagascar,Afrique,57.0,71.76,54.0,"72,32",-3.0,,,,,,Satisfactory
+2021,BIH,Bosnia and Herzegovina,UE Balkans,58.0,71.66,58.0,"71,49",0.0,,,,,,Satisfactory
+2021,NER,Niger,Afrique,59.0,71.56,57.0,"71,75",-2.0,,,,,,Satisfactory
+2021,GEO,Georgia,EEAC,60.0,71.36,60.0,"71,41",0.0,,,,,,Satisfactory
+2021,MUS,Mauritius,Afrique,61.0,71.26,56.0,72,-5.0,,,,,,Satisfactory
+2021,MWI,Malawi,Afrique,62.0,71.2,69.0,"70,68",7.0,,,,,,Satisfactory
+2021,ARM,Armenia,EEAC,63.0,71.17,61.0,"71,4",-2.0,,,,,,Satisfactory
+2021,POL,Poland,UE Balkans,64.0,71.16,62.0,"71,35",-2.0,,,,,,Satisfactory
+2021,BTN,Bhutan,Asie-Pacifique,65.0,71.14,67.0,"71,1",2.0,,,,,,Satisfactory
+2021,CIV,Ivory Coast,Afrique,66.0,71.13,68.0,"71,06",2.0,,,,,,Satisfactory
+2021,JPN,Japan,Asie-Pacifique,67.0,71.12,66.0,"71,14",-1.0,,,,,,Satisfactory
+2021,MNG,Mongolia,Asie-Pacifique,68.0,71.03,73.0,"70,39",5.0,,,,,,Satisfactory
+2021,ARG,Argentina,Amériques,69.0,71.01,64.0,"71,22",-5.0,,,,,,Satisfactory
+2021,GRC,Greece,UE Balkans,70.0,70.99,65.0,"71,2",-5.0,,,,,,Satisfactory
+2021,TLS,East Timor,Asie-Pacifique,71.0,70.89,78.0,"70,1",7.0,,,,,,Satisfactory
+2021,MDV,Maldives,Asie-Pacifique,72.0,70.87,79.0,"70,07",7.0,,,,,,Satisfactory
+2021,TUN,Tunisia,MENA,73.0,70.47,72.0,"70,55",-1.0,,,,,,Satisfactory
+2021,TGO,Togo,Afrique,74.0,70.41,71.0,"70,67",-3.0,,,,,,Satisfactory
+2021,SLE,Sierra Leone,Afrique,75.0,70.39,85.0,"69,72",10.0,,,,,,Satisfactory
+2021,CTU,Cyprus North,UE Balkans,76.0,70.18,77.0,"70,21",1.0,,,,,,Satisfactory
+2021,PAN,Panama,Amériques,77.0,70.06,76.0,"70,22",-1.0,,,,,,Satisfactory
+2021,XKO,Kosovo,UE Balkans,78.0,69.68,70.0,"70,67",-8.0,,,,,,Problematic
+2021,KGZ,Kyrgyzstan,EEAC,79.0,69.63,82.0,"69,81",3.0,,,,,,Problematic
+2021,HKG,Hong Kong,Asie-Pacifique,80.0,69.56,80.0,"69,99",0.0,,,,,,Problematic
+2021,MLT,Malta,UE Balkans,81.0,69.54,81.0,"69,84",0.0,,,,,,Problematic
+2021,SLV,El Salvador,Amériques,82.0,69.51,74.0,"70,3",-8.0,,,,,,Problematic
+2021,ALB,Albania,UE Balkans,83.0,69.41,84.0,"69,75",1.0,,,,,,Problematic
+2021,COM,Comoros,Afrique,84.0,69.35,75.0,"70,23",-9.0,,,,,,Problematic
+2021,GMB,Gambia,Afrique,85.0,69.24,87.0,"69,38",2.0,,,,,,Problematic
+2021,ISR,Israel,MENA,86.0,69.1,88.0,"69,16",2.0,,,,,,Problematic
+2021,HTI,Haiti,Amériques,87.0,68.88,83.0,"69,8",-4.0,,,,,,Problematic
+2021,LSO,Lesotho,Afrique,88.0,68.39,86.0,"69,55",-2.0,,,,,,Problematic
+2021,MDA,Moldova,EEAC,89.0,68.39,91.0,"68,84",2.0,,,,,,Problematic
+2021,MKD,North Macedonia,UE Balkans,90.0,68.33,92.0,"68,72",2.0,,,,,,Problematic
+2021,PER,Peru,Amériques,91.0,68.29,90.0,"69,06",-1.0,,,,,,Problematic
+2021,HUN,Hungary,UE Balkans,92.0,68.24,89.0,"69,16",-3.0,,,,,,Problematic
+2021,SRB,Serbia,UE Balkans,93.0,67.97,93.0,"68,38",0.0,,,,,,Problematic
+2021,MRT,Mauritania,Afrique,94.0,67.75,97.0,"67,46",3.0,,,,,,Problematic
+2021,GNB,Guinea-Bissau,Afrique,95.0,67.32,94.0,"67,94",-1.0,,,,,,Problematic
+2021,ECU,Ecuador,Amériques,96.0,67.17,98.0,"67,38",2.0,,,,,,Problematic
+2021,UKR,Ukraine,EEAC,97.0,67.04,96.0,"67,48",-1.0,,,,,,Problematic
+2021,LBR,Liberia,Afrique,98.0,66.64,95.0,"67,75",-3.0,,,,,,Problematic
+2021,MLI,Mali,Afrique,99.0,66.5,108.0,"65,88",9.0,,,,,,Problematic
+2021,PRY,Paraguay,Amériques,100.0,66.48,100.0,"67,03",0.0,,,,,,Problematic
+2021,ETH,Ethiopia,Afrique,101.0,66.37,99.0,"67,18",-2.0,,,,,,Problematic
+2021,KEN,Kenya,Afrique,102.0,66.35,103.0,"66,28",1.0,,,,,,Problematic
+2021,AGO,Angola,Afrique,103.0,65.94,106.0,"66,08",3.0,,,,,,Problematic
+2021,MNE,Montenegro,UE Balkans,104.0,65.67,105.0,"66,17",1.0,,,,,,Problematic
+2021,KWT,Kuwait,MENA,105.0,65.64,109.0,"65,7",4.0,,,,,,Problematic
+2021,NPL,Nepal,Asie-Pacifique,106.0,65.38,112.0,"64,9",6.0,,,,,,Problematic
+2021,LBN,Lebanon,MENA,107.0,65.07,102.0,"66,81",-5.0,,,,,,Problematic
+2021,MOZ,Mozambique,Afrique,108.0,64.61,104.0,"66,21",-4.0,,,,,,Problematic
+2021,GIN,Guinea,Afrique,109.0,64.58,110.0,"65,66",1.0,,,,,,Problematic
+2021,BOL,Bolivia,Amériques,110.0,64.53,114.0,"64,63",4.0,,,,,,Problematic
+2021,BRA,Brazil,Amériques,111.0,63.75,107.0,"65,95",-4.0,,,,,,Problematic
+2021,BGR,Bulgaria,UE Balkans,112.0,62.71,111.0,"64,94",-1.0,,,,,,Problematic
+2021,IDN,Indonesia,Asie-Pacifique,113.0,62.6,119.0,"63,18",6.0,,,,,,Problematic
+2021,BEN,Benin,Afrique,114.0,61.82,113.0,"64,89",-1.0,,,,,,Problematic
+2021,ZMB,Zambia,Afrique,115.0,61.79,120.0,63,5.0,,,,,,Problematic
+2021,GTM,Guatemala,Amériques,116.0,61.55,116.0,"64,26",0.0,,,,,,Problematic
+2021,GAB,Gabon,Afrique,117.0,61.4,121.0,"62,8",4.0,,,,,,Problematic
+2021,COG,Congo,Afrique,118.0,61.17,118.0,"63,44",0.0,,,,,,Problematic
+2021,MYS,Malaysia,Asie-Pacifique,119.0,60.53,101.0,"66,88",-18.0,,,,,,Problematic
+2021,NGA,Nigeria,Afrique,120.0,60.31,115.0,"64,37",-5.0,,,,,,Problematic
+2021,NIC,Nicaragua,Amériques,121.0,60.02,117.0,"64,19",-4.0,,,,,,Problematic
+2021,AFG,Afghanistan,Asie-Pacifique,122.0,59.81,122.0,"62,3",0.0,,,,,,Problematic
+2021,TCD,Chad,Afrique,123.0,59.8,123.0,"60,3",0.0,,,,,,Problematic
+2021,TZA,Tanzania,Afrique,124.0,59.31,124.0,"59,75",0.0,,,,,,Problematic
+2021,UGA,Uganda,Afrique,125.0,58.81,125.0,"59,05",0.0,,,,,,Problematic
+2021,CAF,Central African Republic,Afrique,126.0,58.08,132.0,"57,13",6.0,,,,,,Problematic
+2021,LKA,Sri Lanka,Asie-Pacifique,127.0,57.8,127.0,"58,06",0.0,,,,,,Problematic
+2021,QAT,Qatar,MENA,128.0,57.4,129.0,"57,49",1.0,,,,,,Problematic
+2021,JOR,Jordan,MENA,129.0,57.11,128.0,"57,92",-1.0,,,,,,Problematic
+2021,ZWE,Zimbabwe,Afrique,130.0,56.88,126.0,"59,05",-4.0,,,,,,Problematic
+2021,ARE,United Arab Emirates,MENA,131.0,56.87,131.0,"57,31",0.0,,,,,,Problematic
+2021,PSE,Palestine,MENA,132.0,56.82,137.0,"55,91",5.0,,,,,,Problematic
+2021,OMN,Oman,MENA,133.0,56.63,135.0,"56,58",2.0,,,,,,Problematic
+2021,COL,Colombia,Amériques,134.0,56.26,130.0,"57,34",-4.0,,,,,,Problematic
+2021,CMR,Cameroon,Afrique,135.0,56.22,134.0,"56,72",-1.0,,,,,,Problematic
+2021,MAR,Morocco,MENA,136.0,56.06,133.0,"57,12",-3.0,,,,,,Problematic
+2021,THA,Thailand,Asie-Pacifique,137.0,54.78,140.0,"55,06",3.0,,,,,,Difficult
+2021,PHL,Philippines,Asie-Pacifique,138.0,54.36,136.0,"56,46",-2.0,,,,,,Difficult
+2021,SSD,South Sudan,Afrique,139.0,54.22,138.0,"55,51",-1.0,,,,,,Difficult
+2021,MMR,Myanmar,Asie-Pacifique,140.0,53.86,139.0,"55,23",-1.0,,,,,,Difficult
+2021,SWZ,Eswatini,Afrique,141.0,53.66,141.0,"54,85",0.0,,,,,,Difficult
+2021,IND,India,Asie-Pacifique,142.0,53.44,142.0,"54,67",0.0,,,,,,Difficult
+2021,MEX,Mexico,Amériques,143.0,53.29,143.0,"54,55",0.0,,,,,,Difficult
+2021,KHM,Cambodia,Asie-Pacifique,144.0,53.16,144.0,"54,54",0.0,,,,,,Difficult
+2021,PAK,Pakistan,Asie-Pacifique,145.0,53.14,145.0,"54,48",0.0,,,,,,Difficult
+2021,DZA,Algeria,MENA,146.0,52.74,146.0,"54,48",0.0,,,,,,Difficult
+2021,BDI,Burundi,Afrique,147.0,52.43,160.0,"44,67",13.0,,,,,,Difficult
+2021,VEN,Venezuela,Amériques,148.0,52.4,147.0,"54,34",-1.0,,,,,,Difficult
+2021,COD,The Democratic Republic Of The Congo,Afrique,149.0,51.41,150.0,"50,91",1.0,,,,,,Difficult
+2021,RUS,Russian Federation,EEAC,150.0,51.29,149.0,"51,08",-1.0,,,,,,Difficult
+2021,HND,Honduras,Amériques,151.0,50.65,148.0,"51,8",-3.0,,,,,,Difficult
+2021,BGD,Bangladesh,Asie-Pacifique,152.0,50.29,151.0,"50,63",-1.0,,,,,,Difficult
+2021,TUR,Turkey,EEAC,153.0,50.21,154.0,"49,98",1.0,,,,,,Difficult
+2021,BRN,Brunei Darussalam,Asie-Pacifique,154.0,50.09,152.0,"50,35",-2.0,,,,,,Difficult
+2021,KAZ,Kazakhstan,EEAC,155.0,49.72,157.0,"45,89",2.0,,,,,,Difficult
+2021,RWA,Rwanda,Afrique,156.0,49.34,155.0,"49,66",-1.0,,,,,,Difficult
+2021,UZB,Uzbekistan,EEAC,157.0,49.26,156.0,"46,93",-1.0,,,,,,Difficult
+2021,BLR,Belarus,EEAC,158.0,49.18,153.0,"50,25",-5.0,,,,,,Difficult
+2021,SDN,Sudan,Afrique,159.0,47.07,159.0,"44,67",0.0,,,,,,Difficult
+2021,SGP,Singapore,Asie-Pacifique,160.0,44.8,158.0,"44,77",-2.0,,,,,,Difficult
+2021,SOM,Somalia,Afrique,161.0,44.53,163.0,"44,55",2.0,,,,,,Difficult
+2021,TJK,Tajikistan,EEAC,162.0,44.48,161.0,"44,66",-1.0,,,,,,Difficult
+2021,IRQ,Iraq,MENA,163.0,44.43,162.0,"44,63",-1.0,,,,,,Difficult
+2021,GNQ,Equatorial Guinea,Afrique,164.0,44.33,165.0,"43,62",1.0,,,,,,Difficult
+2021,LBY,Libya,MENA,165.0,44.27,164.0,"44,23",-1.0,,,,,,Difficult
+2021,EGY,Egypt,MENA,166.0,43.83,166.0,"43,18",0.0,,,,,,Difficult
+2021,AZE,Azerbaijan,EEAC,167.0,41.23,168.0,"41,52",1.0,,,,,,Difficult
+2021,BHR,Bahrain,MENA,168.0,38.9,169.0,"39,87",1.0,,,,,,Very Serious
+2021,YEM,Yemen,MENA,169.0,37.65,167.0,"41,75",-2.0,,,,,,Very Serious
+2021,SAU,Saudi Arabia,MENA,170.0,37.27,170.0,"37,86",0.0,,,,,,Very Serious
+2021,CUB,Cuba,Amériques,171.0,36.06,171.0,"36,19",0.0,,,,,,Very Serious
+2021,LAO,Lao People's Democratic Republic,Asie-Pacifique,172.0,29.44,172.0,"35,72",0.0,,,,,,Very Serious
+2021,SYR,Syrian Arab Republic,MENA,173.0,29.37,174.0,"27,43",1.0,,,,,,Very Serious
+2021,IRN,Islamic Republic of Iran,MENA,174.0,27.3,173.0,"35,19",-1.0,,,,,,Very Serious
+2021,VNM,Vietnam,Asie-Pacifique,175.0,21.54,175.0,"25,29",0.0,,,,,,Very Serious
+2021,DJI,Djibouti,Afrique,176.0,21.38,176.0,"23,27",0.0,,,,,,Very Serious
+2021,CHN,China,Asie-Pacifique,177.0,21.28,177.0,"21,52",0.0,,,,,,Very Serious
+2021,TKM,Turkmenistan,EEAC,178.0,19.97,179.0,"14,56",1.0,,,,,,Very Serious
+2021,PRK,Democratic People's Republic of Korea,Asie-Pacifique,179.0,18.72,180.0,"14,18",1.0,,,,,,Very Serious
+2021,ERI,Eritrea,Afrique,180.0,18.55,178.0,"16,5",-2.0,,,,,,Very Serious
+2019,NOR,Norway,UE Balkans,1.0,92.18,1.0,"92,37",0.0,,,,,,Good
+2019,FIN,Finland,UE Balkans,2.0,92.1,4.0,"89,74",2.0,,,,,,Good
+2019,SWE,Sweden,UE Balkans,3.0,91.69,2.0,"91,69",-1.0,,,,,,Good
+2019,NLD,Netherlands,UE Balkans,4.0,91.37,3.0,"89,99",-1.0,,,,,,Good
+2019,DNK,Denmark,UE Balkans,5.0,90.13,9.0,"86,01",4.0,,,,,,Good
+2019,CHE,Switzerland,UE Balkans,6.0,89.48,5.0,"88,73",-1.0,,,,,,Good
+2019,NZL,New Zealand,Asie-Pacifique,7.0,89.25,8.0,"86,38",1.0,,,,,,Good
+2019,JAM,Jamaica,Amériques,8.0,88.87,6.0,"88,67",-2.0,,,,,,Good
+2019,BEL,Belgium,UE Balkans,9.0,87.93,7.0,"86,84",-2.0,,,,,,Good
+2019,CRI,Costa Rica,Amériques,10.0,87.76,10.0,"85,99",0.0,,,,,,Good
+2019,EST,Estonia,UE Balkans,11.0,87.73,12.0,"85,92",1.0,,,,,,Good
+2019,PRT,Portugal,UE Balkans,12.0,87.37,14.0,"85,83",2.0,,,,,,Good
+2019,DEU,Germany,UE Balkans,13.0,85.4,15.0,"85,61",2.0,,,,,,Good
+2019,ISL,Iceland,UE Balkans,14.0,85.29,13.0,"85,9",-1.0,,,,,,Good
+2019,IRL,Ireland,UE Balkans,15.0,85.0,16.0,"85,41",1.0,,,,,,Good
+2019,AUT,Austria,UE Balkans,16.0,84.67,11.0,"85,96",-5.0,,,,,,Satisfactory
+2019,LUX,Luxembourg,UE Balkans,17.0,84.34,17.0,"85,28",0.0,,,,,,Satisfactory
+2019,CAN,Canada,Amériques,18.0,84.31,18.0,"84,72",0.0,,,,,,Satisfactory
+2019,URY,Uruguay,Amériques,19.0,83.94,20.0,"84,44",1.0,,,,,,Satisfactory
+2019,SUR,Suriname,Amériques,20.0,83.62,21.0,"83,56",1.0,,,,,,Satisfactory
+2019,AUS,Australia,Asie-Pacifique,21.0,83.45,19.0,"84,54",-2.0,,,,,,Satisfactory
+2019,WSM,Samoa,Asie-Pacifique,22.0,81.75,22.0,"83,31",0.0,,,,,,Satisfactory
+2019,NAM,Namibia,Afrique,23.0,81.05,26.0,"79,76",3.0,,,,,,Satisfactory
+2019,LVA,Latvia,UE Balkans,24.0,80.47,24.0,"80,37",0.0,,,,,,Satisfactory
+2019,CPV,Cape Verde,Afrique,25.0,80.19,29.0,"79,61",4.0,,,,,,Satisfactory
+2019,LIE,Liechtenstein,UE Balkans,26.0,79.51,30.0,"79,51",4.0,,,,,,Satisfactory
+2019,GHA,Ghana,Afrique,27.0,79.19,23.0,"81,59",-4.0,,,,,,Satisfactory
+2019,CYP,Cyprus,UE Balkans,28.0,78.26,25.0,"80,15",-3.0,,,,,,Satisfactory
+2019,ESP,Spain,UE Balkans,29.0,78.01,31.0,"79,49",2.0,,,,,,Satisfactory
+2019,LTU,Lithuania,UE Balkans,30.0,77.94,36.0,"77,8",6.0,,,,,,Satisfactory
+2019,ZAF,South Africa,Afrique,31.0,77.81,28.0,"79,61",-3.0,,,,,,Satisfactory
+2019,FRA,France,UE Balkans,32.0,77.79,33.0,"78,13",1.0,,,,,,Satisfactory
+2019,GBR,United Kingdom,UE Balkans,33.0,77.77,40.0,"76,75",7.0,,,,,,Satisfactory
+2019,SVN,Slovenia,UE Balkans,34.0,77.69,32.0,"78,31",-2.0,,,,,,Satisfactory
+2019,SVK,Slovakia,UE Balkans,35.0,76.42,27.0,"79,74",-8.0,,,,,,Satisfactory
+2019,BFA,Burkina Faso,Afrique,36.0,75.47,41.0,"76,67",5.0,,,,,,Satisfactory
+2019,AND,Andorra,UE Balkans,37.0,75.37,37.0,"77,79",0.0,,,,,,Satisfactory
+2019,PNG,Papua New Guinea,Asie-Pacifique,38.0,75.3,53.0,"73,81",15.0,,,,,,Satisfactory
+2019,TTO,Trinidad and Tobago,Amériques,39.0,75.26,39.0,"77,21",0.0,,,,,,Satisfactory
+2019,CZE,Czech Republic,UE Balkans,40.0,75.11,34.0,"78,11",-6.0,,,,,,Satisfactory
+2019,KOR,South Korea,Asie-Pacifique,41.0,75.06,43.0,"76,49",2.0,,,,,,Satisfactory
+2019,TWN,Taiwan,Asie-Pacifique,42.0,75.02,42.0,"76,64",0.0,,,,,,Satisfactory
+2019,ITA,Italy,UE Balkans,43.0,75.02,46.0,"75,88",3.0,,,,,,Satisfactory
+2019,BWA,Botswana,Afrique,44.0,74.91,48.0,"74,71",4.0,,,,,,Satisfactory
+2019,TON,Tonga,Asie-Pacifique,45.0,74.59,51.0,"74,32",6.0,,,,,,Satisfactory
+2019,CHL,Chile,Amériques,46.0,74.35,38.0,"77,31",-8.0,,,,,,Satisfactory
+2019,ROU,Romania,UE Balkans,47.0,74.33,44.0,"76,35",-3.0,,,,,,Satisfactory
+2019,USA,United States,Amériques,48.0,74.31,45.0,"76,27",-3.0,,,,,,Satisfactory
+2019,SEN,Senegal,Afrique,49.0,74.19,50.0,"74,39",1.0,,,,,,Satisfactory
+2019,XCD,OECS,Amériques,50.0,73.96,35.0,"77,89",-15.0,,,,,,Satisfactory
+2019,GUY,Guyana,Amériques,51.0,73.37,55.0,"73,75",4.0,,,,,,Satisfactory
+2019,FJI,Fiji,Asie-Pacifique,52.0,72.82,57.0,"73,45",5.0,,,,,,Satisfactory
+2019,BLZ,Belize,Amériques,53.0,72.5,47.0,"75,45",-6.0,,,,,,Satisfactory
+2019,MDG,Madagascar,Afrique,54.0,72.24,54.0,"73,8",0.0,,,,,,Satisfactory
+2019,DOM,Dominican Republic,Amériques,55.0,72.1,59.0,"73,21",4.0,,,,,,Satisfactory
+2019,COM,Comoros,Afrique,56.0,72.09,49.0,"74,7",-7.0,,,,,,Satisfactory
+2019,ARG,Argentina,Amériques,57.0,71.7,52.0,"73,95",-5.0,,,,,,Satisfactory
+2019,MUS,Mauritius,Afrique,58.0,71.54,56.0,"73,55",-2.0,,,,,,Satisfactory
+2019,POL,Poland,UE Balkans,59.0,71.11,58.0,"73,41",-1.0,,,,,,Satisfactory
+2019,GEO,Georgia,EEAC,60.0,71.02,61.0,"72,66",1.0,,,,,,Satisfactory
+2019,ARM,Armenia,EEAC,61.0,71.02,80.0,"70,01",19.0,,,,,,Satisfactory
+2019,HTI,Haiti,Amériques,62.0,71.0,60.0,"73,18",-2.0,,,,,,Satisfactory
+2019,BIH,Bosnia and Herzegovina,UE Balkans,63.0,70.98,62.0,"72,63",-1.0,,,,,,Satisfactory
+2019,HRV,Croatia,UE Balkans,64.0,70.97,69.0,"71,06",5.0,,,,,,Satisfactory
+2019,GRC,Greece,UE Balkans,65.0,70.92,74.0,"70,81",9.0,,,,,,Satisfactory
+2019,NER,Niger,Afrique,66.0,70.74,63.0,"72,6",-3.0,,,,,,Satisfactory
+2019,JPN,Japan,Asie-Pacifique,67.0,70.64,67.0,"71,36",0.0,,,,,,Satisfactory
+2019,MWI,Malawi,Afrique,68.0,70.64,64.0,"72,57",-4.0,,,,,,Satisfactory
+2019,SYC,Seychelles,Afrique,69.0,70.59,85.0,"69,83",16.0,,,,,,Satisfactory
+2019,MNG,Mongolia,Asie-Pacifique,70.0,70.49,71.0,"70,95",1.0,,,,,,Satisfactory
+2019,CIV,Ivory Coast,Afrique,71.0,70.48,82.0,"69,92",11.0,,,,,,Satisfactory
+2019,TUN,Tunisia,MENA,72.0,70.39,97.0,"69,09",25.0,,,,,,Satisfactory
+2019,HKG,Hong Kong,Asie-Pacifique,73.0,70.35,70.0,"70,96",-3.0,,,,,,Satisfactory
+2019,CTU,Cyprus North,UE Balkans,74.0,70.33,77.0,"70,41",3.0,,,,,,Satisfactory
+2019,XKO,Kosovo,UE Balkans,75.0,70.32,78.0,"70,39",3.0,,,,,,Satisfactory
+2019,TGO,Togo,Afrique,76.0,70.31,86.0,"69,77",10.0,,,,,,Satisfactory
+2019,MLT,Malta,UE Balkans,77.0,70.26,65.0,"72,56",-12.0,,,,,,Satisfactory
+2019,LSO,Lesotho,Afrique,78.0,70.26,68.0,"71,22",-10.0,,,,,,Satisfactory
+2019,PAN,Panama,Amériques,79.0,70.22,91.0,"69,44",12.0,,,,,,Satisfactory
+2019,BTN,Bhutan,Asie-Pacifique,80.0,70.19,94.0,"69,27",14.0,,,,,,Satisfactory
+2019,SLV,El Salvador,Amériques,81.0,70.19,66.0,"72,22",-15.0,,,,,,Satisfactory
+2019,ALB,Albania,UE Balkans,82.0,70.16,75.0,"70,51",-7.0,,,,,,Satisfactory
+2019,KGZ,Kyrgyzstan,EEAC,83.0,70.08,98.0,69,15.0,,,,,,Satisfactory
+2019,TLS,East Timor,Asie-Pacifique,84.0,70.07,95.0,"69,19",11.0,,,,,,Satisfactory
+2019,PER,Peru,Amériques,85.0,69.78,88.0,"69,73",3.0,,,,,,Problematic
+2019,SLE,Sierra Leone,Afrique,86.0,69.64,79.0,"70,02",-7.0,,,,,,Problematic
+2019,HUN,Hungary,UE Balkans,87.0,69.56,73.0,"70,89",-14.0,,,,,,Problematic
+2019,ISR,Israel,MENA,88.0,69.2,87.0,"69,74",-1.0,,,,,,Problematic
+2019,GNB,Guinea-Bissau,Afrique,89.0,69.05,83.0,"69,91",-6.0,,,,,,Problematic
+2019,SRB,Serbia,UE Balkans,90.0,68.82,76.0,"70,42",-14.0,,,,,,Problematic
+2019,MDA,Moldova,EEAC,91.0,68.79,81.0,"69,99",-10.0,,,,,,Problematic
+2019,GMB,Gambia,Afrique,92.0,68.65,122.0,"61,64",30.0,,,,,,Problematic
+2019,LBR,Liberia,Afrique,93.0,68.51,89.0,"69,67",-4.0,,,,,,Problematic
+2019,MRT,Mauritania,Afrique,94.0,68.35,72.0,"70,91",-22.0,,,,,,Problematic
+2019,MKD,North Macedonia,UE Balkans,95.0,68.34,109.0,"67,57",14.0,,,,,,Problematic
+2019,BEN,Benin,Afrique,96.0,68.26,84.0,"69,84",-12.0,,,,,,Problematic
+2019,ECU,Ecuador,Amériques,97.0,68.12,92.0,"69,44",-5.0,,,,,,Problematic
+2019,MDV,Maldives,Asie-Pacifique,98.0,67.84,120.0,"62,05",22.0,,,,,,Problematic
+2019,PRY,Paraguay,Amériques,99.0,67.6,107.0,"67,68",8.0,,,,,,Problematic
+2019,KEN,Kenya,Afrique,100.0,67.56,96.0,"69,18",-4.0,,,,,,Problematic
+2019,LBN,Lebanon,MENA,101.0,67.56,100.0,"68,85",-1.0,,,,,,Problematic
+2019,UKR,Ukraine,EEAC,102.0,67.54,101.0,"68,84",-1.0,,,,,,Problematic
+2019,MOZ,Mozambique,Afrique,103.0,67.34,99.0,"68,88",-4.0,,,,,,Problematic
+2019,MNE,Montenegro,UE Balkans,104.0,67.26,103.0,"68,79",-1.0,,,,,,Problematic
+2019,BRA,Brazil,Amériques,105.0,67.21,102.0,"68,8",-3.0,,,,,,Problematic
+2019,NPL,Nepal,Asie-Pacifique,106.0,66.6,106.0,"67,95",0.0,,,,,,Problematic
+2019,GIN,Guinea,Afrique,107.0,66.51,104.0,"68,1",-3.0,,,,,,Problematic
+2019,KWT,Kuwait,MENA,108.0,66.14,105.0,"68,09",-3.0,,,,,,Problematic
+2019,AGO,Angola,Afrique,109.0,65.04,121.0,"61,65",12.0,,,,,,Problematic
+2019,ETH,Ethiopia,Afrique,110.0,64.89,150.0,"49,83",40.0,,,,,,Problematic
+2019,BGR,Bulgaria,UE Balkans,111.0,64.89,111.0,"64,78",0.0,,,,,,Problematic
+2019,MLI,Mali,Afrique,112.0,64.77,115.0,"63,85",3.0,,,,,,Problematic
+2019,BOL,Bolivia,Amériques,113.0,64.62,110.0,"67,55",-3.0,,,,,,Problematic
+2019,NIC,Nicaragua,Amériques,114.0,64.47,90.0,"69,59",-24.0,,,,,,Problematic
+2019,GAB,Gabon,Afrique,115.0,64.4,108.0,"67,63",-7.0,,,,,,Problematic
+2019,GTM,Guatemala,Amériques,116.0,64.06,116.0,"63,83",0.0,,,,,,Problematic
+2019,COG,Congo,Afrique,117.0,63.96,114.0,"64,58",-3.0,,,,,,Problematic
+2019,TZA,Tanzania,Afrique,118.0,63.72,93.0,"69,35",-25.0,,,,,,Problematic
+2019,ZMB,Zambia,Afrique,119.0,63.62,113.0,"64,64",-6.0,,,,,,Problematic
+2019,NGA,Nigeria,Afrique,120.0,63.5,119.0,"62,59",-1.0,,,,,,Problematic
+2019,AFG,Afghanistan,Asie-Pacifique,121.0,63.45,118.0,"62,72",-3.0,,,,,,Problematic
+2019,TCD,Chad,Afrique,122.0,63.29,123.0,"61,55",1.0,,,,,,Problematic
+2019,MYS,Malaysia,Asie-Pacifique,123.0,63.26,145.0,"52,59",22.0,,,,,,Problematic
+2019,IDN,Indonesia,Asie-Pacifique,124.0,63.23,124.0,"60,32",0.0,,,,,,Problematic
+2019,UGA,Uganda,Afrique,125.0,60.58,117.0,"63,23",-8.0,,,,,,Problematic
+2019,LKA,Sri Lanka,Asie-Pacifique,126.0,60.39,131.0,"58,63",5.0,,,,,,Problematic
+2019,ZWE,Zimbabwe,Afrique,127.0,57.77,126.0,"59,47",-1.0,,,,,,Problematic
+2019,QAT,Qatar,MENA,128.0,57.49,125.0,"59,84",-3.0,,,,,,Problematic
+2019,COL,Colombia,Amériques,129.0,57.18,130.0,"58,97",1.0,,,,,,Problematic
+2019,JOR,Jordan,MENA,130.0,56.89,132.0,"58,29",2.0,,,,,,Problematic
+2019,CMR,Cameroon,Afrique,131.0,56.68,129.0,"59,08",-2.0,,,,,,Problematic
+2019,OMN,Oman,MENA,132.0,56.58,127.0,"59,33",-5.0,,,,,,Problematic
+2019,ARE,United Arab Emirates,MENA,133.0,56.37,128.0,"59,14",-5.0,,,,,,Problematic
+2019,PHL,Philippines,Asie-Pacifique,134.0,56.09,133.0,"57,47",-1.0,,,,,,Problematic
+2019,MAR,Morocco,MENA,135.0,56.02,135.0,"56,87",0.0,,,,,,Problematic
+2019,THA,Thailand,Asie-Pacifique,136.0,55.9,140.0,"55,69",4.0,,,,,,Problematic
+2019,PSE,Palestine,MENA,137.0,55.32,134.0,"57,04",-3.0,,,,,,Problematic
+2019,MMR,Myanmar,Asie-Pacifique,138.0,55.08,137.0,"56,85",-1.0,,,,,,Problematic
+2019,SSD,South Sudan,Afrique,139.0,54.35,144.0,"53,12",5.0,,,,,,Difficult
+2019,IND,India,Asie-Pacifique,140.0,54.33,138.0,"56,76",-2.0,,,,,,Difficult
+2019,DZA,Algeria,MENA,141.0,54.25,136.0,"56,87",-5.0,,,,,,Difficult
+2019,PAK,Pakistan,Asie-Pacifique,142.0,54.17,139.0,"56,76",-3.0,,,,,,Difficult
+2019,KHM,Cambodia,Asie-Pacifique,143.0,54.1,142.0,"54,1",-1.0,,,,,,Difficult
+2019,MEX,Mexico,Amériques,144.0,53.22,147.0,"51,09",3.0,,,,,,Difficult
+2019,CAF,Central African Republic,Afrique,145.0,52.73,112.0,"64,75",-33.0,,,,,,Difficult
+2019,HND,Honduras,Amériques,146.0,51.47,141.0,"54,77",-5.0,,,,,,Difficult
+2019,SWZ,Eswatini,Afrique,147.0,50.91,152.0,"48,54",5.0,,,,,,Difficult
+2019,VEN,Venezuela,Amériques,148.0,50.9,143.0,"53,97",-5.0,,,,,,Difficult
+2019,RUS,Russian Federation,EEAC,149.0,49.69,148.0,"50,04",-1.0,,,,,,Difficult
+2019,BGD,Bangladesh,Asie-Pacifique,150.0,49.26,146.0,"51,38",-4.0,,,,,,Difficult
+2019,SGP,Singapore,Asie-Pacifique,151.0,48.59,151.0,"49,05",0.0,,,,,,Difficult
+2019,BRN,Brunei Darussalam,Asie-Pacifique,152.0,48.52,153.0,"48,52",1.0,,,,,,Difficult
+2019,BLR,Belarus,EEAC,153.0,48.34,155.0,"47,41",2.0,,,,,,Difficult
+2019,COD,The Democratic Republic Of The Congo,Afrique,154.0,48.29,154.0,"48,4",0.0,,,,,,Difficult
+2019,RWA,Rwanda,Afrique,155.0,47.57,156.0,"47,1",1.0,,,,,,Difficult
+2019,IRQ,Iraq,MENA,156.0,47.4,160.0,"43,44",4.0,,,,,,Difficult
+2019,TUR,Turkey,EEAC,157.0,47.19,157.0,"46,5",0.0,,,,,,Difficult
+2019,KAZ,Kazakhstan,EEAC,158.0,47.18,158.0,"45,59",0.0,,,,,,Difficult
+2019,BDI,Burundi,Afrique,159.0,47.11,159.0,"44,74",0.0,,,,,,Difficult
+2019,UZB,Uzbekistan,EEAC,160.0,46.48,165.0,"39,16",5.0,,,,,,Difficult
+2019,TJK,Tajikistan,EEAC,161.0,45.98,149.0,"49,94",-12.0,,,,,,Difficult
+2019,LBY,Libya,MENA,162.0,44.23,162.0,"43,21",0.0,,,,,,Difficult
+2019,EGY,Egypt,MENA,163.0,43.53,161.0,"43,28",-2.0,,,,,,Difficult
+2019,SOM,Somalia,Afrique,164.0,42.76,168.0,"36,96",4.0,,,,,,Difficult
+2019,GNQ,Equatorial Guinea,Afrique,165.0,41.65,171.0,"33,53",6.0,,,,,,Difficult
+2019,AZE,Azerbaijan,EEAC,166.0,40.87,163.0,"40,27",-3.0,,,,,,Difficult
+2019,BHR,Bahrain,MENA,167.0,38.69,166.0,"39,15",-1.0,,,,,,Very Serious
+2019,YEM,Yemen,MENA,168.0,38.34,167.0,"37,77",-1.0,,,,,,Very Serious
+2019,CUB,Cuba,Amériques,169.0,36.19,172.0,"31,1",3.0,,,,,,Very Serious
+2019,IRN,Islamic Republic of Iran,MENA,170.0,35.59,164.0,"39,29",-6.0,,,,,,Very Serious
+2019,LAO,Lao People's Democratic Republic,Asie-Pacifique,171.0,35.51,170.0,"33,59",-1.0,,,,,,Very Serious
+2019,SAU,Saudi Arabia,MENA,172.0,34.12,169.0,"36,87",-3.0,,,,,,Very Serious
+2019,DJI,Djibouti,Afrique,173.0,28.64,173.0,"29,23",0.0,,,,,,Very Serious
+2019,SYR,Syrian Arab Republic,MENA,174.0,28.22,177.0,"20,78",3.0,,,,,,Very Serious
+2019,SDN,Sudan,Afrique,175.0,27.55,174.0,"28,87",-1.0,,,,,,Very Serious
+2019,VNM,Vietnam,Asie-Pacifique,176.0,25.07,175.0,"24,95",-1.0,,,,,,Very Serious
+2019,CHN,China,Asie-Pacifique,177.0,21.08,176.0,"21,71",-1.0,,,,,,Very Serious
+2019,ERI,Eritrea,Afrique,178.0,19.74,179.0,"15,76",1.0,,,,,,Very Serious
+2019,PRK,Democratic People's Republic of Korea,Asie-Pacifique,179.0,16.6,180.0,"11,13",1.0,,,,,,Very Serious
+2019,TKM,Turkmenistan,EEAC,180.0,14.56,178.0,"15,8",-2.0,,,,,,Very Serious

@@ -1,0 +1,58 @@
+---
+title: ""
+execute: 
+  echo: false
+---
+
+```{r}
+#| message: false
+library(tidyverse)
+library(tutorial.helpers)
+library(dplyr)
+
+change <- read.csv("press_freedom_clean.csv")
+change$Year <- as.factor(change$Year)
+```
+
+```{r}
+change |> 
+  ggplot(aes(x = Year, y = Score))+
+  geom_boxplot() +
+  labs(title = "Average Press Freedom Index per Year")
+```
+
+```{r}
+average_score <- change |>
+                   group_by(Year) |>
+                      summarise(average_scores = mean(Score, na.rm = TRUE))
+
+average_score$Year <- as.numeric(as.character(average_score$Year))
+
+average_score |> ggplot(aes(x = Year, y = average_scores)) +
+                 geom_point(color = "red", size = 15, alpha = 0.25) +
+                 geom_line(color = "blue") + 
+                 labs(title = "Further Simplified: Average Press Freedom Index per Year",
+                      x = "Year",
+                      y = "Average Score") +
+                 ylim(50, 70)
+```
+
+```{r}
+#| warning: FALSE
+press <- read.csv("press_freedom_clean.csv")
+press$Situation <- as.character(press$Situation)
+press$Year..N. <- as.numeric(as.character(press$Year..N.))
+press$Country <- as.character(press$Country)
+
+aggregated_data <- press|>
+                    group_by(Year..N., Situation) |>
+                    summarise(count = n()) 
+
+aggregated_data |>
+  ggplot(aes(x = Year..N., y = count, group = Situation, color = Situation)) +
+  geom_line() +
+  ylim(10, 70) +
+  labs(x = "Year",
+       title = "Overall Group Trends from 2014-2023")
+```
+

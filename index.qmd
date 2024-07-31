@@ -1,0 +1,82 @@
+---
+title: "Freedom Of Press Index"
+execute:
+  echo: false
+---
+
+Imagine being unable to speak freely, to spread information freely, to have your every action monitored. For countries that have a low Freedom Press Index, this is the reality that many journalists have to face. The importance of this index can not be refuted; it speaks to the freedom of speech that a country gives to its citizens. However, global press freedom has been on a decline since 2020, a worrisome trend.
+
+```{r}
+#| message: false
+#| warning: false
+library(dplyr)
+library(tidyverse)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(leaflet)
+
+press <- read.csv("RSB_DataSet.csv")
+press$Score <- as.numeric(press$Score)
+press <- press |>
+          add_row(Ranking = 3, Country = "Greenland", Score = 89.48, Political.Context = 91.95, Economic.Context = 85.17, Legal.Framework = 87.5, Safety.Score = 95, Sociocultural.Context = 87.78,Difference.In.Position.From.2022 = -1)
+
+name_mapping <- c("Türkiye" = "Turkey",
+                  "Timor-Leste" = "East Timor",
+                  "Czech Republic" = "Czechia",
+                  "Tanzania" = "United Republic of Tanzania",
+                  "Eswatini" = "eSwatini",
+                  "Democratic Republic of Congo" = "Democratic Republic of the Congo",
+                  "Congo-Brazzaville" = "Republic of the Congo",
+                  "Bosnia-Herzegovina" = "Bosnia and Herzegovina",
+                  "Guinea Bissau" = "Guinea-Bissau",
+                  "Haïti" = "Haiti",
+                  "São Tomé and Príncipe" = "São Tomé and Principe",
+                  "Hong Kong" = "Hong Kong S.A.R.",
+                  "Morocco / Western Sahara" = "Morocco",
+                  "East Timor" = "Timor-Leste",
+                  "Czechia" = "Czech Republic",
+                  "United States" = "United States of America",
+                  "OECS" = "eastern Caribbean States",
+                  "T\xfcrkiye" = "Turkey")
+press$Country <- recode(press$Country, !!!name_mapping)
+
+world <- ne_countries(scale = "medium", returnclass = "sf")
+world <- world |>
+          left_join(press, by = c("admin" = "Country"))
+```
+
+```{r}
+leaflet(world) %>%
+  addTiles() %>%
+  addPolygons(
+    fillColor = ~colorNumeric("viridis", Score)(Score),
+    weight = 1,
+    opacity = 1,
+    color = "white",
+    dashArray = "3",
+    fillOpacity = 0.7,
+    highlight = highlightOptions(
+      weight = 5,
+      color = "#666",
+      dashArray = "",
+      fillOpacity = 0.7,
+      bringToFront = TRUE
+    ),
+    label = ~paste("Country: ", admin, 
+                   "Score: ", Score, 
+                   "Rank: ", Ranking),
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "15px",
+      direction = "auto"
+    )
+  ) %>%
+  addLegend(
+    pal = colorNumeric("viridis", NULL),
+    values = ~Score,
+    opacity = 0.7,
+    title = "Press Freedom Index Score",
+    position = "bottomright") %>%
+  setView(lng = 0, lat = 20, zoom = 2) 
+```
+

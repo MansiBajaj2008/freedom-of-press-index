@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Hello! My name is Mansi Bajaj, and I'm a student at Metea Valley High School!
+
+Github project link: [freedom-of-press-index](https://github.com/MansiBajaj2008/freedom-of-press-index)
+
+Github account: [MansiBajaj2008](https://github.com/MansiBajaj2008)
+
+This project was created as a part of [Kane's Data Science Bootcamp](https://bootcamp.davidkane.info/)
